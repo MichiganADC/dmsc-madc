@@ -1,2 +1,2 @@
-# data-management-and-statistical-core.github.io
-Public GitHub Site for resources from the Michigan Alzheimer's Disease Center's Data Management and Statistical Core
+# Data Management and Statistical Core
+Public GitHub Site showcasing resources from the Data Management and Statistical Core at the Michigan Alzheimer's Disease Center.

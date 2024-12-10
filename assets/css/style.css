@@ -1,0 +1,11 @@
+/* syle.css */
+body {
+    margin: 50px 250px;
+    padding: 10px;
+    font-family: 'IBM Plex super family';
+}
+
+hr {
+    border-top: 1px solid #00274C;
+  }
+  
