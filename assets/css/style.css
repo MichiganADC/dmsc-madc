@@ -1,11 +1,125 @@
 /* syle.css */
 body {
-    margin: 50px 250px;
+    line-height: 1.3;
+    margin: 5%;
     padding: 10px;
-    font-family: 'IBM Plex super family';
+    font-weight: 200;
+    font-family: IBM Plex Serif;
 }
 
 hr {
     border-top: 1px solid #00274C;
   }
-  
+
+.skip {
+    position: absolute;
+    left: -1000px;
+
+}
+
+.skip:focus {
+    left: 350px;
+    top: 15px;
+    padding: 10px;
+    color: #00274C;
+    outline: none;
+    font-weight: 400;
+}
+
+a {
+    text-decoration: none;
+}
+
+header {
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+body > header > nav > ul {
+    display: inline-flex;
+    flex-direction: row-reverse;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+body > header > nav > ul > li {
+    padding: 5px;
+    font-size: 18px;
+}
+
+.site-title {
+    font-size: 24pt;
+    font-weight: 400;
+    text-decoration: none;
+    color: #00274C;
+    justify-content: left;
+}
+
+nav a.active,
+nav a:hover  {
+    color: #00274C;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+}
+
+nav a:visited {
+    color: #00274C;
+}
+
+h2 {
+    font-size: 28pt;
+    color: #00274C;
+    font-weight: 800;
+}
+
+h3 {
+    font-size: 20pt;
+    color: #00274C;
+    font-weight: 600;
+}
+
+p {
+    font-size: 12pt;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#mainstuff > ul {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: space-between;
+    justify-content:flex-start
+    align-items: center
+}
+
+#mainstuff > ul >li {padding: 15px;}
+
+#caption {
+    text-align: center;
+    font-size: 11pt;
+}
+
+#home-logo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+#logo {
+    width: 40%;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin: 50px;
+}
+
+#hub {
+    width: 60%;
+}
+
+
+footer {color:#00274C}
