@@ -93,8 +93,8 @@ p {
     flex-direction: row;
     flex-wrap: wrap;
     align-content: space-between;
-    justify-content:flex-start
-    align-items: center
+    justify-content:flex-start;
+    align-items: center;
 }
 
 #mainstuff > ul >li {padding: 15px;}
