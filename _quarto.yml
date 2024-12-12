@@ -1,0 +1,41 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Data Management and Statistical Core"
+  favicon: assets/images/favicon_io/favicon-16x16.png
+  repo-url: https://github.com/MichiganADC/dmsc-madc
+  page-navigation: true
+  reader-mode: true
+  back-to-top-navigation: true
+  navbar:
+    logo: assets\images\favicon_io\favicon-32x32.png
+    collapse: true
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+  page-footer:
+      center:
+        - text: "©2024 Michigan Alzheimer's Disease Center. All Rights Reserved."
+      right:
+        - icon: github
+          href: https://github.com/MichiganADC
+          aria-label: GitHub
+        - icon: globe
+          href: https://medresearch.umich.edu/labs-departments/centers/madc
+          aria-label: Website
+        - icon: book
+          href: https://bit.ly/madc-learn
+          aria-label: MADC Learning Resource Library
+
+format:
+  html:
+    theme: spacelab
+    css: styles.css
+    toc: true
+
+
+

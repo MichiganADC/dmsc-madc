@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "MADC Data Core Sharing Hub",
+    "section": "",
+    "text": "Lorem ipsum odor amet, consectetuer adipiscing elit. Litora lectus nisi malesuada montes efficitur faucibus euismod. Dui integer aliquet varius vehicula primis sem egestas semper libero. Habitant et neque posuere litora sagittis facilisi bibendum pretium penatibus. Molestie quisque sociosqu mus sed gravida fringilla elementum. Cubilia mus etiam penatibus pellentesque elit orci. Pretium eget sollicitudin sapien rutrum potenti fames.\nAnte integer class aliquam vel ridiculus elementum rutrum potenti est. Donec libero class suscipit a donec vehicula tristique. Eget integer nisl ligula euismod tempus facilisi ad. Ipsum pharetra tempor; bibendum vestibulum faucibus convallis. Sollicitudin risus lectus nibh tortor nullam sed. Porta litora nibh nascetur mauris in elit parturient. Pellentesque montes vehicula arcu vulputate mollis, tellus curae lectus. Egestas torquent proin blandit suspendisse massa pretium leo.\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Established at Michigan Medicine and based in the Department of Neurology, the Michigan Alzheimer’s Disease Center aims to:\n\nConduct and support research on Alzheimer’s disease and related dementias\nPromote state-of-the-art care and wellness for individuals and families affected by memory loss\nIncrease dementia awareness through collaborative education and outreach efforts\nWork to address racial and ethnic disparities in Alzheimer’s disease and related dementias\nProvide training and support to the next generation of clinicians and scientists"
+  },
+  {
+    "objectID": "walkthrough.html",
+    "href": "walkthrough.html",
+    "title": "Hello, Quarto",
+    "section": "",
+    "text": "Markdown is an easy to read and write text format:\n\nIt’s plain text so works well with version control\nIt can be rendered into HTML, PDF, and more\nLearn more at: https://quarto.org/docs/authoring/"
+  },
+  {
+    "objectID": "walkthrough.html#markdown",
+    "href": "walkthrough.html#markdown",
+    "title": "Hello, Quarto",
+    "section": "",
+    "text": "Markdown is an easy to read and write text format:\n\nIt’s plain text so works well with version control\nIt can be rendered into HTML, PDF, and more\nLearn more at: https://quarto.org/docs/authoring/"
+  },
+  {
+    "objectID": "walkthrough.html#code-cell",
+    "href": "walkthrough.html#code-cell",
+    "title": "Hello, Quarto",
+    "section": "Code Cell",
+    "text": "Code Cell\nHere is a Python code cell:\n\nimport os\nos.cpu_count()\n\n12"
+  },
+  {
+    "objectID": "walkthrough.html#equation",
+    "href": "walkthrough.html#equation",
+    "title": "Hello, Quarto",
+    "section": "Equation",
+    "text": "Equation\nUse LaTeX to write equations:\n\\[\n\\chi' = \\sum_{i=1}^n k_i s_i^2\n\\]"
+  },
+  {
+    "objectID": "about.html#the-michigan-alzheimers-disease-center",
+    "href": "about.html#the-michigan-alzheimers-disease-center",
+    "title": "About",
+    "section": "",
+    "text": "Established at Michigan Medicine and based in the Department of Neurology, the Michigan Alzheimer’s Disease Center aims to:\n\nConduct and support research on Alzheimer’s disease and related dementias\nPromote state-of-the-art care and wellness for individuals and families affected by memory loss\nIncrease dementia awareness through collaborative education and outreach efforts\nWork to address racial and ethnic disparities in Alzheimer’s disease and related dementias\nProvide training and support to the next generation of clinicians and scientists"
+  },
+  {
+    "objectID": "about.html#meet-the-dmsc",
+    "href": "about.html#meet-the-dmsc",
+    "title": "About",
+    "section": "Meet the DMSC",
+    "text": "Meet the DMSC\nThe Data Management and Statistical Core (DMSC), led by Kelly Bakulski, PhD, helps maintain our center’s academic and research productivity by integrating and disseminating data to our research investigators. The data core manages data privacy, analyzes data for specific research projects, and facilitates data sharing nationally with the National Alzheimer’s Coordinating Center.\n\n\n\n\n\nTeam Member 1, Job Title\n\n\n\n\n\n\n\nTeam Member 2, Job Title\n\n\n\n\n\n\n\nTeam Member 3, Job Title\n\n\n\n\n\n\n\nTeam Member 4, Job Title\n\n\n\n\n\n\n\nTeam Member 5, Job Title\n\n\n\n\n\n\n\nTeam Member 6, Job Title\n\n\n\n\n\n\n\nTeam Member 7, Job Title\n\n\n\n\n\n\n\nTeam Member 8, Job Title\n\n\n\n\n\n\n\nTeam Member 9, Job Title"
+  }
+]
