@@ -1,6 +1,13 @@
 # Data Management and Statistical Core Sharing Hub
 A public website showcasing resources from the Data Management and Statistical Core at the Michigan Alzheimer's Disease Center.
 
+## Table of Contents
+[Why We Chose Quarto](#why-we-chose-quarto)
+[How We Set Up This Quarto Project Website](#how-we-set-up-this-quarto-project-website)
+[How to Contribute to This Project](#how-to-contribute-to-this-project)
+[Exploring Quarto for Your Own Projects](#exploring-quarto-for-your-own-projects)
+[Additional Resources](#additional-resources)
+
 ## Building and Contributing to a Quarto Project Website
 
 ### Why We Chose Quarto
@@ -8,7 +15,7 @@ We decided to build our public-facing website using [Quarto](https://quarto.org/
 
 Whether you're exploring Quarto for your own projects or contributing to this website, you'll find the steps outlined here helpful.
 
-### Setting Up This Quarto Project Website
+### How We Set Up This Quarto Project Website
 
 #### Prerequisites
 Ensure you have completed the following steps:
