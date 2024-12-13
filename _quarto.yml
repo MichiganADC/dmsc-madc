@@ -34,7 +34,7 @@ website:
 format:
   html:
     theme: spacelab
-    css: styles.css
+    css: assets/css/styles.css
     toc: true
 
 

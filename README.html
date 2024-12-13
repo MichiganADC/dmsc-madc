@@ -80,93 +80,210 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 
 
-<section id="data-management-and-statistical-core" class="level1">
-<h1>Data Management and Statistical Core</h1>
-<p>Public GitHub Site showcasing resources from the Data Management and Statistical Core at the Michigan Alzheimer’s Disease Center.</p>
+<section id="data-management-and-statistical-core-sharing-hub" class="level1">
+<h1>Data Management and Statistical Core Sharing Hub</h1>
+<p>A public website showcasing resources from the Data Management and Statistical Core at the Michigan Alzheimer’s Disease Center.</p>
+<section id="building-and-contributing-to-a-quarto-project-website" class="level2">
+<h2 class="anchored" data-anchor-id="building-and-contributing-to-a-quarto-project-website">Building and Contributing to a Quarto Project Website</h2>
+<section id="why-we-chose-quarto" class="level3">
+<h3 class="anchored" data-anchor-id="why-we-chose-quarto">Why We Chose Quarto</h3>
+<p>We decided to build our public-facing website using <a href="https://quarto.org/">Quarto</a> because it combines the simplicity of Markdown with the power of a professional publishing system. Quarto’s flexibility allows us to create dynamic, reproducible content while integrating seamlessly with modern development workflows, such as GitHub Pages for hosting. This platform makes it easy to maintain and extend our site, ensuring our content stays organized and accessible.</p>
+<p>Whether you’re exploring Quarto for your own projects or contributing to this website, you’ll find the steps outlined here helpful.</p>
 </section>
-<section id="how-to-set-up-a-quarto-project-with-vs-code-and-deploy-it-to-github-pages" class="level1">
-<h1>How to Set Up a Quarto Project with VS Code and Deploy it to GitHub Pages</h1>
-<section id="prerequisites" class="level2">
-<h2 class="anchored" data-anchor-id="prerequisites">Prerequisites</h2>
-<p>Ensure you have the following installed:</p>
-<ul>
-<li><a href="https://git-scm.com/downloads">Git</a></li>
-<li>A GitHub account (<a href="https://github.com/">sign up here</a>)</li>
-</ul>
 </section>
-<section id="step-by-step-guide" class="level2">
-<h2 class="anchored" data-anchor-id="step-by-step-guide">Step-by-Step Guide</h2>
-<section id="install-vs-code" class="level3">
-<h3 class="anchored" data-anchor-id="install-vs-code">1. Install VS Code</h3>
+<section id="setting-up-this-quarto-project-website" class="level2">
+<h2 class="anchored" data-anchor-id="setting-up-this-quarto-project-website">Setting Up This Quarto Project Website</h2>
+<section id="prerequisites" class="level3">
+<h3 class="anchored" data-anchor-id="prerequisites">Prerequisites</h3>
+<p>Ensure you have completed the following steps: - Download <a href="https://git-scm.com/downloads">Git</a> - Create a GitHub account (<a href="https://github.com/">sign up here</a>) if you do not already have one</p>
+</section>
+<section id="set-up-your-environment" class="level3">
+<h3 class="anchored" data-anchor-id="set-up-your-environment">Set Up Your Environment</h3>
+<section id="install-vs-code" class="level4">
+<h4 class="anchored" data-anchor-id="install-vs-code">1. Install VS Code</h4>
 <p>Download and install Visual Studio Code: <a href="https://code.visualstudio.com/">VS Code Download Page</a></p>
 </section>
-<section id="install-quarto-locally" class="level3">
-<h3 class="anchored" data-anchor-id="install-quarto-locally">2. Install Quarto Locally</h3>
+<section id="install-quarto-locally" class="level4">
+<h4 class="anchored" data-anchor-id="install-quarto-locally">2. Install Quarto Locally</h4>
 <p>Follow the instructions to install Quarto on your system: <a href="https://quarto.org/docs/get-started/">Quarto Installation Guide</a></p>
 </section>
-<section id="install-quarto-extension-for-vs-code" class="level3">
-<h3 class="anchored" data-anchor-id="install-quarto-extension-for-vs-code">3. Install Quarto Extension for VS Code</h3>
+<section id="install-quarto-extension-for-vs-code" class="level4">
+<h4 class="anchored" data-anchor-id="install-quarto-extension-for-vs-code">3. Install Quarto Extension for VS Code</h4>
 <p>Add the Quarto extension to VS Code from the Marketplace: <a href="https://marketplace.visualstudio.com/items?itemName=quarto.quarto">Quarto Extension</a></p>
 </section>
-<section id="restart-vs-code" class="level3">
-<h3 class="anchored" data-anchor-id="restart-vs-code">4. Restart VS Code</h3>
+<section id="restart-vs-code" class="level4">
+<h4 class="anchored" data-anchor-id="restart-vs-code">4. Restart VS Code</h4>
 <p>If VS Code is open during installation, quit and relaunch it to ensure the extension loads properly.</p>
 </section>
-<section id="create-your-quarto-project" class="level3">
-<h3 class="anchored" data-anchor-id="create-your-quarto-project">5. Create Your Quarto Project</h3>
-<p>Follow the Quarto Website setup tutorial to create your project: <a href="https://quarto.org/docs/websites/">Quarto Website Setup Guide</a></p>
-</section>
-<section id="set-up-github-repository" class="level3">
-<h3 class="anchored" data-anchor-id="set-up-github-repository">6. Set Up GitHub Repository</h3>
+<section id="create-the-quarto-project" class="level4">
+<h4 class="anchored" data-anchor-id="create-the-quarto-project">5. Create the Quarto Project</h4>
 <ol type="1">
-<li><strong>Initialize a Git Repository</strong>:
+<li>Open VS Code.</li>
+<li>Press <code>Ctrl+Shift+P</code> (or <code>Cmd+Shift+P</code> on Mac) to open the Command Palette.</li>
+<li>Type and select <code>Quarto: Create Project</code>.</li>
+<li>Choose <code>Website</code> as the project type.</li>
+<li>Specify a folder location and project name, then click <code>Create</code>.</li>
+<li>Edit the configuration file (<code>_quarto.yml</code>) and content files to customize the website.</li>
+<li>Preview the website locally:
 <ul>
-<li><p>Open your project folder in VS Code.</p></li>
-<li><p>Run the following commands in the terminal:</p>
-<div class="sourceCode" id="cb1"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> init</span>
-<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> add .</span>
-<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> commit <span class="at">-m</span> <span class="st">"Initial commit"</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div></li>
-</ul></li>
-<li><strong>Create a New Repository on GitHub</strong>:
-<ul>
-<li>Go to <a href="https://github.com/">GitHub</a>.</li>
-<li>Click <code>New Repository</code>, name it, and click <code>Create Repository</code>.</li>
-</ul></li>
-<li><strong>Push to GitHub</strong>:
-<ul>
-<li><p>Follow the commands provided by GitHub to connect and push your local repo:</p>
-<div class="sourceCode" id="cb2"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> remote add origin <span class="op">&lt;</span>your-repository-URL<span class="op">&gt;</span></span>
-<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> branch <span class="at">-M</span> main</span>
-<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> push <span class="at">-u</span> origin main</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div></li>
+<li>Right-click on the <code>index.qmd</code> file and select <code>Quarto: Preview</code>.</li>
 </ul></li>
 </ol>
 </section>
-<section id="deploy-to-github-pages" class="level3">
-<h3 class="anchored" data-anchor-id="deploy-to-github-pages">7. Deploy to GitHub Pages</h3>
-<p>Follow the publishing instructions to deploy your Quarto project to GitHub Pages: <a href="https://quarto.org/docs/publishing/github-pages.html">GitHub Pages Deployment Guide</a></p>
+<section id="deploy-from-the-docs-folder-on-the-main-branch" class="level4">
+<h4 class="anchored" data-anchor-id="deploy-from-the-docs-folder-on-the-main-branch">6. Deploy from the <code>docs</code> Folder on the Main Branch</h4>
+<p>Follow the publishing instructions to deploy the website: <a href="https://quarto.org/docs/publishing/github-pages.html">GitHub Pages Deployment Guide</a></p>
 <ol type="1">
-<li><p>Add a <code>gh-pages</code> branch by running:</p>
-<div class="sourceCode" id="cb3"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="ex">quarto</span> publish gh-pages</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div></li>
-<li><p>Ensure GitHub Pages is enabled for your repository:</p>
+<li>In the configuration file (<code>_quarto.yml</code>), change the project configuration to use <code>docs</code> as the <code>output-dir</code>:</li>
+</ol>
+<div class="sourceCode" id="cb1"><pre class="sourceCode _quarto.yml code-with-copy"><code class="sourceCode yaml"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">project</span><span class="kw">:</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">type</span><span class="kw">:</span><span class="at"> website</span></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">output-dir</span><span class="kw">:</span><span class="at"> docs</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<ol start="2" type="1">
+<li>Add an empty file named <code>.nojekyll</code> to the root of the project repository to prohibit GitHub pages from using the default site generation tool, Jekyll.</li>
+<li>Render the site locally and push the changes to GitHub by running the following commands in the terminal or by using the Quarto extension:</li>
+</ol>
+<div class="sourceCode" id="cb2"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="ex">quarto</span> render</span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> add docs</span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> commit <span class="at">-m</span> <span class="st">"Publish site to docs/"</span></span>
+<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> push</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<ol start="4" type="1">
+<li>Enable GitHub Pages for the repository:
 <ul>
-<li>Go to your repository’s <code>Settings</code>.</li>
-<li>Under <code>Pages</code>, select the <code>gh-pages</code> branch as the source.</li>
+<li>Go to your respository’s <code>Settings</code>.</li>
+<li>Under <code>Pages</code> in the left-hand sidebar, select the <code>docs</code> folder on the main branch as the source.</li>
+</ul></li>
+<li>For all future commits and pushes to main, these changes will trigger a deployment of your website.</li>
+</ol>
+</section>
+</section>
+</section>
+<section id="how-to-contribute-to-this-project" class="level2">
+<h2 class="anchored" data-anchor-id="how-to-contribute-to-this-project">How to Contribute to This Project</h2>
+<section id="fork-the-repository" class="level3">
+<h3 class="anchored" data-anchor-id="fork-the-repository">1. Fork the Repository</h3>
+<ol type="1">
+<li>Go to the main repository on GitHub: <a href="https://github.com/MichiganADC/dmsc-madc">dmsc-madc</a>.</li>
+<li>Click the <code>Fork</code> button in the upper-right corner to create a copy of the repository in your own GitHub account.</li>
+</ol>
+</section>
+<section id="clone-your-forked-repository" class="level3">
+<h3 class="anchored" data-anchor-id="clone-your-forked-repository">2. Clone Your Forked Repository</h3>
+<section id="option-1-using-the-vs-code-ui" class="level4">
+<h4 class="anchored" data-anchor-id="option-1-using-the-vs-code-ui">Option 1: Using the VS Code UI</h4>
+<ol type="1">
+<li>Open the Source Control view (Ctrl+Shift+G).</li>
+<li>Click <code>Clone Repository</code> and paste the URL of your forked repository (e.g., <code>https://github.com/your-username/repo-name.git</code>).</li>
+<li>Choose a folder location for the repository.</li>
+</ol>
+</section>
+<section id="option-2-using-the-terminal" class="level4">
+<h4 class="anchored" data-anchor-id="option-2-using-the-terminal">Option 2: Using the Terminal</h4>
+<ol type="1">
+<li><p>Open a terminal window in VS Code (Ctrl+<code>or</code>Cmd+` on Mac).</p></li>
+<li><p>Run the following command:</p>
+<div class="sourceCode" id="cb3"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> clone https://github.com/your-username/repo-name.git</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div></li>
+<li><p>Navigate into the cloned repository:</p>
+<div class="sourceCode" id="cb4"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="bu">cd</span> repo-name</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div></li>
+</ol>
+</section>
+</section>
+<section id="create-a-new-branch" class="level3">
+<h3 class="anchored" data-anchor-id="create-a-new-branch">3. Create a New Branch</h3>
+<section id="option-1-using-the-vs-code-ui-1" class="level4">
+<h4 class="anchored" data-anchor-id="option-1-using-the-vs-code-ui-1">Option 1: Using the VS Code UI</h4>
+<ol type="1">
+<li>Open the Source Control view.</li>
+<li>Click the <code>...</code> menu in the top right and select <code>Branch &gt; Create Branch</code>.</li>
+<li>Enter a name for your branch (e.g., <code>your-feature-branch</code>).</li>
+</ol>
+</section>
+<section id="option-2-using-the-terminal-1" class="level4">
+<h4 class="anchored" data-anchor-id="option-2-using-the-terminal-1">Option 2: Using the Terminal</h4>
+<ol type="1">
+<li><p>Run the following command to create a new branch:</p>
+<div class="sourceCode" id="cb5"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> checkout <span class="at">-b</span> your-feature-branch</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div></li>
+</ol>
+</section>
+</section>
+<section id="make-edits-locally" class="level3">
+<h3 class="anchored" data-anchor-id="make-edits-locally">4. Make Edits Locally</h3>
+<ol type="1">
+<li>Open the project folder in VS Code.</li>
+<li>Edit existing content or add new pages as appropriate.</li>
+<li>Preview your Quarto documents locally:
+<ul>
+<li>Right-click a <code>.qmd</code> file and select <code>Quarto: Preview</code>.</li>
 </ul></li>
 </ol>
 </section>
-<section id="review-markdown-basics-for-quarto" class="level3">
-<h3 class="anchored" data-anchor-id="review-markdown-basics-for-quarto">8. Review Markdown Basics for Quarto</h3>
-<p>Learn the basics of authoring in Markdown for Quarto: <a href="https://quarto.org/docs/authoring/markdown-basics.html">Markdown Basics</a></p>
+<section id="commit-your-changes" class="level3">
+<h3 class="anchored" data-anchor-id="commit-your-changes">5. Commit Your Changes</h3>
+<section id="option-1-using-the-vs-code-ui-2" class="level4">
+<h4 class="anchored" data-anchor-id="option-1-using-the-vs-code-ui-2">Option 1: Using the VS Code UI</h4>
+<ol type="1">
+<li>Open the Source Control view.</li>
+<li>Stage your changes by clicking the <code>+</code> next to the files you modified.</li>
+<li>Enter a commit message and click the checkmark to commit.</li>
+</ol>
+</section>
+<section id="option-2-using-the-terminal-2" class="level4">
+<h4 class="anchored" data-anchor-id="option-2-using-the-terminal-2">Option 2: Using the Terminal</h4>
+<ol type="1">
+<li><p>Stage your changes:</p>
+<div class="sourceCode" id="cb6"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> add .</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div></li>
+<li><p>Commit your changes:</p>
+<div class="sourceCode" id="cb7"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> commit <span class="at">-m</span> <span class="st">"Your commit message"</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div></li>
+</ol>
+</section>
+</section>
+<section id="push-your-branch" class="level3">
+<h3 class="anchored" data-anchor-id="push-your-branch">6. Push Your Branch</h3>
+<section id="option-1-using-the-vs-code-ui-3" class="level4">
+<h4 class="anchored" data-anchor-id="option-1-using-the-vs-code-ui-3">Option 1: Using the VS Code UI</h4>
+<ol type="1">
+<li>Open the Source Control view.</li>
+<li>Click the <code>...</code> menu and select <code>Push</code>.</li>
+</ol>
+</section>
+<section id="option-2-using-the-terminal-3" class="level4">
+<h4 class="anchored" data-anchor-id="option-2-using-the-terminal-3">Option 2: Using the Terminal</h4>
+<ol type="1">
+<li><p>Push your branch to GitHub:</p>
+<div class="sourceCode" id="cb8"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb8-1"><a href="#cb8-1" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> push origin your-feature-branch</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div></li>
+</ol>
+</section>
+</section>
+<section id="submit-a-pull-request" class="level3">
+<h3 class="anchored" data-anchor-id="submit-a-pull-request">7. Submit a Pull Request</h3>
+<ol type="1">
+<li>Go to your forked repository on GitHub</li>
+<li>Click the link at the top of your repository showing how many commits ahead your fork is compared to the original repository.</li>
+<li>Add a descriptive title and details about your changes.</li>
+<li>Submit the pull request for review.</li>
+</ol>
+</section>
+<section id="follow-up" class="level3">
+<h3 class="anchored" data-anchor-id="follow-up">8. Follow Up</h3>
+<ul>
+<li>Monitor your pull request for any comments or requested changes from maintainers.</li>
+<li>Address feedback by committing new changes to the same branch and pushing them.</li>
+</ul>
 <hr>
 </section>
+<section id="exploring-quarto-for-your-own-projects" class="level3">
+<h3 class="anchored" data-anchor-id="exploring-quarto-for-your-own-projects">Exploring Quarto for Your Own Projects</h3>
+<p>If you’re inspired to create your own website or documentation project using Quarto, start by following the steps outlined above to set up Quarto locally and in VS Code. Refer to the official <a href="https://quarto.org/docs/websites/">Quarto Website Documentation</a> for further details.</p>
+<p>Quarto’s versatility makes it a great choice for building websites, technical documents, and presentations. Experiment with its features, and don’t hesitate to share your experience!</p>
 </section>
-<section id="additional-tips" class="level2">
-<h2 class="anchored" data-anchor-id="additional-tips">Additional Tips</h2>
+<section id="additional-resources" class="level3">
+<h3 class="anchored" data-anchor-id="additional-resources">Additional Resources</h3>
 <ul>
-<li>Use VS Code’s built-in Git tools for easier version control.</li>
-<li>Preview your Quarto documents locally with the Quarto extension by pressing <code>Ctrl+Shift+P</code> and selecting <code>Quarto: Preview</code>.</li>
-<li>Keep your README up to date with project-specific notes for collaborators.</li>
+<li>Learn how to <a href="https://docs.github.com/en/github/collaborating-with-pull-requests/working-with-forks/syncing-a-fork">sync your fork</a> to keep it up to date with the original repository.</li>
+<li>Review the <a href="https://quarto.org/docs/publishing/github-pages.html">GitHub Pages Deployment Guide</a> for additional details.</li>
+<li>Brush up on <a href="https://quarto.org/docs/authoring/markdown-basics.html">Markdown Basics</a> to format your contributions effectively.</li>
 </ul>
+</section>
 </section>
 </section>
 
