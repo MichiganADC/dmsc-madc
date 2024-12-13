@@ -19,39 +19,73 @@ The Data Management and Statistical Core (DMSC), led by [Kelly Bakulski, PhD](ht
 ::: {.grid}
 
 ::: {.g-col-4}
-![Team Member 1, Job Title](assets/images/landscape-placeholder.svg)
+### **Leadership**
 :::
 
 ::: {.g-col-4}
-![Team Member 2, Job Title](assets/images/landscape-placeholder.svg)
+![Kelly Bakulski, PhD, Data Management and Statistical Core Leader](assets/images/landscape-placeholder.svg)
 :::
 
 ::: {.g-col-4}
-![Team Member 3, Job Title](assets/images/landscape-placeholder.svg)
+![Jon Reader, Data Systems Manager](assets/images/landscape-placeholder.svg)
 :::
 
 ::: {.g-col-4}
-![Team Member 4, Job Title](assets/images/landscape-placeholder.svg)
+### **Data Integrity**
 :::
 
 ::: {.g-col-4}
-![Team Member 5, Job Title](assets/images/landscape-placeholder.svg)
+![T.J. Rogers, Job Title](assets/images/landscape-placeholder.svg)
 :::
 
 ::: {.g-col-4}
-![Team Member 6, Job Title](assets/images/landscape-placeholder.svg)
+![Ghadeer Ankouni, Job Title](assets/images/landscape-placeholder.svg)
 :::
 
 ::: {.g-col-4}
-![Team Member 7, Job Title](assets/images/landscape-placeholder.svg)
 :::
 
 ::: {.g-col-4}
-![Team Member 8, Job Title](assets/images/landscape-placeholder.svg)
+![Haley Payne, Job Title](assets/images/landscape-placeholder.svg)
 :::
 
 ::: {.g-col-4}
-![Team Member 9, Job Title](assets/images/landscape-placeholder.svg)
+:::
+
+
+::: {.g-col-4}
+### **Programming and Analysis**
+:::
+
+::: {.g-col-4}
+![Allyson Gregoire, Data Analyst/Programmer](assets/images/landscape-placeholder.svg)
+:::
+
+::: {.g-col-4}
+![Subhamoy Pal, Statistician](assets/images/landscape-placeholder.svg)
+:::
+
+::: {.g-col-4}
+:::
+
+::: {.g-col-4}
+![Miranda Cooper, Data Analyst/Programmer](assets/images/landscape-placeholder.svg)
+:::
+
+::: {.g-col-4}
+![Kenneth Petscavage, Data Analyst/Programmer](assets/images/landscape-placeholder.svg)
+:::
+
+::: {.g-col-4}
+### **Research Assistants**
+:::
+
+::: {.g-col-4}
+![Micaela Ihorn, Job Title](assets/images/landscape-placeholder.svg)
+:::
+
+::: {.g-col-4}
+![Jenna Anderson, Job Title](assets/images/landscape-placeholder.svg)
 :::
 
 :::

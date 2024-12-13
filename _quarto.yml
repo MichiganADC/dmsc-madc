@@ -1,21 +1,31 @@
 project:
+  title: 'MADC Data Management and Statistical Core Sharing Hub'
   type: website
   output-dir: docs
 
 website:
-  title: "Data Management and Statistical Core"
+  title: "MADC Data Core Sharing Hub"
+  description: "A public website showcasing resources from the Data Management and Statistical Core at the Michigan Alzheimer's Disease Center."
   favicon: assets/images/favicon_io/favicon-16x16.png
   repo-url: https://github.com/MichiganADC/dmsc-madc
   page-navigation: true
+  bread-crumbs: true
   reader-mode: true
   back-to-top-navigation: true
   navbar:
     logo: assets\images\favicon_io\favicon-32x32.png
+    logo-alt: "The University of Michigan block M logo"
     collapse: true
-    left:
+    right:
       - href: index.qmd
         text: Home
       - about.qmd
+  announcement:
+    content: "This site is currently in development, and we’re actively working to enhance its features and content. Please stay tuned for updates and improvements as we continue to build and refine the platform. Thank you for your patience and support!"
+    position: below-navbar
+    dismissable: true
+    icon: cone-striped
+    type: info
 
   page-footer:
       center:
