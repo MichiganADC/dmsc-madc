@@ -1,0 +1,91 @@
+---
+title: "About"
+---
+
+## The Michigan Alzheimer's Disease Center
+
+Established at Michigan Medicine and based in the Department of Neurology, the Michigan Alzheimer’s Disease Center aims to:
+
+* Conduct and support research on Alzheimer’s disease and related dementias
+* Promote state-of-the-art care and wellness for individuals and families affected by memory loss
+* Increase dementia awareness through collaborative education and outreach efforts
+* Work to address racial and ethnic disparities in Alzheimer’s disease and related dementias
+* Provide training and support to the next generation of clinicians and scientists
+
+## Meet the DMSC
+
+The Data Management and Statistical Core (DMSC), led by [Kelly Bakulski, PhD](https://sph.umich.edu/faculty-profiles/bakulski-kelly.html), helps maintain our center's academic and research productivity by integrating and disseminating data to our research investigators. The data core manages data privacy, analyzes data for specific research projects, and facilitates data sharing nationally with the National Alzheimer’s Coordinating Center.
+
+::: {.grid}
+
+::: {.g-col-4}
+### **Leadership**
+:::
+
+::: {.g-col-4}
+![Kelly Bakulski, PhD, Data Management and Statistical Core Leader](assets/images/landscape-placeholder.svg)
+:::
+
+::: {.g-col-4}
+![Jon Reader, Data Systems Manager](assets/images/landscape-placeholder.svg)
+:::
+
+::: {.g-col-4}
+### **Data Integrity**
+:::
+
+::: {.g-col-4}
+![T.J. Rogers, Job Title](assets/images/landscape-placeholder.svg)
+:::
+
+::: {.g-col-4}
+![Ghadeer Ankouni, Job Title](assets/images/landscape-placeholder.svg)
+:::
+
+::: {.g-col-4}
+:::
+
+::: {.g-col-4}
+![Haley Payne, Job Title](assets/images/landscape-placeholder.svg)
+:::
+
+::: {.g-col-4}
+:::
+
+
+::: {.g-col-4}
+### **Programming and Analysis**
+:::
+
+::: {.g-col-4}
+![Allyson Gregoire, Data Analyst/Programmer](assets/images/landscape-placeholder.svg)
+:::
+
+::: {.g-col-4}
+![Subhamoy Pal, Statistician](assets/images/landscape-placeholder.svg)
+:::
+
+::: {.g-col-4}
+:::
+
+::: {.g-col-4}
+![Miranda Cooper, Data Analyst/Programmer](assets/images/landscape-placeholder.svg)
+:::
+
+::: {.g-col-4}
+![Kenneth Petscavage, Data Analyst/Programmer](assets/images/landscape-placeholder.svg)
+:::
+
+::: {.g-col-4}
+### **Research Assistants**
+:::
+
+::: {.g-col-4}
+![Micaela Ihorn, Job Title](assets/images/landscape-placeholder.svg)
+:::
+
+::: {.g-col-4}
+![Jenna Anderson, Job Title](assets/images/landscape-placeholder.svg)
+:::
+
+:::

@@ -1,0 +1,7 @@
+1. Install VS Code: https://code.visualstudio.com/
+2. Install Quarto locally: https://quarto.org/docs/get-started/
+3. Install Quarto VS Code extension: https://marketplace.visualstudio.com/items?itemName=quarto.quarto
+4. If VS Code is open, quit and relaunch the app
+5. Follow Quarto Website setup process tutorial here: https://quarto.org/docs/websites/
+6. Follow publishing instructions: https://quarto.org/docs/publishing/github-pages.html
+7. Review Markdown basics for Quarto: https://quarto.org/docs/authoring/markdown-basics.html
