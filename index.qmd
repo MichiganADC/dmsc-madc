@@ -1,0 +1,38 @@
+---
+title: ""
+---
+![](assets/images/madrc-logo-dark-text.png){fig-align="center" fig-alt="The Michigan Alzheimer's Disease Research Center logo" width=400}
+
+# MADC Data Core Sharing Hub
+The MADC Data Core Sharing Hub is a public platform created by the Data Management and Statistical Core (DMSC) at the [Michigan Alzheimer’s Disease Center (MADC)](https://medresearch.umich.edu/labs-departments/centers/madc/about). Based at Michigan Medicine, MADC is a key contributor to the broader Michigan Alzheimer’s Disease Research Center (MADRC), a multi-university collaboration with Wayne State University and Michigan State University.
+
+This site is dedicated to showcasing the resources and expertise of the MADC Data Core, supporting Alzheimer’s research through the dissemination of tools, visualizations, and knowledge. Here, you will find:
+
+* **Code:** Scripts and programming resources developed by our team.
+* **Data Visualizations:** Interactive and insightful visual representations of research data.
+* **R Packages:** Custom-developed data manipulation and statistical tools for Alzheimer’s research.
+* **Publications:** A showcase of our peer-reviewed research contributions.
+* **Documentation:** User-friendly guides for our tools and systems.
+* **Data Dictionaries:** Comprehensive references for understanding our datasets.
+* **And More:** Resources and materials that highlight the breadth of our expertise and support for the Alzheimer’s research community.
+
+The MADC Data Core Sharing Hub highlights the impactful work of our team and reflects our commitment to fostering collaboration and innovation in Alzheimer’s research.
+
+Explore our resources and discover how the MADC Data Core contributes to advancing knowledge and improving care for those affected by Alzheimer’s disease.
+
+## Quick Links
+::: {.grid}
+
+::: {.g-col-6}
+* **[View the source code for this site](https://github.com/MichiganADC/dmsc-madc)**
+* **[Placeholder Link]()**
+* **[Placeholder Link]()**
+:::
+
+::: {.g-col-6}
+* **[Placeholder Link]()**
+* **[Placeholder Link]()**
+* **[Placeholder Link]()**
+:::
+
+:::
