@@ -2,11 +2,11 @@
 A public website showcasing resources from the Data Management and Statistical Core at the Michigan Alzheimer's Disease Center.
 
 ## Table of Contents
-[Why We Chose Quarto](#why-we-chose-quarto)
-[How We Set Up This Quarto Project Website](#how-we-set-up-this-quarto-project-website)
-[How to Contribute to This Project](#how-to-contribute-to-this-project)
-[Exploring Quarto for Your Own Projects](#exploring-quarto-for-your-own-projects)
-[Additional Resources](#additional-resources)
+* [Why We Chose Quarto](#why-we-chose-quarto)    
+* [How We Set Up This Quarto Project Website](#how-we-set-up-this-quarto-project-website)    
+* [How to Contribute to This Project](#how-to-contribute-to-this-project)    
+* [Exploring Quarto for Your Own Projects](#exploring-quarto-for-your-own-projects)    
+* [Additional Resources](#additional-resources)    
 
 ## Building and Contributing to a Quarto Project Website
 
@@ -18,9 +18,9 @@ Whether you're exploring Quarto for your own projects or contributing to this we
 ### How We Set Up This Quarto Project Website
 
 #### Prerequisites
-Ensure you have completed the following steps:
-- Download [Git](https://git-scm.com/downloads)
-- Create a GitHub account ([sign up here](https://github.com/)) if you do not already have one
+Ensure you have completed the following steps:   
+* Download [Git](https://git-scm.com/downloads)   
+* Create a GitHub account ([sign up here](https://github.com/)) if you do not already have one   
 
 #### Set Up Your Environment
 

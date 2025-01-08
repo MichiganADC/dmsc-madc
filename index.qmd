@@ -24,7 +24,7 @@ Explore our resources and discover how the MADC Data Core contributes to advanci
 ::: {.grid}
 
 ::: {.g-col-6}
-* **[View the source code for this site](https://github.com/MichiganADC/dmsc-madc)**
+* **[GitHub Source Code for this site](https://github.com/MichiganADC/dmsc-madc)**
 * **[Placeholder Link]()**
 * **[Placeholder Link]()**
 :::
