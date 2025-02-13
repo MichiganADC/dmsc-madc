@@ -1,0 +1,15 @@
+---
+title: "Allyson Gregoire"
+---
+::: {.grid}
+
+::: {.g-col-6}
+![Allyson Gregoire, Data Analyst/Programmer](../images/landscape-placeholder.svg)
+:::
+
+::: {.g-col-6}
+
+Allyson joined the Michigan Alzheimer’s Disease Center in the summer of 2021 as a member of the data core team as a Data Analyst/Programmer. She earned her B.S. in Biochemistry and Molecular Biology from Michigan State University in 2016 and an MPH in Epidemiology from the University of Michigan in 2019. Allyson’s role in the data core includes working with center collaborators to perform statistical analyses and to support data management and dissemination. Allyson is a center resource for technical questions relating to R, Tableau, REDCap and SQL, and can serve as statistical analysis support for hypothesis testing and regression models including linear, logistic and Cox proportional hazards models. Allyson is currently working on expanding her expertise into -omics modeling and learning to be an at-home barista.  
+
+:::
+:::

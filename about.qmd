@@ -23,11 +23,11 @@ The Data Management and Statistical Core (DMSC), led by [Kelly Bakulski, PhD](ht
 :::
 
 ::: {.g-col-4}
-![Kelly Bakulski, PhD, Data Management and Statistical Core Leader](assets/images/landscape-placeholder.svg)
+[![Kelly Bakulski, PhD, Data Management and Statistical Core Leader](assets/images/landscape-placeholder.svg)](assets/team_bios/kelly_bakulski.qmd)
 :::
 
 ::: {.g-col-4}
-![Jon Reader, Data Systems Manager](assets/images/landscape-placeholder.svg)
+[![Jon Reader, Data Systems Manager](assets/images/landscape-placeholder.svg)](assets/team_bios/jon_reader.qmd)
 :::
 
 ::: {.g-col-4}
@@ -35,45 +35,45 @@ The Data Management and Statistical Core (DMSC), led by [Kelly Bakulski, PhD](ht
 :::
 
 ::: {.g-col-4}
-![T.J. Rogers, Job Title](assets/images/landscape-placeholder.svg)
+[![Ghadeer Ankouni, Job Title](assets/images/landscape-placeholder.svg)](assets/team_bios/ghadeer_ankouni.qmd)
 :::
 
-::: {.g-col-4}
-![Ghadeer Ankouni, Job Title](assets/images/landscape-placeholder.svg)
-:::
 
 ::: {.g-col-4}
-:::
-
-::: {.g-col-4}
-![Haley Payne, Job Title](assets/images/landscape-placeholder.svg)
+[![Haley Payne, Job Title](assets/images/landscape-placeholder.svg)](assets/team_bios/haley_payne.qmd)
 :::
 
 ::: {.g-col-4}
 :::
 
+::: {.g-col-4}
+[![T.J. Rogers, Job Title](assets/images/landscape-placeholder.svg)](assets/team_bios/tj_rogers.qmd)
+:::
+
+::: {.g-col-4}
+:::
 
 ::: {.g-col-4}
 ### **Programming and Analysis**
 :::
 
 ::: {.g-col-4}
-![Allyson Gregoire, Data Analyst/Programmer](assets/images/landscape-placeholder.svg)
+[![Allyson Gregoire, Data Analyst/Programmer](assets/images/landscape-placeholder.svg)](assets/team_bios/allyson_gregoire.qmd)
 :::
 
 ::: {.g-col-4}
-![Subhamoy Pal, Statistician](assets/images/landscape-placeholder.svg)
+[![Kenneth Petscavage, Data Analyst/Programmer](assets/images/landscape-placeholder.svg)](assets/team_bios/kenneth_petscavage.qmd)
 :::
 
 ::: {.g-col-4}
 :::
 
 ::: {.g-col-4}
-![Miranda Cooper, Data Analyst/Programmer](assets/images/landscape-placeholder.svg)
+[![Miranda Cooper, Data Analyst/Programmer](assets/images/landscape-placeholder.svg)](assets/team_bios/miranda_cooper.qmd)
 :::
 
 ::: {.g-col-4}
-![Kenneth Petscavage, Data Analyst/Programmer](assets/images/landscape-placeholder.svg)
+[![Subhamoy Pal, Statistician](assets/images/landscape-placeholder.svg)](assets/team_bios/subhamoy_pal.qmd)
 :::
 
 ::: {.g-col-4}
@@ -81,11 +81,11 @@ The Data Management and Statistical Core (DMSC), led by [Kelly Bakulski, PhD](ht
 :::
 
 ::: {.g-col-4}
-![Micaela Ihorn, Job Title](assets/images/landscape-placeholder.svg)
+[![Jenna Anderson, Job Title](assets/images/landscape-placeholder.svg)](assets/team_bios/jenna_anderson.qmd)
 :::
 
 ::: {.g-col-4}
-![Jenna Anderson, Job Title](assets/images/landscape-placeholder.svg)
+[![Micaela Ihorn, Job Title](assets/images/landscape-placeholder.svg)](assets/team_bios/micaela_ihorn.qmd)
 :::
 
 :::
