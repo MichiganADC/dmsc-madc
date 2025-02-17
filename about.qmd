@@ -58,18 +58,18 @@ The Data Management and Statistical Core (DMSC), led by [Kelly Bakulski, PhD](ht
 :::
 
 ::: {.g-col-4}
-[![Allyson Gregoire, Data Analyst/Programmer](assets/images/landscape-placeholder.svg)](assets/team_bios/allyson_gregoire.qmd)
+[![Allyson Gregoire, Data Analyst / Programmer](assets/images/landscape-placeholder.svg)](assets/team_bios/allyson_gregoire.qmd)
 :::
 
 ::: {.g-col-4}
-[![Kenneth Petscavage, Data Analyst/Programmer](assets/images/landscape-placeholder.svg)](assets/team_bios/kenneth_petscavage.qmd)
+[![Kenneth Petscavage, Data Analyst / Programmer](assets/images/landscape-placeholder.svg)](assets/team_bios/kenneth_petscavage.qmd)
 :::
 
 ::: {.g-col-4}
 :::
 
 ::: {.g-col-4}
-[![Miranda Cooper, Data Analyst/Programmer](assets/images/landscape-placeholder.svg)](assets/team_bios/miranda_cooper.qmd)
+[![Miranda Cooper, Data Analyst / Programmer](assets/images/landscape-placeholder.svg)](assets/team_bios/miranda_cooper.qmd)
 :::
 
 ::: {.g-col-4}

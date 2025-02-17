@@ -9,7 +9,7 @@ title: "Miranda Cooper"
 
 ::: {.g-col-6}
 
-Lorem ipsum odor amet, consectetuer adipiscing elit. Laoreet justo maximus facilisis non facilisi lectus vehicula sollicitudin viverra. Nulla tristique justo ad congue augue gravida aliquet. Porttitor curae libero libero aenean laoreet. Sociosqu aenean ornare primis vivamus fames lacus per etiam. Sed netus pulvinar venenatis euismod nunc lectus porttitor ex libero. Habitant inceptos facilisi aptent tellus natoque neque condimentum cursus. Maecenas nulla amet semper cubilia, luctus nam malesuada.
+Miranda is a Data Analyst / Programmer with a Master of Science in Information and over nine years of experience in workflow automation, data management, and analytics. She specializes in building scalable automation systems and applications to streamline operations and is currently expanding her expertise in cloud data infrastructure by learning dbt. Passionate about R, Python, Power Automate, and data pipeline automation, she enjoys discussing innovative ways to optimize processes and improve efficiency through automation. Outside of work, Miranda once walked 50,000 steps in a single day - from Troy, MI, to the Detroit Zoo and back -  and loves treasure hunting at garage sales and reselling unique finds on eBay. 
 
 :::
 :::
