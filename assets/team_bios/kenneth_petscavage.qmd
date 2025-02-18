@@ -5,7 +5,7 @@ title: "Kenneth Petscavage"
 ::: {.grid}
 
 ::: {.g-col-6}
-![Kenneth Petscavage, Data Analyst / Programmer](../images/landscape-placeholder.svg)
+![Kenneth Petscavage, Data Analyst / Programmer](../images/Petscavage_Kenny.jpg)
 :::
 
 ::: {.g-col-6}

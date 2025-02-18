@@ -4,12 +4,12 @@ title: "Jon Reader"
 ::: {.grid}
 
 ::: {.g-col-6}
-![Jon Reader, Data Systems Manager](../images/landscape-placeholder.svg)
+![Jon Reader, Data Systems Manager](../images/Reader_Jon.jpg)
 :::
 
 ::: {.g-col-6}
 
-Lorem ipsum odor amet, consectetuer adipiscing elit. Laoreet justo maximus facilisis non facilisi lectus vehicula sollicitudin viverra. Nulla tristique justo ad congue augue gravida aliquet. Porttitor curae libero libero aenean laoreet. Sociosqu aenean ornare primis vivamus fames lacus per etiam. Sed netus pulvinar venenatis euismod nunc lectus porttitor ex libero. Habitant inceptos facilisi aptent tellus natoque neque condimentum cursus. Maecenas nulla amet semper cubilia, luctus nam malesuada.
+Jon joined the Michigan Alzheimer’s Disease Center in the summer of 2019 as a Data Analyst/Programmer as part of Data Core. In 2021, he became the Data Core Manager. Jon earned his M.S in Human Development and Family Studies from The Pennsylvania State University in 2015. Jon’s role in the data core includes supervising the Data Core team, working with other Core managers, center-affiliated investigators, other centers, and the National Alzheimer’s Coordinating Center. Jon is a center resource for pointing technical and statistical questions to appropriate team members. Jon is currently working on expanding his expertise into proper project management skills/techniques and taking pictures of his cats. 
 
 :::
 :::

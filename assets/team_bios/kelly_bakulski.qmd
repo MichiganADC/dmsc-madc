@@ -4,12 +4,13 @@ title: "Kelly M. Bakulski, PhD"
 ::: {.grid}
 
 ::: {.g-col-6}
-![Kelly Bakulski, PhD, Data Management and Statistical Core Leader](../images/landscape-placeholder.svg)
+![Kelly Bakulski, PhD, Data Management and Statistical Core Leader](../images/bakulski_kelly.png)
 :::
 
 ::: {.g-col-6}
+[Faculty Profile](https://sph.umich.edu/faculty-profiles/bakulski-kelly.html)      
 
-Lorem ipsum odor amet, consectetuer adipiscing elit. Laoreet justo maximus facilisis non facilisi lectus vehicula sollicitudin viverra. Nulla tristique justo ad congue augue gravida aliquet. Porttitor curae libero libero aenean laoreet. Sociosqu aenean ornare primis vivamus fames lacus per etiam. Sed netus pulvinar venenatis euismod nunc lectus porttitor ex libero. Habitant inceptos facilisi aptent tellus natoque neque condimentum cursus. Maecenas nulla amet semper cubilia, luctus nam malesuada.
+Dr. Kelly Bakulski is an Associate Professor with tenure in the Department of Epidemiology at the University of Michigan School of Public Health. She is a molecular epidemiologist and environmental health scientist who investigates the roles of environmental chemicals, epigenetics, and genetics in the etiology of neurological diseases. Her team develops biomarker and cell type specific tools to inform population-based approaches. She has published over 110 peer-reviewed articles and has had continuous funding support from the National Institutes of Health. Dr. Bakulski was granted the 2024 Mid-career Biosciences Faculty Achievement Recognition Award for outstanding research performance at the University of Michigan. She is passionate about mentoring and is a recipient of the School of Public Health Excellence in Teaching Award. 
 
 :::
 :::

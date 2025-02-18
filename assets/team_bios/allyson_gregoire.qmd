@@ -4,7 +4,7 @@ title: "Allyson Gregoire"
 ::: {.grid}
 
 ::: {.g-col-6}
-![Allyson Gregoire, Data Analyst/Programmer](../images/landscape-placeholder.svg)
+![Allyson Gregoire, Data Analyst/Programmer](../images/Gregoire_Allyson.jpg)
 :::
 
 ::: {.g-col-6}

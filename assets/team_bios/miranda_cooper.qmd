@@ -4,7 +4,7 @@ title: "Miranda Cooper"
 ::: {.grid}
 
 ::: {.g-col-6}
-![Miranda Cooper, Data Analyst / Programmer](../images/landscape-placeholder.svg)
+![Miranda Cooper, Data Analyst / Programmer](../images/Cooper_Miranda.jpg)
 :::
 
 ::: {.g-col-6}
