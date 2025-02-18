@@ -4,12 +4,10 @@ title: "Ana Daugherty"
 ::: {.grid}
 
 ::: {.g-col-6}
-![Ana Daugherty, PhD, PhD, Data Management and Statistical Core Affiliated Faculty](../images/daugherty_ana.jpg.jpg)
+![Ana Daugherty, PhD, PhD, Data Management and Statistical Core Affiliated Faculty](../images/daugherty_ana.jpg)
 :::
 
 ::: {.g-col-6}
-[Faculty Profile](https://wayne.edu/people/dy6149)      
-
 Dr. Daugherty is a cognitive neuroscientist with a specialty in aging, Alzheimer's disease and related dementia. Her research characterizes individual differences in aging across the adult lifespan to identify both risk and protective factors that modify changes in the brain, and related changes in thinking and memory functions. The long-term goal of her work is to reduce disparities in late-life cognitive health.
 
 She directs the Detroit Aging Brain Study: a community-partnered longitudinal study going on over 22 years in the Metro Detroit area to study changes in brain structure and function across the healthy, adult lifespan.
@@ -18,5 +16,6 @@ She is affiliated faculty in the Michigan Alzheimer's Disease Research Center, l
 
 She is also affiliated faculty and serves on the steering committee of the Translational Neuroscience Program (Wayne State University School of Medicine).
 
+[Faculty Profile](https://wayne.edu/people/dy6149)      
 :::
 :::
