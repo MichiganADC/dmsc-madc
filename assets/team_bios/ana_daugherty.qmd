@@ -4,7 +4,7 @@ title: "Ana Daugherty"
 ::: {.grid}
 
 ::: {.g-col-6}
-![Ana Daugherty, PhD, PhD, Data Management and Statistical Core Affiliated Faculty](../images/daugherty_ana.jpg)
+![Ana Daugherty, PhD; Data Management and Statistical Core Affiliated Faculty; Associate Professor, Institute of Gerontology, Wayne State University](../images/daugherty_ana.jpg)
 :::
 
 ::: {.g-col-6}

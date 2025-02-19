@@ -20,6 +20,18 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - text: Data
+        menu:
+        - text: Data Documentation
+          href:  documentation.qmd
+        - text: Data Requests
+          href:  data_requests.qmd
+        - text: Summary Statistics
+          href:  data_insights.qmd
+      - text: Publications
+        href:  publications.qmd
+      - text: Resources
+        href:  resources.qmd
   announcement:
     content: "This site is currently in development, and we’re actively working to enhance its features and content. Please stay tuned for updates and improvements as we continue to build and refine the platform. Thank you for your patience and support!"
     position: below-navbar

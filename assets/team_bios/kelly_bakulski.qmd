@@ -4,7 +4,7 @@ title: "Kelly M. Bakulski, PhD"
 ::: {.grid}
 
 ::: {.g-col-6}
-![Kelly Bakulski, PhD, Data Management and Statistical Core Leader](../images/bakulski_kelly.png)
+![Kelly Bakulski, PhD; Data Management and Statistical Core Leader; Associate Professor, Epidemiology, University of Michigan School of Public Health](../images/bakulski_kelly.png)
 :::
 
 ::: {.g-col-6}

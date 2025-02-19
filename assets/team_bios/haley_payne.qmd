@@ -4,7 +4,7 @@ title: "Haley Payne"
 ::: {.grid}
 
 ::: {.g-col-6}
-![Haley Payne, Job Title](../images/Payne_Haley.jpg)
+![Haley Payne, Research Assistant](../images/Payne_Haley.jpg)
 :::
 
 ::: {.g-col-6}

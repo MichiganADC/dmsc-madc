@@ -4,7 +4,7 @@ title: "Jenna Anderson"
 ::: {.grid}
 
 ::: {.g-col-6}
-![Jenna Anderson, Job Title](../images/landscape-placeholder.svg)
+![Jenna Anderson, Job Title](../images/Anderson_Jenna2.jpg)
 :::
 
 ::: {.g-col-6}

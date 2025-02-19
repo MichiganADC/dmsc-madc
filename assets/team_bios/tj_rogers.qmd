@@ -4,7 +4,7 @@ title: "T.J. Rogers"
 ::: {.grid}
 
 ::: {.g-col-6}
-![T.J. Rogers, Job Title](../images/Rogers_Tajuan.jpg)
+![T.J. Rogers, Database Administrator](../images/Rogers_Tajuan.jpg)
 :::
 
 ::: {.g-col-6}

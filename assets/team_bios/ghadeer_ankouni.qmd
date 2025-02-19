@@ -5,7 +5,7 @@ title: "Ghadeer Ankouni"
 ::: {.grid}
 
 ::: {.g-col-6}
-![Ghadeer Ankouni, Job Title](../images/Ankouni_Ghadeer.jpg)
+![Ghadeer Ankouni, Data Entry Specialist](../images/Ankouni_Ghadeer.jpg)
 :::
 
 ::: {.g-col-6}

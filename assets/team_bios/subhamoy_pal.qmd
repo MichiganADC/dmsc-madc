@@ -4,7 +4,7 @@ title: "Subhamoy Pal"
 ::: {.grid}
 
 ::: {.g-col-6}
-![Subhamoy Pal, Statistician](../images/landscape-placeholder.svg)
+![Subhamoy Pal, Statistician](../images/Pal_Subhamoy.jpg)
 :::
 
 ::: {.g-col-6}
