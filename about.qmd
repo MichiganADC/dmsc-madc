@@ -25,14 +25,14 @@ The Data Management and Statistical Core (Data Core), led by Kelly Bakulski, PhD
 ::: {.g-col-4}
 [![Kelly Bakulski, PhD, Data Management and Statistical Core Leader](assets/images/bakulski_kelly.png)](assets/team_bios/kelly_bakulski.qmd)
 [**Kelly Bakulski, PhD**](assets/team_bios/kelly_bakulski.qmd)    
-Data Management and Statistical Core Leader    
+Data Management and Statistical Core Leader and    
 Associate Professor, Epidemiology, University of Michigan School of Public Health    
 :::
 
 ::: {.g-col-4}
 [![Ana Daugherty](assets/images/daugherty_ana.jpg)](assets/team_bios/ana_daugherty.qmd)
 [**Ana Daugherty, PhD**](assets/team_bios/ana_daugherty.qmd)    
-Data Management and Statistical Core Affiliated Faculty    
+Data Management and Statistical Core Affiliated Faculty and    
 Associate Professor, Institute of Gerontology, Wayne State University     
 :::
 
@@ -54,14 +54,14 @@ Data Systems Manager
 :::
 
 ::: {.g-col-4}
-[![Ghadeer Ankouni, Job Title](assets/images/Ankouni_Ghadeer.jpg)](assets/team_bios/ghadeer_ankouni.qmd)
+[![Ghadeer Ankouni, Data Entry Specialist](assets/images/Ankouni_Ghadeer.jpg)](assets/team_bios/ghadeer_ankouni.qmd)
 [**Ghadeer Ankouni**](assets/team_bios/ghadeer_ankouni.qmd)      
 Data Entry Specialist
 :::
 
 
 ::: {.g-col-4}
-[![Haley Payne, Job Title](assets/images/Payne_Haley.jpg)](assets/team_bios/haley_payne.qmd)
+[![Haley Payne, Research Assistant](assets/images/Payne_Haley.jpg)](assets/team_bios/haley_payne.qmd)
 [**Haley Payne**](assets/team_bios/haley_payne.qmd)      
 Research Assistant
 :::
@@ -70,7 +70,7 @@ Research Assistant
 :::
 
 ::: {.g-col-4}
-[![T.J. Rogers, Job Title](assets/images/Rogers_Tajuan.jpg)](assets/team_bios/tj_rogers.qmd)
+[![T.J. Rogers, Database Administrator](assets/images/Rogers_Tajuan.jpg)](assets/team_bios/tj_rogers.qmd)
 [**T.J. Rogers**](assets/team_bios/tj_rogers.qmd)      
 Database Administrator   
 :::
@@ -114,13 +114,13 @@ Statistician
 :::
 
 ::: {.g-col-4}
-[![Jenna Anderson, Research Assistant Title](assets/images/Anderson_Jenna2.jpg)](assets/team_bios/jenna_anderson.qmd)
+[![Jenna Anderson, Research Assistant](assets/images/Anderson_Jenna2.jpg)](assets/team_bios/jenna_anderson.qmd)
 [**Jenna Anderson**](assets/team_bios/jenna_anderson.qmd)     
 Research Assistant
 :::
 
 ::: {.g-col-4}
-[![Micaela Ihorn, Research Assistant](assets/images/landscape-placeholder.svg)](assets/team_bios/micaela_ihorn.qmd)
+[![Micaela Ihorn, Research Assistant](assets/images/portrait_placeholder.png)](assets/team_bios/micaela_ihorn.qmd)
 [**Micaela Ihorn**](assets/team_bios/micaela_ihorn.qmd)      
 Research Assistant
 :::
