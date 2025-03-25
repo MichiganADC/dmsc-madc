@@ -12,22 +12,41 @@ Established at Michigan Medicine and based in the Department of Neurology, the M
 * Work to address racial and ethnic disparities in Alzheimer’s disease and related dementias
 * Provide training and support to the next generation of clinicians and scientists
 
-## Meet the DMSC
+## Meet the Data Core
 
-The Data Management and Statistical Core (DMSC), led by [Kelly Bakulski, PhD](https://sph.umich.edu/faculty-profiles/bakulski-kelly.html), helps maintain our center's academic and research productivity by integrating and disseminating data to our research investigators. The data core manages data privacy, analyzes data for specific research projects, and facilitates data sharing nationally with the National Alzheimer’s Coordinating Center.
+The Data Management and Statistical Core (Data Core), led by Kelly Bakulski, PhD, helps maintain our center's academic and research productivity by integrating and disseminating data to our research investigators. The data core manages data privacy, analyzes data for specific research projects, and facilitates data sharing nationally with the National Alzheimer’s Coordinating Center.
 
 ::: {.grid}
 
 ::: {.g-col-4}
-### **Leadership**
+### **Faculty Leadership**
 :::
 
 ::: {.g-col-4}
-![Kelly Bakulski, PhD, Data Management and Statistical Core Leader](assets/images/landscape-placeholder.svg)
+[![Kelly Bakulski, PhD, Data Management and Statistical Core Leader](assets/images/bakulski_kelly.png)](assets/team_bios/kelly_bakulski.qmd)
+[**Kelly Bakulski, PhD**](assets/team_bios/kelly_bakulski.qmd)    
+Data Management and Statistical Core Leader and    
+Associate Professor, Epidemiology, University of Michigan School of Public Health    
 :::
 
 ::: {.g-col-4}
-![Jon Reader, Data Systems Manager](assets/images/landscape-placeholder.svg)
+[![Ana Daugherty](assets/images/daugherty_ana.jpg)](assets/team_bios/ana_daugherty.qmd)
+[**Ana Daugherty, PhD**](assets/team_bios/ana_daugherty.qmd)    
+Data Management and Statistical Core Affiliated Faculty and    
+Associate Professor, Institute of Gerontology, Wayne State University     
+:::
+
+::: {.g-col-4}
+### **Staff Leadership**
+:::
+
+::: {.g-col-4}
+[![Jon Reader, Data Systems Manager](assets/images/Reader_Jon.jpg)](assets/team_bios/jon_reader.qmd)
+[**Jon Reader**](assets/team_bios/jon_reader.qmd)    
+Data Systems Manager
+:::
+
+::: {.g-col-4}
 :::
 
 ::: {.g-col-4}
@@ -35,57 +54,75 @@ The Data Management and Statistical Core (DMSC), led by [Kelly Bakulski, PhD](ht
 :::
 
 ::: {.g-col-4}
-![T.J. Rogers, Job Title](assets/images/landscape-placeholder.svg)
+[![Ghadeer Ankouni, Data Entry Specialist](assets/images/Ankouni_Ghadeer.jpg)](assets/team_bios/ghadeer_ankouni.qmd)
+[**Ghadeer Ankouni**](assets/team_bios/ghadeer_ankouni.qmd)      
+Data Entry Specialist
 :::
 
-::: {.g-col-4}
-![Ghadeer Ankouni, Job Title](assets/images/landscape-placeholder.svg)
-:::
 
 ::: {.g-col-4}
-:::
-
-::: {.g-col-4}
-![Haley Payne, Job Title](assets/images/landscape-placeholder.svg)
+[![Haley Payne, Research Assistant](assets/images/Payne_Haley.jpg)](assets/team_bios/haley_payne.qmd)
+[**Haley Payne**](assets/team_bios/haley_payne.qmd)      
+Research Assistant
 :::
 
 ::: {.g-col-4}
 :::
 
+::: {.g-col-4}
+[![T.J. Rogers, Database Administrator](assets/images/Rogers_Tajuan.jpg)](assets/team_bios/tj_rogers.qmd)
+[**T.J. Rogers**](assets/team_bios/tj_rogers.qmd)      
+Database Administrator   
+:::
+
+::: {.g-col-4}
+:::
 
 ::: {.g-col-4}
 ### **Programming and Analysis**
 :::
 
 ::: {.g-col-4}
-![Allyson Gregoire, Data Analyst/Programmer](assets/images/landscape-placeholder.svg)
+[![Allyson Gregoire, Data Analyst / Programmer](assets/images/Gregoire_Allyson.jpg)](assets/team_bios/allyson_gregoire.qmd)
+[**Allyson Gregoire**](assets/team_bios/allyson_gregoire.qmd)    
+Data Analyst / Programmer
 :::
 
 ::: {.g-col-4}
-![Subhamoy Pal, Statistician](assets/images/landscape-placeholder.svg)
+[![Kenneth Petscavage, Data Analyst / Programmer](assets/images/Petscavage_Kenny.jpg)](assets/team_bios/kenneth_petscavage.qmd)
+[**Kenneth Petscavage**](assets/team_bios/kenneth_petscavage.qmd)      
+Data Analyst / Programmer
 :::
 
 ::: {.g-col-4}
 :::
 
 ::: {.g-col-4}
-![Miranda Cooper, Data Analyst/Programmer](assets/images/landscape-placeholder.svg)
+[![Miranda Cooper, Data Analyst / Programmer](assets/images/Cooper_Miranda.jpg)](assets/team_bios/miranda_cooper.qmd)
+[**Miranda Cooper**](assets/team_bios/miranda_cooper.qmd)      
+Data Analyst / Programmer
 :::
 
 ::: {.g-col-4}
-![Kenneth Petscavage, Data Analyst/Programmer](assets/images/landscape-placeholder.svg)
+[![Subhamoy Pal, Statistician](assets/images/Pal_Subhamoy.jpg)](assets/team_bios/subhamoy_pal.qmd)
+[**Subhamoy Pal**](assets/team_bios/subhamoy_pal.qmd)      
+Statistician
 :::
 
 ::: {.g-col-4}
-### **Research Assistants**
+### **Student Research Assistants**
 :::
 
 ::: {.g-col-4}
-![Micaela Ihorn, Job Title](assets/images/landscape-placeholder.svg)
+[![Jenna Anderson, Research Assistant](assets/images/Anderson_Jenna2.jpg)](assets/team_bios/jenna_anderson.qmd)
+[**Jenna Anderson**](assets/team_bios/jenna_anderson.qmd)     
+Research Assistant
 :::
 
 ::: {.g-col-4}
-![Jenna Anderson, Job Title](assets/images/landscape-placeholder.svg)
+[![Micaela Ihorn, Research Assistant](assets/images/portrait_placeholder.png)](assets/team_bios/micaela_ihorn.qmd)
+[**Micaela Ihorn**](assets/team_bios/micaela_ihorn.qmd)      
+Research Assistant
 :::
 
 :::

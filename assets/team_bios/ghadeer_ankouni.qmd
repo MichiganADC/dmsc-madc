@@ -1,0 +1,16 @@
+---
+title: "Ghadeer Ankouni"
+---
+
+::: {.grid}
+
+::: {.g-col-6}
+![Ghadeer Ankouni, Data Entry Specialist](../images/Ankouni_Ghadeer.jpg)
+:::
+
+::: {.g-col-6}
+
+Ghadeer has been with the Michigan Alzheimer's Disease Center since February of 2023 as a member of Data Core as a Data Entry Specialist. She earned her B.S. in Psychology from Eastern Michigan University in December of 2021. Ghadeer's role in the data core includes entering data from various visits and studies, working alongside other cores to ensure the data is accurate, as well as prepping and handling study visit packets. Reach out to Ghadeer for any questions regarding REDCap, participant visits, or specific visit questions. In her free time, Ghadeer loves to bake and create her own recipes! 
+
+:::
+:::

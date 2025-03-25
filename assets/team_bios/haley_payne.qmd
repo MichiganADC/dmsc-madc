@@ -1,0 +1,15 @@
+---
+title: "Haley Payne"
+---
+::: {.grid}
+
+::: {.g-col-6}
+![Haley Payne, Research Assistant](../images/Payne_Haley.jpg)
+:::
+
+::: {.g-col-6}
+
+Haley joined the Michigan Alzheimer’s Disease Center in February of 2024 as a member of the Data Core Team as a Research Assistant (Temp). She earned her B.S. in Neuroscience and Psychology from Michigan State University in 2023. Haley’s role in data core includes prepping and handling visit packets for various studies, entering data into REDCap, and assisting with the NACC verification process. Haley also provides support for other cores across the center when needed. Currently, Haley is expanding her skills by assisting the computational team of our Neuroimaging Core. In her free time, Haley loves going to the gym and traveling the world!  
+
+:::
+:::

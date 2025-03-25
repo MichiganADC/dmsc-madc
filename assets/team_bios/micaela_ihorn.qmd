@@ -1,0 +1,15 @@
+---
+title: "Micaela Ihorn"
+---
+::: {.grid}
+
+::: {.g-col-6}
+![Micaela Ihorn, Research Assistant](../images/portrait_placeholder.png)
+:::
+
+::: {.g-col-6}
+
+Coming Soon...
+
+:::
+:::

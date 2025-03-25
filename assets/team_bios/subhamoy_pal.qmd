@@ -1,0 +1,15 @@
+---
+title: "Subhamoy Pal"
+---
+::: {.grid}
+
+::: {.g-col-6}
+![Subhamoy Pal, Statistician](../images/Pal_Subhamoy.jpg)
+:::
+
+::: {.g-col-6}
+
+Subhamoy has been working as a Statistician on the Data Management and Statistical Core of the Michigan Alzheimer’s Disease Research Center since Aug, 2022. Subhamoy has expertise in neuropsychological data analysis and analyses of Alzheimer’s disease and related dementia biomarkers. His role is working across various clinical, observational, and trial projects with repeated measures for data analysis and cognitive assessments. As a biostatistician, his journey in medical and health care research reflects both a professional interest and personal preference. He completed a PhD in Statistics from Bowling Green State University, where he developed methods for improving power for the Cox proportional Hazards Model. He received training from several excellent professors during his academic career and developed analytic skills, specifically in the areas of clinical trials and clinical study research, missing data, and Intraclass correlation.    
+
+:::
+:::

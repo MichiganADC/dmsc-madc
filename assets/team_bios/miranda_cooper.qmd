@@ -1,0 +1,15 @@
+---
+title: "Miranda Cooper"
+---
+::: {.grid}
+
+::: {.g-col-6}
+![Miranda Cooper, Data Analyst / Programmer](../images/Cooper_Miranda.jpg)
+:::
+
+::: {.g-col-6}
+
+Miranda is a Data Analyst / Programmer with a Master of Science in Information and over nine years of experience in workflow automation, data management, and analytics. She specializes in building scalable automation systems and applications to streamline operations and is currently expanding her expertise in cloud data infrastructure by learning dbt. Passionate about R, Python, Power Automate, and data pipeline automation, she enjoys discussing innovative ways to optimize processes and improve efficiency through automation. Outside of work, Miranda once walked 50,000 steps in a single day - from Troy, MI, to the Detroit Zoo and back -  and loves treasure hunting at garage sales and reselling unique finds on eBay. 
+
+:::
+:::

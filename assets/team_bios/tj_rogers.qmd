@@ -1,0 +1,15 @@
+---
+title: "T.J. Rogers"
+---
+::: {.grid}
+
+::: {.g-col-6}
+![T.J. Rogers, Database Administrator](../images/Rogers_Tajuan.jpg)
+:::
+
+::: {.g-col-6}
+
+T.J. joined the MADC in the winter of 2023 as a Database Administrator. Holding a M.S. in Information Systems from Murray State University, he plays a key role in preparing data for consensus conference meetings. He is also responsible for digitizing and organizing paper records for a large registry of longitudinal studies. Beyond his professional experience, he usually spends his time staying current with technology trends and expanding his knowledge of business and personal finance.   
+
+:::
+:::

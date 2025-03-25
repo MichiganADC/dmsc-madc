@@ -1,38 +1,24 @@
 ---
 title: ""
+draft: true
 ---
-![](assets/images/madrc-logo-dark-text.png){fig-align="center" fig-alt="The Michigan Alzheimer's Disease Research Center logo" width=400}
 
-# MADC Data Core Sharing Hub
-The MADC Data Core Sharing Hub is a public platform created by the Data Management and Statistical Core (DMSC) at the [Michigan Alzheimer’s Disease Center (MADC)](https://medresearch.umich.edu/labs-departments/centers/madc/about). Based at Michigan Medicine, MADC is a key contributor to the broader Michigan Alzheimer’s Disease Research Center (MADRC), a multi-university collaboration with Wayne State University and Michigan State University.
+# Michigan Alzheimer's Disease Research Center Data Core Sharing Hub
 
-This site is dedicated to showcasing the resources and expertise of the MADC Data Core, supporting Alzheimer’s research through the dissemination of tools, visualizations, and knowledge. Here, you will find:
-
-* **Code:** Scripts and programming resources developed by our team.
-* **Data Visualizations:** Interactive and insightful visual representations of research data.
-* **R Packages:** Custom-developed data manipulation and statistical tools for Alzheimer’s research.
-* **Publications:** A showcase of our peer-reviewed research contributions.
-* **Documentation:** User-friendly guides for our tools and systems.
-* **Data Dictionaries:** Comprehensive references for understanding our datasets.
-* **And More:** Resources and materials that highlight the breadth of our expertise and support for the Alzheimer’s research community.
-
-The MADC Data Core Sharing Hub highlights the impactful work of our team and reflects our commitment to fostering collaboration and innovation in Alzheimer’s research.
-
-Explore our resources and discover how the MADC Data Core contributes to advancing knowledge and improving care for those affected by Alzheimer’s disease.
-
-## Quick Links
 ::: {.grid}
 
-::: {.g-col-6}
-* **[GitHub Source Code for this site](https://github.com/MichiganADC/dmsc-madc)**
-* **[Placeholder Link]()**
-* **[Placeholder Link]()**
+::: {.g-col-8}
+The Michigan Alzheimer’s Disease Research Center (MADRC) Data Core Sharing Hub is a public platform dedicated to supporting Alzheimer’s disease and related dementias research through the dissemination of data, analytic tools, and knowledge.    
+
+This website is created and maintained by the Data Management and Statistical Core (Data Core) at the [MADRC](https://medresearch.umich.edu/labs-departments/centers/madc/research). The MADRC is a statewide, multi-university collaboration between the University of Michigan, Wayne State University, and Michigan State University housed at the Michigan Alzheimer’s Disease Center [MADC](https://medresearch.umich.edu/labs-departments/centers/madc) at the University of Michigan Medical School. The MARDC Data Core Sharing Hub highlights the impactful work of our team and reflects our commitment to fostering collaboration and innovation in Alzheimer’s research. The MADRC is grateful for financial support from the National Institute on Aging (P30 AG072931).    
 :::
 
-::: {.g-col-6}
-* **[Placeholder Link]()**
-* **[Placeholder Link]()**
-* **[Placeholder Link]()**
+::: {.g-col-4}
+![](assets/images/madrc-logo-dark-text.png){fig-align="center" fig-alt="The Michigan Alzheimer's Disease Research Center logo" width=300}
 :::
 
 :::
+
+Explore our resources and discover how the MADRC Data Core contributes to advancing knowledge and improving care for those affected by Alzheimer’s disease and their communities.
+
+![](assets/images/horizontal_placeholder.jpg){fig-align="center" fig-alt="An interactive map of the Data Core Sharing Hub website" width=800}
