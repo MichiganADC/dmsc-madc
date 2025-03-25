@@ -1,0 +1,12 @@
+---
+title: "Label Libraries"
+format: html
+---
+
+## National Alzheimer’s Coordinating Center (NACC) Uniform Data Set (UDS)
+
+|    Form    |         Title        |      CSV       |      R       |     SAS      |    SPSS      |   Stata      |
+|------------|----------------------|----------------|--------------|--------------|--------------|--------------|
+| Form A1    | Subject Demographics |  [Download]()  | [Download]() | [Download]() | [Download]() | [Download]() |
+| Form A2    | Co-participant Demographics |  [Download]()  | [Download]() | [Download]() | [Download]() | [Download]() |
+| Form A3    | Subject Family History |  [Download]()  | [Download]() | [Download]() | [Download]() | [Download]() |
