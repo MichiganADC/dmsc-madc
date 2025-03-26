@@ -46,3 +46,7 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Ignore quarto output files
+/.quarto/
+/_site/
