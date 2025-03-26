@@ -2,7 +2,7 @@ project:
   title: 'Michigan Alzheimer’s Disease Research Center Data Core Sharing Hub'
   type: website
   output-dir: docs
-  
+
 website:
   title: "MADRC Data Core Sharing Hub"
   description: "A public website showcasing resources from the Data Management and Statistical Core at the Michigan Alzheimer's Disease Center."
