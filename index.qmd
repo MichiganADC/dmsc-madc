@@ -1,6 +1,5 @@
 ---
 title: "Michigan Alzheimer's Disease Research Center"
-draft: true
 ---
 
 # Data Core Sharing Hub
