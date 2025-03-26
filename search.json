@@ -1,66 +1,24 @@
 [
   {
-    "objectID": "resources.html",
-    "href": "resources.html",
-    "title": "Statistical Resources & Educational Materials",
+    "objectID": "label_libraries.html",
+    "href": "label_libraries.html",
+    "title": "Label Libraries",
+    "section": "",
+    "text": "Form\nTitle\nCSV\nR\nSAS\nSPSS\nStata\n\n\n\n\nForm A1\nSubject Demographics\nDownload\nDownload\nDownload\nDownload\nDownload\n\n\nForm A2\nCo-participant Demographics\nDownload\nDownload\nDownload\nDownload\nDownload\n\n\nForm A3\nSubject Family History\nDownload\nDownload\nDownload\nDownload\nDownload"
+  },
+  {
+    "objectID": "label_libraries.html#national-alzheimers-coordinating-center-nacc-uniform-data-set-uds",
+    "href": "label_libraries.html#national-alzheimers-coordinating-center-nacc-uniform-data-set-uds",
+    "title": "Label Libraries",
+    "section": "",
+    "text": "Form\nTitle\nCSV\nR\nSAS\nSPSS\nStata\n\n\n\n\nForm A1\nSubject Demographics\nDownload\nDownload\nDownload\nDownload\nDownload\n\n\nForm A2\nCo-participant Demographics\nDownload\nDownload\nDownload\nDownload\nDownload\n\n\nForm A3\nSubject Family History\nDownload\nDownload\nDownload\nDownload\nDownload"
+  },
+  {
+    "objectID": "request_madrc_data.html",
+    "href": "request_madrc_data.html",
+    "title": "Request MADRC Data",
     "section": "",
     "text": "Back to top"
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "data_dictionary.html",
-    "href": "data_dictionary.html",
-    "title": "Data Dictionary",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "assets/team_bios/subhamoy_pal.html",
-    "href": "assets/team_bios/subhamoy_pal.html",
-    "title": "Subhamoy Pal",
-    "section": "",
-    "text": "Subhamoy Pal, Statistician\n\n\n\n\nSubhamoy has been working as a Statistician on the Data Management and Statistical Core of the Michigan Alzheimer’s Disease Research Center since Aug, 2022. Subhamoy has expertise in neuropsychological data analysis and analyses of Alzheimer’s disease and related dementia biomarkers. His role is working across various clinical, observational, and trial projects with repeated measures for data analysis and cognitive assessments. As a biostatistician, his journey in medical and health care research reflects both a professional interest and personal preference. He completed a PhD in Statistics from Bowling Green State University, where he developed methods for improving power for the Cox proportional Hazards Model. He received training from several excellent professors during his academic career and developed analytic skills, specifically in the areas of clinical trials and clinical study research, missing data, and Intraclass correlation.\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "assets/team_bios/micaela_ihorn.html",
-    "href": "assets/team_bios/micaela_ihorn.html",
-    "title": "Micaela Ihorn",
-    "section": "",
-    "text": "Micaela Ihorn, Research Assistant\n\n\n\n\nComing Soon…\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "assets/team_bios/kelly_bakulski.html",
-    "href": "assets/team_bios/kelly_bakulski.html",
-    "title": "Kelly M. Bakulski, PhD",
-    "section": "",
-    "text": "Kelly Bakulski, PhD; Data Management and Statistical Core Leader; Associate Professor, Epidemiology, University of Michigan School of Public Health\n\n\n\n\nDr. Kelly Bakulski is an Associate Professor with tenure in the Department of Epidemiology at the University of Michigan School of Public Health. She is a molecular epidemiologist and environmental health scientist who investigates the roles of environmental chemicals, epigenetics, and genetics in the etiology of neurological diseases. Her team develops biomarker and cell type specific tools to inform population-based approaches. She has published over 110 peer-reviewed articles and has had continuous funding support from the National Institutes of Health. Dr. Bakulski was granted the 2024 Mid-career Biosciences Faculty Achievement Recognition Award for outstanding research performance at the University of Michigan. She is passionate about mentoring and is a recipient of the School of Public Health Excellence in Teaching Award.\nFaculty Profile\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "assets/team_bios/jenna_anderson.html",
-    "href": "assets/team_bios/jenna_anderson.html",
-    "title": "Jenna Anderson",
-    "section": "",
-    "text": "Jenna Anderson, Research Assistant\n\n\n\n\nJenna Joined the Michigan Alzheimer’s Disease Center in the summer of 2023 and was a member of the Clinical Core until the Fall of 2024 when she joined the Data Core as a Research Assistant (Temp). She earned her B.S. in Psychology from Virginia Commonwealth University in 2018 and is currently obtaining her MPH in Epidemiology at the University of Michigan. Jenna’s role in data core includes: prepping and handling visit packets for various studies, entering data into REDCap, and various other small projects. Reach out to Jenna if you have any questions regarding participant visits or specific visit questions. In her free time, Jenna loves to play different sports, like soccer and judo, and enjoys traveling.\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "assets/team_bios/ghadeer_ankouni.html",
-    "href": "assets/team_bios/ghadeer_ankouni.html",
-    "title": "Ghadeer Ankouni",
-    "section": "",
-    "text": "Ghadeer Ankouni, Data Entry Specialist\n\n\n\n\nGhadeer has been with the Michigan Alzheimer’s Disease Center since February of 2023 as a member of Data Core as a Data Entry Specialist. She earned her B.S. in Psychology from Eastern Michigan University in December of 2021. Ghadeer’s role in the data core includes entering data from various visits and studies, working alongside other cores to ensure the data is accurate, as well as prepping and handling study visit packets. Reach out to Ghadeer for any questions regarding REDCap, participant visits, or specific visit questions. In her free time, Ghadeer loves to bake and create her own recipes!\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "assets/team_bios/allyson_gregoire.html",
-    "href": "assets/team_bios/allyson_gregoire.html",
-    "title": "Allyson Gregoire",
-    "section": "",
-    "text": "Allyson Gregoire, Data Analyst/Programmer\n\n\n\n\nAllyson joined the Michigan Alzheimer’s Disease Center in the summer of 2021 as a member of the data core team as a Data Analyst/Programmer. She earned her B.S. in Biochemistry and Molecular Biology from Michigan State University in 2016 and an MPH in Epidemiology from the University of Michigan in 2019. Allyson’s role in the data core includes working with center collaborators to perform statistical analyses and to support data management and dissemination. Allyson is a center resource for technical questions relating to R, Tableau, REDCap and SQL, and can serve as statistical analysis support for hypothesis testing and regression models including linear, logistic and Cox proportional hazards models. Allyson is currently working on expanding her expertise into -omics modeling and learning to be an at-home barista.\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "about.html",
@@ -91,11 +49,25 @@
     "text": "Ana Daugherty, PhD; Data Management and Statistical Core Affiliated Faculty; Associate Professor, Institute of Gerontology, Wayne State University\n\n\n\n\nDr. Daugherty is a cognitive neuroscientist with a specialty in aging, Alzheimer’s disease and related dementia. Her research characterizes individual differences in aging across the adult lifespan to identify both risk and protective factors that modify changes in the brain, and related changes in thinking and memory functions. The long-term goal of her work is to reduce disparities in late-life cognitive health.\nShe directs the Detroit Aging Brain Study: a community-partnered longitudinal study going on over 22 years in the Metro Detroit area to study changes in brain structure and function across the healthy, adult lifespan.\nShe is affiliated faculty in the Michigan Alzheimer’s Disease Research Center, lead of its Research Education Component, and co-investigator of the cener’s Data Management and Statistical Analysis Core and NeuroImaging Core.\nShe is also affiliated faculty and serves on the steering committee of the Translational Neuroscience Program (Wayne State University School of Medicine).\nFaculty Profile\n\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "assets/team_bios/haley_payne.html",
-    "href": "assets/team_bios/haley_payne.html",
-    "title": "Haley Payne",
+    "objectID": "assets/team_bios/miranda_cooper.html",
+    "href": "assets/team_bios/miranda_cooper.html",
+    "title": "Miranda Cooper",
     "section": "",
-    "text": "Haley Payne, Research Assistant\n\n\n\n\nHaley joined the Michigan Alzheimer’s Disease Center in February of 2024 as a member of the Data Core Team as a Research Assistant (Temp). She earned her B.S. in Neuroscience and Psychology from Michigan State University in 2023. Haley’s role in data core includes prepping and handling visit packets for various studies, entering data into REDCap, and assisting with the NACC verification process. Haley also provides support for other cores across the center when needed. Currently, Haley is expanding her skills by assisting the computational team of our Neuroimaging Core. In her free time, Haley loves going to the gym and traveling the world!\n\n\n\n\n\n Back to top"
+    "text": "Miranda Cooper, Data Analyst / Programmer\n\n\n\n\nMiranda is a Data Analyst / Programmer with a Master of Science in Information and over nine years of experience in workflow automation, data management, and analytics. She specializes in building scalable automation systems and applications to streamline operations and is currently expanding her expertise in cloud data infrastructure by learning dbt. Passionate about R, Python, Power Automate, and data pipeline automation, she enjoys discussing innovative ways to optimize processes and improve efficiency through automation. Outside of work, Miranda once walked 50,000 steps in a single day - from Troy, MI, to the Detroit Zoo and back - and loves treasure hunting at garage sales and reselling unique finds on eBay.\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "assets/team_bios/ghadeer_ankouni.html",
+    "href": "assets/team_bios/ghadeer_ankouni.html",
+    "title": "Ghadeer Ankouni",
+    "section": "",
+    "text": "Ghadeer Ankouni, Data Entry Specialist\n\n\n\n\nGhadeer has been with the Michigan Alzheimer’s Disease Center since February of 2023 as a member of Data Core as a Data Entry Specialist. She earned her B.S. in Psychology from Eastern Michigan University in December of 2021. Ghadeer’s role in the data core includes entering data from various visits and studies, working alongside other cores to ensure the data is accurate, as well as prepping and handling study visit packets. Reach out to Ghadeer for any questions regarding REDCap, participant visits, or specific visit questions. In her free time, Ghadeer loves to bake and create her own recipes!\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "assets/team_bios/allyson_gregoire.html",
+    "href": "assets/team_bios/allyson_gregoire.html",
+    "title": "Allyson Gregoire",
+    "section": "",
+    "text": "Allyson Gregoire, Data Analyst/Programmer\n\n\n\n\nAllyson joined the Michigan Alzheimer’s Disease Center in the summer of 2021 as a member of the data core team as a Data Analyst/Programmer. She earned her B.S. in Biochemistry and Molecular Biology from Michigan State University in 2016 and an MPH in Epidemiology from the University of Michigan in 2019. Allyson’s role in the data core includes working with center collaborators to perform statistical analyses and to support data management and dissemination. Allyson is a center resource for technical questions relating to R, Tableau, REDCap and SQL, and can serve as statistical analysis support for hypothesis testing and regression models including linear, logistic and Cox proportional hazards models. Allyson is currently working on expanding her expertise into -omics modeling and learning to be an at-home barista.\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "assets/team_bios/jon_reader.html",
@@ -105,25 +77,11 @@
     "text": "Jon Reader, Data Systems Manager\n\n\n\n\nJon joined the Michigan Alzheimer’s Disease Center in the summer of 2019 as a Data Analyst/Programmer as part of Data Core. In 2021, he became the Data Core Manager. Jon earned his M.S in Human Development and Family Studies from The Pennsylvania State University in 2015. Jon’s role in the data core includes supervising the Data Core team, working with other Core managers, center-affiliated investigators, other centers, and the National Alzheimer’s Coordinating Center. Jon is a center resource for pointing technical and statistical questions to appropriate team members. Jon is currently working on expanding his expertise into proper project management skills/techniques and taking pictures of his cats.\n\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "assets/team_bios/kenneth_petscavage.html",
-    "href": "assets/team_bios/kenneth_petscavage.html",
-    "title": "Kenneth Petscavage",
+    "objectID": "assets/team_bios/micaela_ihorn.html",
+    "href": "assets/team_bios/micaela_ihorn.html",
+    "title": "Micaela Ihorn",
     "section": "",
-    "text": "Kenneth Petscavage, Data Analyst / Programmer\n\n\n\n\nKenny joined the Michigan Alzheimer’s Disease Center in the summer of 2023 as a member of the data core team as a Data Analyst/Programmer. He earned his B.S. in Statistics from Virginia Tech in 2021 and an MPH in Global Health Epidemiology from the University of Michigan in 2023. Kenny’s role includes working with researchers and staff to improve data management processes and support data analysis, primarily working in R, REDCap, and Power Automate. He also helps support collaborative projects between the MADC and another research program at U-M, the RP-CNBI. Kenny is currently working on learning SQL and enjoys running in his free time.\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "assets/team_bios/miranda_cooper.html",
-    "href": "assets/team_bios/miranda_cooper.html",
-    "title": "Miranda Cooper",
-    "section": "",
-    "text": "Miranda Cooper, Data Analyst / Programmer\n\n\n\n\nMiranda is a Data Analyst / Programmer with a Master of Science in Information and over nine years of experience in workflow automation, data management, and analytics. She specializes in building scalable automation systems and applications to streamline operations and is currently expanding her expertise in cloud data infrastructure by learning dbt. Passionate about R, Python, Power Automate, and data pipeline automation, she enjoys discussing innovative ways to optimize processes and improve efficiency through automation. Outside of work, Miranda once walked 50,000 steps in a single day - from Troy, MI, to the Detroit Zoo and back - and loves treasure hunting at garage sales and reselling unique finds on eBay.\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "assets/team_bios/tj_rogers.html",
-    "href": "assets/team_bios/tj_rogers.html",
-    "title": "T.J. Rogers",
-    "section": "",
-    "text": "T.J. Rogers, Database Administrator\n\n\n\n\nT.J. joined the MADC in the winter of 2023 as a Database Administrator. Holding a M.S. in Information Systems from Murray State University, he plays a key role in preparing data for consensus conference meetings. He is also responsible for digitizing and organizing paper records for a large registry of longitudinal studies. Beyond his professional experience, he usually spends his time staying current with technology trends and expanding his knowledge of business and personal finance.\n\n\n\n\n\n Back to top"
+    "text": "Micaela Ihorn, Research Assistant\n\n\n\n\nComing Soon…\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "data_insights.html",
@@ -133,23 +91,65 @@
     "text": "Back to top"
   },
   {
-    "objectID": "label_libraries.html",
-    "href": "label_libraries.html",
-    "title": "Label Libraries",
+    "objectID": "assets/team_bios/kenneth_petscavage.html",
+    "href": "assets/team_bios/kenneth_petscavage.html",
+    "title": "Kenneth Petscavage",
     "section": "",
-    "text": "Form\nTitle\nCSV\nR\nSAS\nSPSS\nStata\n\n\n\n\nForm A1\nSubject Demographics\nDownload\nDownload\nDownload\nDownload\nDownload\n\n\nForm A2\nCo-participant Demographics\nDownload\nDownload\nDownload\nDownload\nDownload\n\n\nForm A3\nSubject Family History\nDownload\nDownload\nDownload\nDownload\nDownload"
+    "text": "Kenneth Petscavage, Data Analyst / Programmer\n\n\n\n\nKenny joined the Michigan Alzheimer’s Disease Center in the summer of 2023 as a member of the data core team as a Data Analyst/Programmer. He earned his B.S. in Statistics from Virginia Tech in 2021 and an MPH in Global Health Epidemiology from the University of Michigan in 2023. Kenny’s role includes working with researchers and staff to improve data management processes and support data analysis, primarily working in R, REDCap, and Power Automate. He also helps support collaborative projects between the MADC and another research program at U-M, the RP-CNBI. Kenny is currently working on learning SQL and enjoys running in his free time.\n\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "label_libraries.html#national-alzheimers-coordinating-center-nacc-uniform-data-set-uds",
-    "href": "label_libraries.html#national-alzheimers-coordinating-center-nacc-uniform-data-set-uds",
-    "title": "Label Libraries",
+    "objectID": "assets/team_bios/subhamoy_pal.html",
+    "href": "assets/team_bios/subhamoy_pal.html",
+    "title": "Subhamoy Pal",
     "section": "",
-    "text": "Form\nTitle\nCSV\nR\nSAS\nSPSS\nStata\n\n\n\n\nForm A1\nSubject Demographics\nDownload\nDownload\nDownload\nDownload\nDownload\n\n\nForm A2\nCo-participant Demographics\nDownload\nDownload\nDownload\nDownload\nDownload\n\n\nForm A3\nSubject Family History\nDownload\nDownload\nDownload\nDownload\nDownload"
+    "text": "Subhamoy Pal, Statistician\n\n\n\n\nSubhamoy has been working as a Statistician on the Data Management and Statistical Core of the Michigan Alzheimer’s Disease Research Center since Aug, 2022. Subhamoy has expertise in neuropsychological data analysis and analyses of Alzheimer’s disease and related dementia biomarkers. His role is working across various clinical, observational, and trial projects with repeated measures for data analysis and cognitive assessments. As a biostatistician, his journey in medical and health care research reflects both a professional interest and personal preference. He completed a PhD in Statistics from Bowling Green State University, where he developed methods for improving power for the Cox proportional Hazards Model. He received training from several excellent professors during his academic career and developed analytic skills, specifically in the areas of clinical trials and clinical study research, missing data, and Intraclass correlation.\n\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "request_madrc_data.html",
-    "href": "request_madrc_data.html",
-    "title": "Request MADRC Data",
+    "objectID": "assets/team_bios/jenna_anderson.html",
+    "href": "assets/team_bios/jenna_anderson.html",
+    "title": "Jenna Anderson",
+    "section": "",
+    "text": "Jenna Anderson, Research Assistant\n\n\n\n\nJenna Joined the Michigan Alzheimer’s Disease Center in the summer of 2023 and was a member of the Clinical Core until the Fall of 2024 when she joined the Data Core as a Research Assistant (Temp). She earned her B.S. in Psychology from Virginia Commonwealth University in 2018 and is currently obtaining her MPH in Epidemiology at the University of Michigan. Jenna’s role in data core includes: prepping and handling visit packets for various studies, entering data into REDCap, and various other small projects. Reach out to Jenna if you have any questions regarding participant visits or specific visit questions. In her free time, Jenna loves to play different sports, like soccer and judo, and enjoys traveling.\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "assets/team_bios/kelly_bakulski.html",
+    "href": "assets/team_bios/kelly_bakulski.html",
+    "title": "Kelly M. Bakulski, PhD",
+    "section": "",
+    "text": "Kelly Bakulski, PhD; Data Management and Statistical Core Leader; Associate Professor, Epidemiology, University of Michigan School of Public Health\n\n\n\n\nDr. Kelly Bakulski is an Associate Professor with tenure in the Department of Epidemiology at the University of Michigan School of Public Health. She is a molecular epidemiologist and environmental health scientist who investigates the roles of environmental chemicals, epigenetics, and genetics in the etiology of neurological diseases. Her team develops biomarker and cell type specific tools to inform population-based approaches. She has published over 110 peer-reviewed articles and has had continuous funding support from the National Institutes of Health. Dr. Bakulski was granted the 2024 Mid-career Biosciences Faculty Achievement Recognition Award for outstanding research performance at the University of Michigan. She is passionate about mentoring and is a recipient of the School of Public Health Excellence in Teaching Award.\nFaculty Profile\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "assets/team_bios/tj_rogers.html",
+    "href": "assets/team_bios/tj_rogers.html",
+    "title": "T.J. Rogers",
+    "section": "",
+    "text": "T.J. Rogers, Database Administrator\n\n\n\n\nT.J. joined the MADC in the winter of 2023 as a Database Administrator. Holding a M.S. in Information Systems from Murray State University, he plays a key role in preparing data for consensus conference meetings. He is also responsible for digitizing and organizing paper records for a large registry of longitudinal studies. Beyond his professional experience, he usually spends his time staying current with technology trends and expanding his knowledge of business and personal finance.\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "assets/team_bios/haley_payne.html",
+    "href": "assets/team_bios/haley_payne.html",
+    "title": "Haley Payne",
+    "section": "",
+    "text": "Haley Payne, Research Assistant\n\n\n\n\nHaley joined the Michigan Alzheimer’s Disease Center in February of 2024 as a member of the Data Core Team as a Research Assistant (Temp). She earned her B.S. in Neuroscience and Psychology from Michigan State University in 2023. Haley’s role in data core includes prepping and handling visit packets for various studies, entering data into REDCap, and assisting with the NACC verification process. Haley also provides support for other cores across the center when needed. Currently, Haley is expanding her skills by assisting the computational team of our Neuroimaging Core. In her free time, Haley loves going to the gym and traveling the world!\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Statistical Resources & Educational Materials",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "data_dictionary.html",
+    "href": "data_dictionary.html",
+    "title": "Data Dictionary",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
     "section": "",
     "text": "Back to top"
   }
