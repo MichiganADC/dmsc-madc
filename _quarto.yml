@@ -14,7 +14,7 @@ website:
   back-to-top-navigation: true
   navbar:
     background: light
-    logo: assets\images\favicon_io\favicon.ico
+    logo: assets/images/favicon_io/favicon.ico
     logo-alt: "The University of Michigan block M logo"
     collapse: true
     right:
