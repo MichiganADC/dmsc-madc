@@ -7,6 +7,7 @@ website:
   description: "A public website showcasing resources from the Data Management and Statistical Core at the Michigan Alzheimer's Disease Center."
   favicon: assets/images/favicon_io/favicon.ico
   repo-url: https://github.com/MichiganADC/dmsc-madc
+  site-url: https://michiganadc.github.io/dmsc-madc/
   page-navigation: true
   bread-crumbs: true
   reader-mode: true
