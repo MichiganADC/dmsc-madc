@@ -22,3 +22,5 @@ This website is created and maintained by the Data Management and Statistical Co
 Explore our resources and discover how the MADRC Data Core contributes to advancing knowledge and improving care for those affected by Alzheimer’s disease and their communities.
 
 ![](assets/images/horizontal_placeholder.jpg){fig-align="center" fig-alt="An interactive map of the Data Core Sharing Hub website" width=800}
+
+<!-- force re-render -->
