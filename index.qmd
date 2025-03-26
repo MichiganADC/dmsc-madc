@@ -1,9 +1,9 @@
 ---
-title: ""
+title: "Michigan Alzheimer's Disease Research Center"
 draft: true
 ---
 
-# Michigan Alzheimer's Disease Research Center Data Core Sharing Hub
+# Data Core Sharing Hub
 
 ::: {.grid}
 
