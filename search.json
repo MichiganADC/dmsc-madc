@@ -7,11 +7,18 @@
     "text": "Form\nTitle\nCSV\nR\nSAS\nSPSS\nStata\n\n\n\n\nForm A1\nSubject Demographics\nDownload\nDownload\nDownload\nDownload\nDownload\n\n\nForm A2\nCo-participant Demographics\nDownload\nDownload\nDownload\nDownload\nDownload\n\n\nForm A3\nSubject Family History\nDownload\nDownload\nDownload\nDownload\nDownload"
   },
   {
-    "objectID": "label_libraries.html#national-alzheimers-coordinating-center-nacc-uniform-data-set-uds",
-    "href": "label_libraries.html#national-alzheimers-coordinating-center-nacc-uniform-data-set-uds",
+    "objectID": "label_libraries.html#uniform-data-set-uds-v3",
+    "href": "label_libraries.html#uniform-data-set-uds-v3",
     "title": "Label Libraries",
     "section": "",
     "text": "Form\nTitle\nCSV\nR\nSAS\nSPSS\nStata\n\n\n\n\nForm A1\nSubject Demographics\nDownload\nDownload\nDownload\nDownload\nDownload\n\n\nForm A2\nCo-participant Demographics\nDownload\nDownload\nDownload\nDownload\nDownload\n\n\nForm A3\nSubject Family History\nDownload\nDownload\nDownload\nDownload\nDownload"
+  },
+  {
+    "objectID": "label_libraries.html#uniform-data-set-uds-v4",
+    "href": "label_libraries.html#uniform-data-set-uds-v4",
+    "title": "Label Libraries",
+    "section": "Uniform Data Set (UDS) v4",
+    "text": "Uniform Data Set (UDS) v4\n\n\n\nForm\nTitle\nCSV\nR\nSAS\nSPSS\nStata\n\n\n\n\nForm A1\nSubject Demographics\nDownload\nDownload\nDownload\nDownload\nDownload\n\n\nForm A2\nCo-participant Demographics\nDownload\nDownload\nDownload\nDownload\nDownload\n\n\nForm A3\nSubject Family History\nDownload\nDownload\nDownload\nDownload\nDownload"
   },
   {
     "objectID": "request_madrc_data.html",
@@ -25,14 +32,14 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Established at Michigan Medicine and based in the Department of Neurology, the Michigan Alzheimer’s Disease Center aims to:\n\nConduct and support research on Alzheimer’s disease and related dementias\nPromote state-of-the-art care and wellness for individuals and families affected by memory loss\nIncrease dementia awareness through collaborative education and outreach efforts\nWork to address racial and ethnic disparities in Alzheimer’s disease and related dementias\nProvide training and support to the next generation of clinicians and scientists"
+    "text": "Established at Michigan Medicine and based in the Department of Neurology, the Michigan Alzheimer’s Disease Center aims to:\n\nConduct and support research on Alzheimer’s disease and related dementias\nPromote state-of-the-art care and wellness for individuals and families affected by memory loss\nIncrease dementia awareness through collaborative education and outreach efforts\nProvide training and support to the next generation of clinicians and scientists"
   },
   {
     "objectID": "about.html#the-michigan-alzheimers-disease-center",
     "href": "about.html#the-michigan-alzheimers-disease-center",
     "title": "About",
     "section": "",
-    "text": "Established at Michigan Medicine and based in the Department of Neurology, the Michigan Alzheimer’s Disease Center aims to:\n\nConduct and support research on Alzheimer’s disease and related dementias\nPromote state-of-the-art care and wellness for individuals and families affected by memory loss\nIncrease dementia awareness through collaborative education and outreach efforts\nWork to address racial and ethnic disparities in Alzheimer’s disease and related dementias\nProvide training and support to the next generation of clinicians and scientists"
+    "text": "Established at Michigan Medicine and based in the Department of Neurology, the Michigan Alzheimer’s Disease Center aims to:\n\nConduct and support research on Alzheimer’s disease and related dementias\nPromote state-of-the-art care and wellness for individuals and families affected by memory loss\nIncrease dementia awareness through collaborative education and outreach efforts\nProvide training and support to the next generation of clinicians and scientists"
   },
   {
     "objectID": "about.html#meet-the-data-core",
@@ -88,7 +95,7 @@
     "href": "index.html",
     "title": "Michigan Alzheimer’s Disease Research Center",
     "section": "",
-    "text": "Data Core Sharing Hub\n\n\nThe Michigan Alzheimer’s Disease Research Center (MADRC) Data Core Sharing Hub is a public platform dedicated to supporting Alzheimer’s disease and related dementias research through the dissemination of data, analytic tools, and knowledge.\nThis website is created and maintained by the Data Management and Statistical Core (Data Core) at the MADRC. The MADRC is a statewide, multi-university collaboration between the University of Michigan, Wayne State University, and Michigan State University housed at the Michigan Alzheimer’s Disease Center MADC at the University of Michigan Medical School. The MARDC Data Core Sharing Hub highlights the impactful work of our team and reflects our commitment to fostering collaboration and innovation in Alzheimer’s research. The MADRC is grateful for financial support from the National Institute on Aging (P30 AG072931).\n\n\n\n\n\n\n\n\n\nExplore our resources and discover how the MADRC Data Core contributes to advancing knowledge and improving care for those affected by Alzheimer’s disease and their communities.\n\n\n\n\n\n\n\n\n\n\n Back to top"
+    "text": "Data Core Sharing Hub\n\n\nThe Michigan Alzheimer’s Disease Research Center (MADRC) Data Core Sharing Hub is a public platform dedicated to supporting Alzheimer’s disease and related dementias research through the dissemination of data, analytic tools, and knowledge.\nThis website is created and maintained by the Data Management and Statistical Core (Data Core) at the MADRC. The MADRC is a statewide, multi-university collaboration between the University of Michigan, Wayne State University, and Michigan State University housed at the Michigan Alzheimer’s Disease Center (MADC) at the University of Michigan Medical School. The MADRC Data Core Sharing Hub highlights the impactful work of our team and reflects our commitment to fostering collaboration and innovation in Alzheimer’s research. The MADRC is grateful for financial support from the National Institute on Aging (P30 AG072931).\n\n\n\n\n\n\n\n\n\nExplore our resources and discover how the MADRC Data Core contributes to advancing knowledge and improving care for those affected by Alzheimer’s disease and their communities.\n\n\n\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "data_insights.html",
