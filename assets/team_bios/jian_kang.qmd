@@ -1,0 +1,15 @@
+---
+title: "Jian Kang, PhD, MS"
+---
+::: {.grid}
+
+::: {.g-col-6}
+![Jian Kang, PhD, MS; Data Management and Statistical Core Affiliated Faculty, Associate Chair for Research, and Professor of Biostatistics](../images/jiankang.jpg)
+:::
+
+::: {.g-col-6}
+Dr. Kang's primary research interests are in developing statistical methods for large-scale complex biomedical data with application in precision medicine, imaging, epidemiology and genetics.
+
+[Faculty Profile](https://sph.umich.edu/faculty-profiles/kang-jian.html)      
+:::
+:::
