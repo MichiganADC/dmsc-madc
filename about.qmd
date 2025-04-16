@@ -36,6 +36,20 @@ Associate Professor, Institute of Gerontology, Wayne State University
 :::
 
 ::: {.g-col-4}
+:::
+
+::: {.g-col-4}
+[![Jian Kang, PhD, MS](assets/images/jiankang.jpg)](assets/team_bios/jian_kang.qmd)
+[**Jian Kang, PhD, MS**](assets/team_bios/jian_kang.qmd)    
+Data Management and Statistical Core Affiliated Faculty,      
+Associate Chair for Research, and        
+Professor of Biostatistics, University of Michigan School of Public Health      
+:::
+
+::: {.g-col-4}
+:::
+
+::: {.g-col-4}
 ### **Staff Leadership**
 :::
 
