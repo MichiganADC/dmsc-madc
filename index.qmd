@@ -2,7 +2,7 @@
 title: "Michigan Alzheimer's Disease Research Center"
 ---
 
-# Data Core Sharing Hub
+## Data Sharing Hub
 
 ::: {.grid}
 
