@@ -1,3 +1,20 @@
 ---
 title: "Publications"
+format: html
+page-layout: full
+listing:
+  type: table
+  table-hover: true
+  contents:
+    - publications.yaml
+  sort: date desc
+  filter-ui: true
+  fields: [title, authors, journal, date]
+  date-format: short
+  field-display-names:
+    title: "Title"
+    authors: "Authors"
+    date: "Publication Date"
+    journal: "Journal"
+    doi: "DOI"
 ---

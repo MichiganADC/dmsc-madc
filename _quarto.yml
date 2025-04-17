@@ -1,9 +1,9 @@
 project:
-  title: 'Michigan Alzheimer’s Disease Research Center Data Core Sharing Hub'
+  title: 'Michigan Alzheimer’s Disease Research Center Data Sharing Hub'
   type: website
 
 website:
-  title: "Michigan ADRC Data Core Sharing Hub"
+  title: "Michigan ADRC Data Sharing Hub"
   description: "A public website showcasing resources from the Data Management and Statistical Core at the Michigan Alzheimer's Disease Center."
   favicon: assets/images/favicon_io/favicon.ico
   repo-url: https://github.com/MichiganADC/dmsc-madc
