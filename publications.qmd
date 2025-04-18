@@ -9,7 +9,7 @@ listing:
     - publications.yaml
   sort: date desc
   filter-ui: true
-  fields: [title, authors, journal, date]
+  fields: [title, authors, journal, date, year, categories, volume, issue, pages]
   date-format: short
   field-display-names:
     title: "Title"
@@ -17,4 +17,11 @@ listing:
     date: "Publication Date"
     journal: "Journal"
     doi: "DOI"
+    categories: "Categories"
+    year: "Publication Year"
+    volume: "Volume"
+    issue: "Issue"
+    pages: "Pages"
 ---
+
+This page showcases scholarly work produced by the members of the Data Core in collaboration with investigators at the Michigan Alzheimer’s Disease Research Center (Michigan ADRC), including peer-reviewed manuscripts, posters, abstracts, and tools. It reflects our commitment to transparency, collaboration, and advancing Alzheimer’s disease and related dementias (ADRD) research.

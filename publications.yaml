@@ -1,5 +1,5 @@
 - title: "Retest reliability and reliable change of community-dwelling Black/African American older adults with and without mild cognitive impairment using NIH Toolbox-Cognition Battery and Cogstate Brief Battery for laptop"
-  authors: "Rigby T, Kavcic V, Shair SR, et al."
+  authors: "Taylor Rigby, Voyko Kavcic, Sarah R. Shair, Tanisha G. Hill-Jarrett, Sarah Garcia, Jonathan Reader, Carol Persad, Arijit K. Bhaumik, Subhamoy Pal, Benjamin M. Hampstead and Bruno Giordani"
   journal: "Journal of the International Neuropsychological Society"
   year: 2024
   date: 2024-12-20
@@ -7,13 +7,12 @@
   issue: 1
   pages: "42–52"
   doi: "10.1017/S1355617724000444"
-  link: "https://doi.org/10.1017/S1355617724000213"
-  path: "https://doi.org/10.1017/S1355617724000213"
-  categories: ["Computerized neuropsychological assessment", "computerized cognitive assessment", "practice effects", "psychometrics", "reproducibility of results", "reliability of tests"]
-  featured: true
+  link: "https://doi.org/10.1017/S1355617724000444"
+  path: "https://doi.org/10.1017/S1355617724000444"
+  categories: ["computerized neuropsychological assessment", "computerized cognitive assessment", "practice effects", "psychometrics", "reproducibility of results", "reliability of tests"]
 
 - title: "Identification of amnestic mild cognitive impairment among Black and White community-dwelling older adults using NIH Toolbox Cognition tablet battery"
-  authors: "Rigby T, Gregoire AM, Reader J, et al."
+  authors: "Taylor Rigby, Allyson M. Gregoire, Jonathan Reader, Yonatan Kahsay, Jordan Fisher, Anson Kairys, Arijit K. Bhaumik, Annalise Rahman-Filipiak, Amanda Cook Maher, Benjamin M. Hampstead, Judith L. Heidebrink, Voyko Kavcic and Bruno Giordani"
   journal: "Journal of the International Neuropsychological Society"
   year: 2024
   date: 2024-08-18
@@ -23,5 +22,17 @@
   doi: "10.1017/S1355617724000213"
   link: "https://doi.org/10.1017/S1355617724000213"
   path: "https://doi.org/10.1017/S1355617724000213"
-  categories: ["Computerized neuropsychological assessment", "computerized cognitive assessment", "cognition", "psychometrics", "norms", "cross-cultural", "discriminant function analysis"]
-  featured: false
+  categories: ["computerized neuropsychological assessment", "computerized cognitive assessment", "cognition", "psychometrics", "norms", "cross-cultural", "discriminant function analysis"]
+
+- title: "Alzheimer’s Disease and Related Dementias in Muslim Women: Recommendations for Culturally Sensitive Care"
+  authors: "Bilal Irfan, Ghadeer Ankouni, Jonathan Reader, Navid Seraji-Bozorgzad, Bruno Giordani, Kelly Bakulski, Arijit Bhaumik, Benjamin M. Hampstead, and Annalise Rahman-Filipiak"
+  journal: "Journal of Alzheimer’s Disease"
+  year: 2024
+  date: 2024-05-13
+  volume: 99
+  issue: 3
+  pages: "857-867"
+  doi: "10.3233/JAD-240064"
+  link: "https://doi-org.proxy.lib.umich.edu/10.3233/JAD-240064"
+  path: "https://doi-org.proxy.lib.umich.edu/10.3233/JAD-240064"
+  categories: ["adrd", "muslim patients", "cultural care", "religious beliefs", "gender sensitivity", "health equity", "caregiver roles"]
