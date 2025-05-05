@@ -96,18 +96,9 @@ Database Administrator
 :::
 
 ::: {.g-col-4}
-[![Allyson Gregoire, Data Analyst / Programmer](assets/images/Gregoire_Allyson.jpg)](assets/team_bios/allyson_gregoire.qmd)
-[**Allyson Gregoire**](assets/team_bios/allyson_gregoire.qmd)    
-Data Analyst / Programmer
-:::
-
-::: {.g-col-4}
 [![Kenneth Petscavage, Data Analyst / Programmer](assets/images/Petscavage_Kenny.jpg)](assets/team_bios/kenneth_petscavage.qmd)
 [**Kenneth Petscavage**](assets/team_bios/kenneth_petscavage.qmd)      
 Data Analyst / Programmer
-:::
-
-::: {.g-col-4}
 :::
 
 ::: {.g-col-4}
@@ -117,9 +108,15 @@ Data Analyst / Programmer
 :::
 
 ::: {.g-col-4}
+:::
+
+::: {.g-col-4}
 [![Subhamoy Pal, Statistician](assets/images/Pal_Subhamoy.jpg)](assets/team_bios/subhamoy_pal.qmd)
 [**Subhamoy Pal**](assets/team_bios/subhamoy_pal.qmd)      
 Statistician
+:::
+
+::: {.g-col-4}
 :::
 
 ::: {.g-col-4}
@@ -133,9 +130,6 @@ Research Assistant
 :::
 
 ::: {.g-col-4}
-[![Micaela Ihorn, Research Assistant](assets/images/portrait_placeholder.png)](assets/team_bios/micaela_ihorn.qmd)
-[**Micaela Ihorn**](assets/team_bios/micaela_ihorn.qmd)      
-Research Assistant
 :::
 
 :::
