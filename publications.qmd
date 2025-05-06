@@ -1,7 +1,7 @@
 ---
 title: "Publications"
 format: html
-page-layout: full
+# page-layout: full
 listing:
   type: table
   table-hover: true
