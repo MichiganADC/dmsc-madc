@@ -1,3 +1,11 @@
 ---
 title: "Codebases"
+format: html
+page-layout: full
+listing:
+  type: grid
+  contents:
+    - codebases.yaml
+  fields: [title, authors, journal, date, year, categories, volume, issue, pages, type]
+  grid-item-align: center
 ---
