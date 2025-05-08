@@ -1,3 +1,5 @@
-- title: "Alzheimer’s Disease and Related Dementias in Muslim Women: Recommendations for Culturally Sensitive Care"
-  authors: "Bilal Irfan, Ghadeer Ankouni, Jonathan Reader, Navid Seraji-Bozorgzad, Bruno Giordani, Kelly Bakulski, Arijit Bhaumik, Benjamin M. Hampstead, and Annalise Rahman-Filipiak"
-  journal: "Journal of Alzheimer’s Disease"
+- title: "Michigan ADRC Data Sharing Hub"
+  authors: "Miranda Cooper, Allyson Gregoire, Jonathan Reader, Kenneth Petscavage"
+  link: "https://github.com/MichiganADC/dmsc-madc"
+  path: "https://github.com/MichiganADC/dmsc-madc"
+  categories: ["r", "quarto", "github pages", "github actions"]

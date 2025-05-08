@@ -6,6 +6,6 @@ listing:
   type: grid
   contents:
     - codebases.yaml
-  fields: [title, authors, journal, date, year, categories, volume, issue, pages, type]
+  fields: [title, authors, categories]
   grid-item-align: center
 ---
