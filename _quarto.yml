@@ -23,6 +23,8 @@ website:
       - about.qmd
       - text: Data
         menu:
+        - text: Codebases
+          href:  codebases.qmd
         - text: Data Dictionary
           href:  data_dictionary.qmd
         - text: Label Libraries
