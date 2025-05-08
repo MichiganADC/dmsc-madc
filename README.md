@@ -1,5 +1,6 @@
 # Data Management and Statistical Core Sharing Hub
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/MichiganADC/dmsc-madc)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/MichiganADC/dmsc-madc)  
+
 A public website showcasing resources from the Data Management and Statistical Core at the Michigan Alzheimer's Disease Center.
 
 ## Table of Contents
