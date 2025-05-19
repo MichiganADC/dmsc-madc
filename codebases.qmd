@@ -1,0 +1,11 @@
+---
+title: "Codebases"
+format: html
+page-layout: full
+listing:
+  type: grid
+  contents:
+    - codebases.yaml
+  fields: [title, authors, categories]
+  grid-item-align: center
+---
