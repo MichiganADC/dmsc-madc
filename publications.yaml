@@ -151,3 +151,31 @@
   path: "https://doi.org/10.1002/dad2.12153"
   categories: ["EEG Markers", "Mild Cognitive Impairment", "Neuropsychology", "Resting‐State Electroencephalography (rsEEG)"]
   type: "Publication"
+
+- title: "Multidisciplinary stakeholder-informed identification of key characteristics for implementation of workplace genetic testing"
+  authors: "Elizabeth Charnysh, Khyati Sanghavi, Kelly A Ryan, Allison Vogle, Amanda Truhlar, Subhamoy Pal, Jonathan M Reader, J Scott Roberts, Chanita Lee, Alexandra E R Prince and William G Feero"
+  journal: "Human Genetics and Genomic Advances"
+  year: "2025"
+  date: "2025-01-01"  # Placeholder date – update if a publication date is available
+  volume: ""
+  issue: ""
+  pages: ""
+  doi: ""
+  link: ""
+  path: ""
+  categories: ["Workplace Genetic Testing", "Stakeholder Engagement", "Implementation Science", "Ethics", "Precision Medicine"]
+  type: "Publication"
+
+- title: "Toward a person-centered return of research results of dementia risk: A pluralistic, constructive expansion"
+  authors: "Bilal Irfan, Emily Wiseman, Jason W Boyd, Jonathan Reader and Annalise Rahman-Filipiak"
+  journal: "Journal of Alzheimer's Disease"
+  year: "2025"
+  date: "2025-05-01"  # Approximate date for advance online publication – adjust if needed
+  volume: ""
+  issue: ""
+  pages: ""
+  doi: "10.1177/13872877251343319"
+  link: "https://doi.org/10.1177/13872877251343319"
+  path: "https://doi.org/10.1177/13872877251343319"
+  categories: ["Dementia Risk", "Return of Results", "Ethics", "Person-Centered Care", "Neuroethics", "Alzheimer's Research"]
+  type: "Publication"
