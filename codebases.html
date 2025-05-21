@@ -80,9 +80,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-authors','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-authors','listing-categories','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-authors","listing-link","listing-categories"],
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -182,10 +182,6 @@ window.Quarto = {
     <a class="dropdown-item" href="./request_madrc_data.html">
  <span class="dropdown-text">Request MADRC Data</span></a>
   </li>  
-        <li>
-    <a class="dropdown-item" href="./data_insights.html">
- <span class="dropdown-text">Summary Statistics</span></a>
-  </li>  
     </ul>
   </li>
   <li class="nav-item">
@@ -215,11 +211,11 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    </div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-unnumbered"><div class="category" data-category="TkFDQw==">NACC</div><div class="category" data-category="UXVhcnRv">Quarto</div><div class="category" data-category="Ug==">R</div><div class="category" data-category="UkVEQ2Fw">REDCap</div></div></div>
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content column-page-left" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -228,7 +224,7 @@ window.Quarto = {
 
 
 
-<div class="quarto-title-meta column-page">
+<div class="quarto-title-meta column-page-left">
 
     
   
@@ -240,29 +236,47 @@ window.Quarto = {
 </header>
 
 
+<p>This page provides access to code-based protocols developed by the Michigan Alzheimer’s Disease Center’s (MADC) Data Core. These resources include GitHub repositories and Quarto documents outlining our workflows for data management, processing, and analysis.</p>
+<p>While underlying data are not shared, these codebases reflect the tools and logic we use locally to support research operations and maintain data integrity across projects.</p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Stay tuned:</strong> Additional code protocols and tools will be added as they are finalized.</p>
+</div>
+</div>
 
 
 
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="ciUyQ3F1YXJ0byUyQ2dpdGh1YiUyMHBhZ2VzJTJDZ2l0aHViJTIwYWN0aW9ucw==">
-<a href="https://github.com/MichiganADC/dmsc-madc" class="quarto-grid-link">
+<div class="g-col-1" data-index="0" data-categories="UiUyQ1F1YXJ0byUyQ1JFRENhcCUyQ05BQ0M=" data-listing-date-sort="1735862400000" data-listing-file-modified-sort="1747854795652" data-listing-date-modified-sort="1747785600000" data-listing-reading-time-sort="14" data-listing-word-count-sort="2696">
+<a href="./assets/codebases/upload_bal_data_to_redcap.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-center">
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Michigan ADRC Data Sharing Hub
+Upload Biomarker and Longitudinal (BAL) data to REDCap system
 </h5>
 <div class="listing-categories">
 
-<div class="listing-category" onclick="window.quartoListingCategory('cg=='); return false;">r</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Ug=='); return false;">R</div>
 
-<div class="listing-category" onclick="window.quartoListingCategory('cXVhcnRv'); return false;">quarto</div>
+<div class="listing-category" onclick="window.quartoListingCategory('UXVhcnRv'); return false;">Quarto</div>
 
-<div class="listing-category" onclick="window.quartoListingCategory('Z2l0aHViJTIwcGFnZXM='); return false;">github pages</div>
+<div class="listing-category" onclick="window.quartoListingCategory('UkVEQ2Fw'); return false;">REDCap</div>
 
-<div class="listing-category" onclick="window.quartoListingCategory('Z2l0aHViJTIwYWN0aW9ucw=='); return false;">github actions</div>
+<div class="listing-category" onclick="window.quartoListingCategory('TkFDQw=='); return false;">NACC</div>
 
+</div>
+<div class="card-text listing-description delink">
+<p>A protocol for uploading Biomarker and Longitudinal (BAL) data returned from the National Alzheimer’s Coordinating Center (NACC) into the REDCap system.</p>
 </div>
 <table class="card-other-values">
 
@@ -271,7 +285,7 @@ Michigan ADRC Data Sharing Hub
 authors
 </td>
 <td class="authors">
-Miranda Cooper, Allyson Gregoire, Jonathan Reader, Kenneth Petscavage
+Jonathan M. Reader
 </td>
 </tr>
 
