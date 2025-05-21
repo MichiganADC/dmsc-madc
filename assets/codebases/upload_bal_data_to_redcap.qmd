@@ -312,7 +312,6 @@ df_gfap_a <- df_gfap_t %>%
 
 Some records may require manual correction if there is a discrepancy between the blood draw date recorded in the UMMAP General form and the blood draw date in the BAL data. These conflicts should be reviewed with each upload (e.g. `visit_04_arm_1` and `baseline_arm_1`).
 
-
 ```{r}
 #| label: Quick Fix
 #| eval: false
