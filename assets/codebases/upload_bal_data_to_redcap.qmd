@@ -8,7 +8,8 @@ format: html
 execute:
   eval: false
   echo: true
-
+  freeze: true
+  engine: false
 ---
 
 ## TO DO
@@ -35,7 +36,7 @@ The included ZIP file (`BALDataReturnedByNAC_2025-01-03_0854.zip`) contains the 
 
 Access to BAL data will be granted by NACC to individuals on an approved distribution list. The BAL data can be downloaded using the password provided in a separate email from NACC. Files should be saved to the designated folder; all `.xlsx` files are excluded from version control via the `.gitignore` file.
 
-```{r}
+```r
 #| label: Setup
 #| eval: false
 #| echo: true
@@ -53,7 +54,7 @@ library(RCurl)
 library(tidylog)
 ```
 
-```{r}
+```r
 #| label: Extract
 #| eval: false
 #| echo: true
@@ -95,7 +96,7 @@ download_ummap_general_data()
 
 Some variables will need to be modified or reformatted to match the structure of the REDCap form created during the **Pre-work** step.
 
-```{r}
+```r
 #| label: Transform
 #| eval: false
 #| echo: true
@@ -285,7 +286,7 @@ df_gfap_t <- df_nfl_gfap %>%
 
 Any records missing a `redcap_event_name` indicate a mismatch between the sample’s Collection Date and the corresponding REDCap event. These discrepancies must be reconciled before proceeding. Once all IDs have been matched to the appropriate events, this step can be skipped in future uploads.
 
-```{r}
+```r
 #| label: Audit
 #| eval: false
 #| echo: true
@@ -312,7 +313,7 @@ df_gfap_a <- df_gfap_t %>%
 
 Some records may require manual correction if there is a discrepancy between the blood draw date recorded in the UMMAP General form and the blood draw date in the BAL data. These conflicts should be reviewed with each upload (e.g. `visit_04_arm_1` and `baseline_arm_1`).
 
-```{r}
+```r
 #| label: Quick Fix
 #| eval: false
 #| echo: true
@@ -386,7 +387,7 @@ Once the data have been transformed to match the REDCap format, they can be uplo
 
 Ensure all `csv` files are included in the `.gitignore` file (i.e., \*.csv).
 
-```{r}
+```r
 #| label: Load
 #| eval: false
 #| echo: true
