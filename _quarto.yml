@@ -31,8 +31,6 @@ website:
           href: label_libraries.qmd
         - text: Request MADRC Data
           href:  request_madrc_data.qmd
-        - text: Summary Statistics
-          href:  data_insights.qmd
       - text: Publications
         href:  publications.qmd
       - text: Resources

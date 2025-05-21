@@ -1,5 +1,5 @@
-- title: "Michigan ADRC Data Sharing Hub"
-  authors: "Miranda Cooper, Allyson Gregoire, Jonathan Reader, Kenneth Petscavage"
-  link: "https://github.com/MichiganADC/dmsc-madc"
-  path: "https://github.com/MichiganADC/dmsc-madc"
-  categories: ["r", "quarto", "github pages", "github actions"]
+- title: "Upload Biomarker and Longitudinal (BAL) data to REDCap system"
+  authors: "Jonathan M. Reader"
+  path: "assets/codebases/upload_bal_data_to_redcap.qmd"
+  categories: ["R", "Quarto", "REDCap", "NACC"]
+  description: "A protocol for uploading Biomarker and Longitudinal (BAL) data returned from the National Alzheimer’s Coordinating Center (NACC) into the REDCap system."  

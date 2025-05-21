@@ -3,9 +3,19 @@ title: "Codebases"
 format: html
 page-layout: full
 listing:
+  categories: unnumbered
   type: grid
   contents:
     - codebases.yaml
-  fields: [title, authors, categories]
+  fields: [title, authors, categories, description]
   grid-item-align: center
 ---
+
+This page provides access to code-based protocols developed by the Michigan Alzheimer’s Disease Center’s (MADC) Data Core. These resources include GitHub repositories and Quarto documents outlining our workflows for data management, processing, and analysis.
+
+While underlying data are not shared, these codebases reflect the tools and logic we use locally to support research operations and maintain data integrity across projects.
+
+::: {.callout-note}
+**Stay tuned:** Additional code protocols and tools will be added as they are finalized.
+:::
+

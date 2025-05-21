@@ -1,0 +1,414 @@
+---
+title: "Upload Biomarker and Longitudinal (BAL) data to REDCap system"
+date: "January 3, 2025"
+date-modified: today
+author: "Jonathan M. Reader"
+abstract: "The following is a protocol for uploading biomarker and longitudinal data returned from the National Alzheimer’s Coordinating Center (NACC) into the REDCap system."
+format: html
+execute:
+  eval: false
+  echo: true
+
+---
+
+## TO DO
+
+-   Play with Markdown settings
+
+-   Create script to be a set of functions in the `madRc` package/executablev
+
+-   Create Example
+
+-   Upload REDCap fields/Zip to project
+
+## Pre-work potentially required
+
+The variable names provided by the National Alzheimer’s Coordinating Center (NACC) may not match the existing fields in your REDCap project when uploading the data for the first time. As a result, corresponding variables must be created in REDCap before the upload can proceed. Keep in mind that not all NACC variables are needed locally, and any unneeded fields are excluded in the upload script by commenting them out.
+
+The REDCap form is set up as a repeating instrument, using the variable `Sample` to indicate the type of biomarker: *ABeta40*, *ABeta42*, or *pTau217*. To support this structure, we enabled both *repeating instruments* and *repeating events* in the REDCap project. Each event (e.g., visit) includes the BAL Data Returned by NACC as a separate repeating form, independent of other forms within that event. Additionally, we added a custom label, `[bal_sample]`, to each repeating instance to clearly display which sample the form represents.
+
+The included ZIP file (`BALDataReturnedByNAC_2025-01-03_0854.zip`) contains the REDCap form used by the Michigan Alzheimer’s Disease Center (MADC).
+
+**_Please note:_** You will need to update the variable names in this form to match those used in your local REDCap project in order for the associated script to function correctly.
+
+## Extract
+
+Access to BAL data will be granted by NACC to individuals on an approved distribution list. The BAL data can be downloaded using the password provided in a separate email from NACC. Files should be saved to the designated folder; all `.xlsx` files are excluded from version control via the `.gitignore` file.
+
+```{r}
+#| label: Setup
+#| eval: false
+#| echo: true
+#| message: false
+#| warning: false
+
+# install.packages("tidyverse")  #TODO: If not installed, install tidyverse for data munging
+# install.packages("readxl")  #TODO: If not installed, install readxl to get BAL data
+# install.packages("RCurl")  #TODO: If not installed, install RCurl for API to REDCap
+# install.packages("tidylog")  #TODO: If not installed, install tidylog for support
+
+library(tidyverse)
+library(readxl)
+library(RCurl)
+library(tidylog)
+```
+
+```{r}
+#| label: Extract
+#| eval: false
+#| echo: true
+#| message: false
+#| warning: false
+
+df_ab40 <- read_xlsx("Site 43 AB40 BAL0008 Return 11.xlsx")
+df_ab42 <- read_xlsx("Site 43 AB42 BAL0008 Return 11.xlsx")
+df_ptau217 <- read_xlsx("Site 43 pTau217 BAL0008 Return 11.xlsx")
+df_nfl_gfap <- read_xlsx("Site 43 N2PB BAL0008 Return 11.xlsx")
+
+# The below function downloads data from the MADC's UMMAP General REDCap project which contains the forms and fields needed for matching and uploading into the correct project. Your group will have a different project where this information is stored.
+
+# If obtaining the fields is of interest, please see XXXXXX
+
+download_ummap_general_data <- function(config = "~/Dropbox (University of Michigan)/config copy.R"){ #TODO: update to where your configuration file is located
+  # The config file needs to contain the REDCAP_API_URI and REDCAP_API_TOKEN_UMMAPGENERAL variables as strings where the URI is the URI and the TOKEN is your API TOKEN, respectively
+  source(config)
+  ummapgen <- postForm(
+    uri=REDCAP_API_URI,
+    token=REDCAP_API_TOKEN_UMMAPGENERAL,
+    content='record',
+    format='csv',
+    type='flat',
+    rawOrLabel='raw',
+    rawOrLabelHeaders='raw',
+    exportCheckboxLabel='false',
+    exportSurveyFields='false',
+    exportDataAccessGroups='false',
+    returnFormat='csv'
+  )
+  df_ummapgen <<- read_csv(ummapgen, col_types = cols(.default = col_character()))
+}
+
+download_ummap_general_data()
+```
+
+## Transform
+
+Some variables will need to be modified or reformatted to match the structure of the REDCap form created during the **Pre-work** step.
+
+```{r}
+#| label: Transform
+#| eval: false
+#| echo: true
+#| message: false
+#| warning: false
+
+df_ummapgen_t <- df_ummapgen %>%
+  select(
+    subject_id,
+    redcap_event_name, # Need this for matching correct event for upload
+    date_of_draw
+  ) %>%
+  mutate(date_of_draw = as.Date(date_of_draw)) # For merging with data from NACC
+
+df_ab40_t <- df_ab40 %>%
+  mutate(bal_sample = "ABeta40", # Needed for repeating form identification upload to REDCap
+         redcap_event_name = NA_character_, # Needed for upload to longitudinal REDCap project
+         redcap_repeat_instrument = "bal_data_returned_by_nacc", # Needed for upload to repeating form project
+         redcap_repeat_instance = 1, # Needed for repeating form identification upload to REDCap
+         bal_data_returned_by_nacc_complete = 2, # Needed to mark form complete
+         `Collection Date` = as.Date(`Collection Date`, format = "%m/%d/%Y")) %>% # Needed for date format upload to REDCap 
+  left_join(df_ummapgen_t, by = c("PT ID" = "subject_id", "Collection Date" = "date_of_draw")) %>% 
+  select( # Select and rename in the same step
+    # `ADRC Site`
+    subject_id = `PT ID`,
+    redcap_event_name = redcap_event_name.y, # .y to get from df_ummapgen_t
+    redcap_repeat_instrument,
+    redcap_repeat_instance,
+    bal_sample,
+    bal_barcode = `Barcode`,
+    bal_kit_number = `Kit Number`,
+    bal_collection_date = `Collection Date`,
+    bal_specimen_quantity = `Specimen Quantity`,
+    # `Unit of Measure`
+    # `LAB_ID`
+    # `Lab_Study_ID`,
+    bal_analysis_date = `Analysis Date`,
+    # `INST_ID`
+    # `Assay_Platform`
+    # `Assay_Name`
+    bal_assay_lot_no = `Assay_Lot_No.`,
+    bal_data_pg_ml = `ABeta40 Data (pg/mL)`,
+    bal_lab_freeze_thaw = `Lab Freeze Thaw`,
+    bal_flagged_biomarkers = `Flagged Biomarkers`,
+    bal_additional_information = `Additional Information`,
+    bal_data_returned_by_nacc_complete
+  )
+
+df_ab42_t <- df_ab42 %>% 
+  mutate(bal_sample = "ABeta42", # Needed for repeating form identification upload to REDCap
+         redcap_event_name = NA_character_, # Needed for upload to longitudinal REDCap project
+         redcap_repeat_instrument = "bal_data_returned_by_nacc", # Needed for upload to repeating form project
+         redcap_repeat_instance = 2, # Needed for repeating form identification upload to REDCap
+         bal_data_returned_by_nacc_complete = 2, # Needed to mark form complete
+         `Collection Date` = as.Date(`Collection Date`, format = "%m/%d/%Y")) %>% # Needed for date format upload to REDCap 
+  left_join(df_ummapgen_t, by = c("PT ID" = "subject_id", "Collection Date" = "date_of_draw")) %>%
+  select( # Select and rename in the same step
+    # `ADRC Site`
+    subject_id = `PT ID`,
+    redcap_event_name = redcap_event_name.y, # .y to get from df_ummapgen_t
+    redcap_repeat_instrument,
+    redcap_repeat_instance,
+    bal_sample,
+    bal_barcode = `Barcode`,
+    bal_kit_number = `Kit Number`,
+    bal_collection_date = `Collection Date`,
+    bal_specimen_quantity = `Specimen Quantity`,
+    # `Unit of Measure`
+    # `LAB_ID`
+    # `Lab_Study_ID`,
+    bal_analysis_date = `Analysis Date`,
+    # `INST_ID`
+    # `Assay_Platform`
+    # `Assay_Name`
+    bal_assay_lot_no = `Assay_Lot_No.`,
+    bal_data_pg_ml = `ABeta42 Data (pg/mL)`,
+    bal_lab_freeze_thaw = `Lab Freeze Thaw`,
+    bal_flagged_biomarkers = `Flagged Biomarkers`,
+    bal_additional_information = `Additional Information`,
+    bal_data_returned_by_nacc_complete
+  )
+
+df_ptau217_t <- df_ptau217 %>% 
+  mutate(bal_sample = "pTau217", # Needed for repeating form identification upload to REDCap
+         redcap_event_name = NA_character_, # Needed for upload to longitudinal REDCap project
+         redcap_repeat_instrument = "bal_data_returned_by_nacc", # Needed for upload to repeating form project
+         redcap_repeat_instance = 3, # Needed for repeating form identification upload to REDCap
+         bal_data_returned_by_nacc_complete = 2, # Needed to mark form complete
+         `Collection Date` = as.Date(`Collection Date`, format = "%m/%d/%Y")) %>% # Needed for date format upload to REDCap 
+  left_join(df_ummapgen_t, by = c("PT ID" = "subject_id", "Collection Date" = "date_of_draw")) %>%
+  select( # Select and rename in the same step
+    # `ADRC Site`
+    subject_id = `PT ID`,
+    redcap_event_name = redcap_event_name.y, # .y to get from df_ummapgen_t
+    redcap_repeat_instrument,
+    redcap_repeat_instance,
+    bal_sample,
+    bal_barcode = `Barcode`,
+    bal_kit_number = `Kit Number`,
+    bal_collection_date = `Collection Date`,
+    bal_specimen_quantity = `Specimen Quantity`,
+    # `Unit of Measure`
+    # `LAB_ID`
+    # `Lab_Study_ID`,
+    bal_analysis_date = `Analysis Date`,
+    # `INST_ID`
+    # `Assay_Platform`
+    # `Assay_Name`
+    bal_assay_lot_no = `Assay_Lot_No.`,
+    bal_data_pg_ml = `pTau217 Conc (pg/mL)`,
+    bal_lab_freeze_thaw = `Lab Freeze Thaw`,
+    bal_flagged_biomarkers = `Flagged Biomarkers`,
+    bal_additional_information = `Additional Information`,
+    bal_data_returned_by_nacc_complete
+  )
+
+df_nfl_t <- df_nfl_gfap %>% 
+  mutate(bal_sample = "NfL", # Needed for repeating form identification upload to REDCap
+         redcap_event_name = NA_character_, # Needed for upload to longitudinal REDCap project
+         redcap_repeat_instrument = "bal_data_returned_by_nacc", # Needed for upload to repeating form project
+         redcap_repeat_instance = 4, # Needed for repeating form identification upload to REDCap
+         bal_data_returned_by_nacc_complete = 2, # Needed to mark form complete
+         `Collection Date` = as.Date(`Collection Date`, format = "%m/%d/%Y")) %>% # Needed for date format upload to REDCap 
+  left_join(df_ummapgen_t, by = c("PT ID" = "subject_id", "Collection Date" = "date_of_draw")) %>%
+  select( # Select and rename in the same step
+    # `ADRC Site`
+    subject_id = `PT ID`,
+    redcap_event_name = redcap_event_name.y, # .y to get from df_ummapgen_t
+    redcap_repeat_instrument,
+    redcap_repeat_instance,
+    bal_sample,
+    bal_barcode = `Barcode`,
+    bal_kit_number = `Kit Number`,
+    bal_collection_date = `Collection Date`,
+    bal_specimen_quantity = `Specimen Quantity`,
+    # `Unit of Measure`
+    # `LAB_ID`
+    # `Lab_Study_ID`,
+    bal_analysis_date = `Analysis Date`,
+    # `INST_ID`
+    # `Assay_Platform`
+    # `Assay_Name`
+    bal_assay_lot_no = `Assay_Lot_No.`,
+    bal_data_pg_ml = `NFL Conc (pg/mL)`,
+    bal_lab_freeze_thaw = `Lab Freeze Thaw`,
+    bal_flagged_biomarkers = `Flagged Biomarkers`,
+    bal_additional_information = `Additional Information`,
+    bal_data_returned_by_nacc_complete
+  )
+
+df_gfap_t <- df_nfl_gfap %>% 
+  mutate(bal_sample = "GFAP", # Needed for repeating form identification upload to REDCap
+         redcap_event_name = NA_character_, # Needed for upload to longitudinal REDCap project
+         redcap_repeat_instrument = "bal_data_returned_by_nacc", # Needed for upload to repeating form project
+         redcap_repeat_instance = 5, # Needed for repeating form identification upload to REDCap
+         bal_data_returned_by_nacc_complete = 2, # Needed to mark form complete
+         `Collection Date` = as.Date(`Collection Date`, format = "%m/%d/%Y")) %>% # Needed for date format upload to REDCap 
+  left_join(df_ummapgen_t, by = c("PT ID" = "subject_id", "Collection Date" = "date_of_draw")) %>%
+  select( # Select and rename in the same step
+    # `ADRC Site`
+    subject_id = `PT ID`,
+    redcap_event_name = redcap_event_name.y, # .y to get from df_ummapgen_t
+    redcap_repeat_instrument,
+    redcap_repeat_instance,
+    bal_sample,
+    bal_barcode = `Barcode`,
+    bal_kit_number = `Kit Number`,
+    bal_collection_date = `Collection Date`,
+    bal_specimen_quantity = `Specimen Quantity`,
+    # `Unit of Measure`
+    # `LAB_ID`
+    # `Lab_Study_ID`,
+    bal_analysis_date = `Analysis Date`,
+    # `INST_ID`
+    # `Assay_Platform`
+    # `Assay_Name`
+    bal_assay_lot_no = `Assay_Lot_No.`,
+    bal_data_pg_ml = `GFAP Conc (pg/mL)`,
+    bal_lab_freeze_thaw = `Lab Freeze Thaw`,
+    bal_flagged_biomarkers = `Flagged Biomarkers`,
+    bal_additional_information = `Additional Information`,
+    bal_data_returned_by_nacc_complete
+  )
+```
+
+## Audit Collection Date from NACC versus REDCap
+
+Any records missing a `redcap_event_name` indicate a mismatch between the sample’s Collection Date and the corresponding REDCap event. These discrepancies must be reconciled before proceeding. Once all IDs have been matched to the appropriate events, this step can be skipped in future uploads.
+
+```{r}
+#| label: Audit
+#| eval: false
+#| echo: true
+#| message: false
+#| warning: false
+
+df_ab40_a <- df_ab40_t %>% 
+  filter(is.na(redcap_event_name))
+
+df_ab42_a <- df_ab42_t %>% 
+  filter(is.na(redcap_event_name))
+
+df_ptau217_a <- df_ptau217_t %>% 
+  filter(is.na(redcap_event_name))
+
+df_nfl_a <- df_nfl_t %>% 
+  filter(is.na(redcap_event_name))
+
+df_gfap_a <- df_gfap_t %>% 
+  filter(is.na(redcap_event_name))
+```
+
+## Quick Fix
+
+Some records may require manual correction if there is a discrepancy between the blood draw date recorded in the UMMAP General form and the blood draw date in the BAL data. These conflicts should be reviewed with each upload (e.g. `visit_04_arm_1` and `baseline_arm_1`).
+
+```{r}
+#| label: Quick Fix
+#| eval: false
+#| echo: true
+#| message: false
+#| warning: false
+
+df_ab40_t2 <- df_ab40_t %>% 
+  mutate(redcap_event_name = case_when(
+    subject_id == "UM00001731" ~ "visit_03_arm_1",
+    subject_id == "UM00003215" ~ "visit_01_arm_1",
+    subject_id == "UM00001529" ~ "visit_05_arm_1",
+    subject_id == "UM00001869" ~ "visit_02_arm_1",
+    subject_id == "UM00001640" ~ "visit_05_arm_1",
+    subject_id == "UM00002188" ~ "visit_01_arm_1",
+    subject_id == "UM00003414" ~ "baseline_arm_1",
+    TRUE ~ redcap_event_name
+  ))
+
+df_ab42_t2 <- df_ab42_t %>% 
+  mutate(redcap_event_name = case_when(
+    subject_id == "UM00001731" ~ "visit_03_arm_1",
+    subject_id == "UM00003215" ~ "visit_01_arm_1",
+    subject_id == "UM00001529" ~ "visit_05_arm_1",
+    subject_id == "UM00001869" ~ "visit_02_arm_1",
+    subject_id == "UM00001640" ~ "visit_05_arm_1",
+    subject_id == "UM00002188" ~ "visit_01_arm_1",
+    subject_id == "UM00003414" ~ "baseline_arm_1",
+    TRUE ~ redcap_event_name
+  ))
+
+df_ptau217_t2 <- df_ptau217_t %>% 
+  mutate(redcap_event_name = case_when(
+    subject_id == "UM00001731" ~ "visit_03_arm_1",
+    subject_id == "UM00003215" ~ "visit_01_arm_1",
+    subject_id == "UM00001529" ~ "visit_05_arm_1",
+    subject_id == "UM00001869" ~ "visit_02_arm_1",
+    subject_id == "UM00001640" ~ "visit_05_arm_1",
+    subject_id == "UM00002188" ~ "visit_01_arm_1",
+    subject_id == "UM00003414" ~ "baseline_arm_1",
+    TRUE ~ redcap_event_name
+  ))
+
+df_nfl_t2 <- df_nfl_t %>% 
+  mutate(redcap_event_name = case_when(
+    subject_id == "UM00001731" ~ "visit_03_arm_1",
+    subject_id == "UM00003215" ~ "visit_01_arm_1",
+    subject_id == "UM00001529" ~ "visit_05_arm_1",
+    subject_id == "UM00001869" ~ "visit_02_arm_1",
+    subject_id == "UM00001640" ~ "visit_05_arm_1",
+    subject_id == "UM00002188" ~ "visit_01_arm_1",
+    subject_id == "UM00003414" ~ "baseline_arm_1",
+    TRUE ~ redcap_event_name
+  ))
+
+df_gfap_t2 <- df_gfap_t %>% 
+  mutate(redcap_event_name = case_when(
+    subject_id == "UM00001731" ~ "visit_03_arm_1",
+    subject_id == "UM00003215" ~ "visit_01_arm_1",
+    subject_id == "UM00001529" ~ "visit_05_arm_1",
+    subject_id == "UM00001869" ~ "visit_02_arm_1",
+    subject_id == "UM00001640" ~ "visit_05_arm_1",
+    subject_id == "UM00002188" ~ "visit_01_arm_1",
+    subject_id == "UM00003414" ~ "baseline_arm_1",
+    TRUE ~ redcap_event_name
+  ))
+```
+
+## Load
+
+Once the data have been transformed to match the REDCap format, they can be uploaded either via the REDCap API or through manual import using the web interface.
+
+Ensure all `csv` files are included in the `.gitignore` file (i.e., \*.csv).
+
+```{r}
+#| label: Load
+#| eval: false
+#| echo: true
+#| message: false
+#| warning: false
+
+write_csv(df_ab40_t2, str_c(today(), " BAL ABeta40 from NACC Upload.csv")) # Attach date of upload to transformed file
+write_csv(df_ab42_t2, str_c(today(), " BAL ABeta42 from NACC Upload.csv")) # Attach date of upload to transformed file
+write_csv(df_ptau217_t2, str_c(today(), " BAL pTau217 from NACC Upload.csv")) # Attach date of upload to transformed file
+write_csv(df_nfl_t2, str_c(today(), " BAL NfL from NACC Upload.csv")) # Attach date of upload to transformed file
+write_csv(df_gfap_t2, str_c(today(), " BAL GFAP from NACC Upload.csv")) # Attach date of upload to transformed file
+
+# api_upload <- str_c(read_lines("file.csv"), collapse = "\n")
+#
+# return <- RCurl::postForm(
+#   uri=REDCAP_API_URI,
+#   token=REDCAP_API_TOKEN_UMMAPGENERAL,
+#   content='record',
+#   format='csv',
+#   type='flat',
+#   overwriteBehavior='normal',
+#   # fields=upload_fields,
+#   data=api_upload
+# )
+```
