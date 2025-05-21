@@ -1,0 +1,1105 @@
+- title: "Zotero Quick-Start Guide"
+  path: "https://www.zotero.org/support/quick_start_guide"
+  categories: ["Citation Management"]
+  description: "An overview of Zotero’s features and capabilities from the Zotero team"
+  skill: "Beginner"
+  type: "Documentation"
+
+- title: "Zotero Research Guide"
+  path: "https://guides.lib.umich.edu/zotero"
+  categories: ["Citation Management"]
+  description: "A research guide developed by the University of Michigan Library with guidance on saving, organizing, and automating citation management"
+  skill: "Beginner"
+  type: "Reference"
+
+- title: "How To Use Zotero (A Complete Beginner’s Guide)"
+  path: "https://youtu.be/JG7Uq_JFDzE?si=E6ct16pIHbP0XmD4"
+  categories: ["Citation Management"]
+  description: "A (12 min) tutorial on how to use Zotero for beginners"
+  skill: "Beginner"
+  type: "Video"
+
+- title: "Upcoming Sessions from the Teaching and Technology Collaborative"
+  path: "https://ttc.iss.lsa.umich.edu/ttc/sessions/upcoming/sponsor/university-library/?mode=excerpt"
+  categories: ["Citation Management"]
+  description: "A listing of upcoming in-person workshops on citation management and research tools from the University of Michigan Library"
+  skill: "Intermediate"
+  type: "Workshops"
+
+- title: "Command Line for Beginners – How to Use the Terminal Like a Pro"
+  path: "https://www.freecodecamp.org/news/command-line-for-beginners/"
+  categories: ["Command-line Interface"]
+  description: "An article from freeCodeCamp that explains the various parts of the command line interface and the basics of how it works"
+  skill: "Beginner"
+  type: "Article"
+
+- title: "The Linux Command Line"
+  path: "https://linuxcommand.org/tlcl.php"
+  categories: ["Command-line Interface"]
+  description: "A book, written with the new command line user in mind, which includes the basics of command line use and shell scripting. Check out the corresponding website: linuxcommand.org"
+  skill: "Beginner"
+  type: "Book"
+
+- title: "The Art of Command Line"
+  path: "https://github.com/jlevy/the-art-of-command-line#the-art-of-command-line"
+  categories: ["Command-line Interface"]
+  description: "A guide that provides an overview of interactive Bash for Linux with two sections that include additional guidance for macOS and Windows users"
+  skill: "Intermediate"
+  type: "Guide"
+
+- title: "Command Line Fundamentals"
+  path: "https://learning.oreilly.com/library/view/command-line-fundamentals/9781789807769/"
+  categories: ["Command-line Interface"]
+  description: "Master shell basics and Unix tools and discover easy commands to perform complex tasks with speed"
+  skill: "Beginner"
+  type: "Book"
+
+- title: "Tabiew"
+  path: "https://github.com/shshemi/tabiew#tabiew"
+  categories: ["Command-line Interface", "Command-line Tools"]
+  description: "Tabiew is a lightweight, terminal-based application to view and query delimiter separated value formatted documents, such as CSV and TSV files"
+  skill: "Intermediate"
+  type: "Tool"
+
+- title: "emphatic"
+  path: "https://github.com/coolbutuseless/emphatic/?tab=readme-ov-file#emphatic"
+  categories: ["Command-line Interface", "Command-line Tools"]
+  description: "{emphatic} is a tool for exploratory analysis of tabular data. It allows the user to visually colour elements of the data, yet still keep all values visible"
+  skill: "Intermediate"
+  type: "Tool"
+
+- title: "University of Michigan ITS AI Services"
+  path: "https://its.umich.edu/computing/ai"
+  categories: ["Generative AI"]
+  description: "UM's ITS team is now offering a generative AI platform and these service offerings are equitable, accessible, and support everything from basic consumer usage to advanced research and experimentation"
+  skill: "Beginner"
+  type: "Article"
+
+- title: "Generative AI for Beginners (Version 2) - A Course"
+  path: "https://microsoft.github.io/generative-ai-for-beginners/#/"
+  categories: ["Generative AI"]
+  description: "Learn the fundamentals of building Generative AI applications with an 18-lesson comprehensive course by Microsoft Cloud Advocates"
+  skill: "Beginner"
+  type: "Course"
+
+- title: "Pro Git book"
+  path: "https://git-scm.com/book/en/v2"
+  categories: ["Git", "GitLab"]
+  description: "Learn git at your own pace with the Pro Git Book, managed by the git community"
+  skill: "Intermediate"
+  type: "Book"
+
+- title: "Git Cheatsheet by GitLab"
+  path: https://about.gitlab.com/images/press/git-cheat-sheet.pdf?_gl=1*bjp8hu*_ga*ODEyNTM5MDY4LjE2ODc4NzMyNDc.*_ga_ENFH3X7M5Y*MTY4Nzg3MzI0Ni4xLjEuMTY4Nzg3MzcwNS4wLjAuMA..
+  categories: ["Git", "GitLab"]
+  description: "Quick reference guide for important Git commands, created by GitLab"
+  skill: "Beginner"
+  type: "Cheatsheet"
+
+- title: "Git Cheatsheet by Atlassian"
+  path: https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
+  categories: ["Git"]
+  description: "A handy git cheat sheet guide to enhance your workflow, created by Atlassian"
+  skill: "Beginner"
+  type: "Cheatsheet"
+
+- title: "Git Cheatsheet by GitHub"
+  path: https://education.github.com/git-cheat-sheet-education.pdf
+  categories: ["Git", "GitHub"]
+  description: "Quick reference guide for important Git commands, created by GitHub"
+  skill: "Beginner"
+  type: "Cheatsheet"
+
+- title: "Getting Git: Git version control software with RStudio"
+  path: https://www.mivideo.it.umich.edu/media/t/1_iut23fhb
+  categories: ["Git", "RStudio"]
+  description: "A recorded workshop on Git version control software with RStudio from the University of Michigan Biostatistics department"
+  skill: "Intermediate"
+  type: "Video"
+
+- title: "Using Git with RStudio"
+  path: https://jennybc.github.io/2014-05-12-ubc/ubc-r/session03_git.html#learngit
+  categories: ["Git", "RStudio"]
+  description: "Quick reference step-by-step tutorial on setting up git with RStudio"
+  skill: "Beginner"
+  type: "Tutorial"
+
+- title: "Git Learning Videos"
+  path: https://git-scm.com/videos
+  categories: ["Git"]
+  description: "Links to some basic tutorial videos created by the git maintainer community"
+  skill: "Beginner"
+  type: "Video"
+
+- title: "Learn Git on the Command Line"
+  path: https://youtube.com/playlist?list=PLyCj4RCToz5DRDx3sJ4iW9i8D2G8OdHYH&si=OEz0y5-Noo6iuEzc
+  categories: ["Git", "Command-line Interface"]
+  description: "A playlist of YouTube videos prepared by Tower, a git client for macOS and Windows"
+  skill: "Beginner"
+  type: "Video"
+
+- title: "Version Control with Git"
+  path: https://swcarpentry.github.io/git-novice/index.html
+  categories: ["Git", "Version Control"]
+  description: "An online beginner course, developed by Software Carpentry, teaching the basics of version control with Git"
+  skill: "Beginner"
+  type: "Course"
+
+- title: "Interactive Git Cheatsheet"
+  path: https://ndpsoftware.com/git-cheatsheet.html#loc=local_repo;
+  categories: ["Git"]
+  description: "An interactive Git Cheatsheet, developed by NDP Software, that visually represents git commands and states"
+  skill: "Beginner"
+  type: "Cheatsheet"
+
+- title: "Confusing git terminology"
+  path: https://jvns.ca/blog/2023/11/01/confusing-git-terminology/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_460#commit
+  categories: ["Git"]
+  description: "A blog entry from Julia Evans, a software developer, which walks through various git terms that tend to confuse users"
+  skill: "Intermediate"
+  type: "Blog"
+
+- title: "Learn GitLab with Pj: A Walkthrough and Explanation"
+  path: https://youtu.be/-oaI2WEKdI4?si=1MZ0YMiq4-yWd0AZ
+  categories: ["GitLab"]
+  description: "Overview and walkthrough of GitLab Project basics by a member of the GitLab education team"
+  skill: "Beginner"
+  type: "Video"
+
+- title: "GitLab Flavored Markdown (GLFM)"
+  path: https://docs.gitlab.com/ee/user/markdown.html
+  categories: ["GitLab", "Markdown"]
+  description: "Overview of styling and syntax for GitLab's version of Markdown"
+  skill: "Beginner"
+  type: "Documentation"
+
+- title: "Use the left sidebar to navigate GitLab"
+  path: https://docs.gitlab.com/ee/tutorials/left_sidebar/index.html
+  categories: ["GitLab"]
+  description: "A walk-through of GitLab's navigation in the left-hand sidebar"
+  skill: "Beginner"
+  type: "Tutorial"
+
+- title: "Learning GitLab"
+  path: https://www.linkedin.com/learning-login/share?account=42573940&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-gitlab-14539757%3Ftrk%3Dshare_ent_url%26shareId%3Dli1%252F%252B7tOS2OG5XGCR7sqPw%253D%253D
+  categories: ["GitLab"]
+  description: "A (1h 3m) LinkedIn Learning tutorial with an overview of basic GitLab UI and functionality"
+  skill: "Beginner"
+  type: "Video"
+
+- title: "What is Version Control? [Learn Git Video Course]"
+  path: https://youtu.be/M-O8ZNW9icQ?si=1l-QlS3IKYrVQCUi
+  categories: ["Version Control", "Git", "Source Code Management"]
+  description: "A short video reviewing the basics of version control and why to use it"
+  skill: "Beginner"
+  type: "Video"
+
+- title: "GitLab Branching Strategy | GitLab Flow Tutorial Part 1"
+  path: https://youtu.be/ZJuUz5jWb44?si=0JqhRnCUR7tc2UqZ
+  categories: ["GitLab", "Version Control", "Git", "Source Code Management"]
+  description: "A (15 min) tutorial discussing GitLab Flow and a conceptual overview of strategies for working with Git"
+  skill: "Intermediate"
+  type: "Video"
+
+- title: "Describe productivity solutions of Microsoft 365"
+  path: "https://learn.microsoft.com/en-us/training/modules/describe-productivity-solutions-microsoft-365/"
+  categories: ["Microsoft 365", "Productivity"]
+  description: "Learn about how the productivity solutions through Microsoft 365 help optimize operations, enhance content creation, and empower people to perform tasks in real-time from virtually anywhere"
+  skill: "Beginner"
+  type: "Module"
+
+- title: "Learning Power Automate Desktop for Developers"
+  path: "https://www.linkedin.com/learning-login/share?account=42573940&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-power-automate-desktop-for-developers%3Ftrk%3Dshare_ent_url%26shareId%3DHp1BdkyhRM%252B64Pn1609rMg%253D%253D"
+  categories: ["Microsoft 365", "Power Automate"]
+  description: "A (1h 45m) introductory course on getting started with Power Automate Desktop."
+  skill: "Beginner"
+  type: "Video"
+
+- title: "Managing Data with Microsoft 365"
+  path: "https://www.linkedin.com/learning-login/share?account=42573940&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fmanaging-data-with-microsoft-365%3Ftrk%3Dshare_ent_url%26shareId%3DLttOXX6TQXaQPDpPTCQeJQ%253D%253D"
+  categories: ["Microsoft 365", "Data Management"]
+  description: "A (1h 3m) overview course on managing data with Microsoft Forms, Excel, Power Automate, and Power BI"
+  skill: "Beginner"
+  type: "Video"
+
+- title: "Present your data in a Gantt chart in Excel"
+  path: "https://support.microsoft.com/en-us/office/present-your-data-in-a-gantt-chart-in-excel-f8910ab4-ceda-4521-8207-f0fb34d9e2b6"
+  categories: ["Microsoft 365", "Gantt", "Project Visualization"]
+  description: "Microsoft 365 subscription offers premium Gantt chart templates designed to help you track project tasks with visual reminders and color-coded categories"
+  skill: "Beginner"
+  type: "Tutorial"
+
+- title: "Get organized with Gantt chart templates"
+  path: "https://create.microsoft.com/en-us/templates/gantt-charts"
+  categories: ["Microsoft 365", "Gantt"]
+  description: "A listing of Gantt chart templates for Excel"
+  skill: "Beginner"
+  type: "Templates"
+
+- title: "Use a wizard to create a Gantt Chart"
+  path: "https://support.microsoft.com/en-us/office/use-a-wizard-to-create-a-gantt-chart-90ddd935-b0ab-412c-aebc-874f309f6b26"
+  categories: ["Microsoft Project", "Microsoft 365", "Gantt"]
+  description: "Specific to Microsoft Project, which includes a wizard to walk through the creation of a Gantt chart"
+  skill: "Beginner"
+  type: "Tutorial"
+
+- title: "Building a Gantt Chart using Power BI"
+  path: "https://techcommunity.microsoft.com/t5/educator-developer-blog/building-a-gantt-chart-using-power-bi/ba-p/3605928"
+  categories: ["Microsoft 365", "Power BI", "Gantt"]
+  description: "A step-by-step guide on loading an excel sheet into Power BI to create a Gantt chart"
+  skill: "Intermediate"
+  type: "Tutorial"
+
+- title: "Set up a basic Gantt chart in Excel"
+  path: "https://www.linkedin.com/learning-login/share?account=42573940&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fproject-management-simplified-2019%2Fset-up-a-basic-gantt-chart-in-excel%3Ftrk%3Dshare_video_url%26shareId%3DqdS5MKdIT%252BS1nQpjQe%252Bf%252Fw%253D%253D"
+  categories: ["Microsoft 365", "Gantt"]
+  description: "A 10 minute video walking through the process of a setting up a Gantt chart using Excel"
+  skill: "Beginner"
+  type: "Video"
+
+- title: "Using Excel for Gantt charts: My top 10 tips"
+  path: "https://www.linkedin.com/learning-login/share?account=42573940&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-gantt-charts%2Fusing-excel-for-gantt-charts-my-top-10-tips-2%3Ftrk%3Dshare_video_url%26shareId%3DkOO10GaaRYqqbosYs7TvDw%253D%253D"
+  categories: ["Microsoft 365", "Gantt"]
+  description: "A quick 4 minute video with pro tips on using Excel for Gantt charts"
+  skill: "Beginner"
+  type: "Video"
+
+- title: "Managing Projects with Microsoft 365"
+  path: "https://www.linkedin.com/learning-login/share?account=42573940&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fmanaging-projects-with-microsoft-365%3Ftrk%3Dshare_ent_url%26shareId%3DF1dFw1tHTDCFwOptEFADAQ%253D%253D"
+  categories: ["Microsoft 365", "Project Management"]
+  description: "A (49m) overview course on managing project using Microsoft Lists, Planner, and Project"
+  skill: "Beginner"
+  type: "Video"
+
+- title: "Microsoft Planner Essential Training"
+  path: "https://www.linkedin.com/learning-login/share?account=42573940&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fmicrosoft-planner-essential-training-2021%3Ftrk%3Dshare_ent_url%26shareId%3D0TzBAbapRymqdDjkse3vCg%253D%253D"
+  categories: ["Microsoft 365", "Microsoft Planner", "Project Management"]
+  description: "A (1h 27m) Linkedin Learning course on the essential features of Microsoft Planner"
+  skill: "Beginner"
+  type: "Video"
+
+- title: "PEP 8 – Style Guide for Python Code"
+  path: "https://peps.python.org/pep-0008/"
+  categories: ["Python"]
+  description: "This document gives coding conventions for Python code comprising the standard library in the main Python distribution"
+  skill: "Intermediate"
+  type: "Documentation"
+
+- title: "Python Tutor"
+  path: "https://pythontutor.com/python-compiler.html#mode=edit"
+  categories: ["Python"]
+  description: "The Python Tutor is a unique step-by-step visual debugger and AI tutor to help you understand and debug code"
+  skill: "Beginner"
+  type: "Tutorial"
+
+- title: "Python for Everybody"
+  path: "https://www.py4e.com/"
+  categories: ["Python"]
+  description: "This web site is building a set of free materials, lectures, book and assignments to help students learn how to program in Python"
+  skill: "Beginner"
+  type: "Course"
+
+- title: "Python Virtual Environments"
+  path: "https://si506.org/guides/python_virtual_env/"
+  categories: ["Python"]
+  description: "A quick guide for setting up Python virtual environments on macOS and Windows 10"
+  skill: "Beginner"
+  type: "Tutorial"
+
+- title: "Fluent Python"
+  path: "https://learning.oreilly.com/library/view/fluent-python-2nd/9781492056348/"
+  categories: ["Python"]
+  description: "A hands-on guide walking through how to write effective, modern Python 3 code by leveraging its core language features and libraries"
+  skill: "Intermediate"
+  type: "Textbook"
+
+- title: "pandas Documentation"
+  path: "https://pandas.pydata.org/docs/"
+  categories: ["Python", "Data Wrangling", "Pandas"]
+  description: "pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language"
+  skill: "Intermediate"
+  type: "Documentation"
+
+- title: "Think Python: How to Think Like a Computer Scientist"
+  path: "https://greenteapress.com/thinkpython2/thinkpython2.pdf"
+  categories: ["Python"]
+  description: "A textbook that teaches Python through the lens of a computer scientist, utilizing the best features from mathematics, engineering, and natural science"
+  skill: "Intermediate"
+  type: "Textbook"
+
+- title: "Programming with Python"
+  path: "https://swcarpentry.github.io/python-novice-inflammation/"
+  categories: ["Python"]
+  description: "An online beginner course, developed by Software Carpentry, introducing the basics of Python programming through data analysis"
+  skill: "Beginner"
+  type: "Course"
+
+- title: "Data Analysis with Pandas and Python"
+  path: "https://learning.oreilly.com/videos/data-analysis-with/9781788622394/"
+  categories: ["Python", "Pandas", "Data Analysis", "Data Wrangling"]
+  description: "A text that introduces you to the popular Pandas library built on top of the Python programming language"
+  skill: "Beginner"
+  type: "Textbook"
+
+- title: "Python for Data Analysis, 3rd Edition"
+  path: "https://learning.oreilly.com/library/view/python-for-data/9781098104023/"
+  categories: ["Python", "Data Analysis"]
+  description: "A definitive handbook for manipulating, processing, cleaning, and crunching datasets in Python"
+  skill: "Intermediate"
+  type: "Textbook"
+
+- title: "Pandas for Everyone: Python Data Analysis, 2nd Edition"
+  path: "https://learning.oreilly.com/library/view/pandas-for-everyone/9780137891146/"
+  categories: ["Python", "Pandas", "Data Analysis", "Data Wrangling"]
+  description: "A text providing practical knowledge and insight for solving real problems with pandas, even for those new to Python data analysis"
+  skill: "Beginner"
+  type: "Textbook"
+
+- title: "Python Data Science Handbook, 2nd Edition"
+  path: "https://learning.oreilly.com/library/view/python-data-science/9781098121211/"
+  categories: ["Python", "Data Analysis"]
+  description: "A handbook for scientific computing in Python that highlights the data science stack - IPython, NumPy, pandas, Matplotlib, Scikit-Learn, and other related tools"
+  skill: "Intermediate"
+  type: "Textbook"
+
+- title: "Introduction to Data Visualization in Python"
+  path: "https://gilberttanner.com/blog/introduction-to-data-visualization-inpython/"
+  categories: ["Python", "Data Visualization"]
+  description: "An article with quick tutorials on visualizing data with Python in Matplotlib, Pandas, and Seaborn"
+  skill: "Beginner"
+  type: "Tutorial"
+
+- title: "A Complete Guide to Data Visualization in Python With Libraries & More"
+  path: "https://www.simplilearn.com/tutorials/python-tutorial/data-visualization-in-python"
+  categories: ["Python", "Data Visualization"]
+  description: "A (1h 54m) video with transcription which reviews the basics of data visualization in Python with Matplotlib and Seaborn"
+  skill: "Beginner"
+  type: "Video"
+
+- title: "Great Tables: Absolutely Delightful Table-making in Python"
+  path: "https://posit-dev.github.io/great-tables/articles/intro.html"
+  categories: ["Python", "Data Visualization"]
+  description: "Documentation for the Great Tables Python package that makes it easy to generate information-rich, publication-quality tables. The package leverages pandas and polars dataframes"
+  skill: "Intermediate"
+  type: "Documentation"
+
+- title: "polars' Rgonomic Patterns"
+  path: "https://www.emilyriederer.com/post/py-rgo-polars/"
+  categories: ["Python", "Polars", "Data Wrangling"]
+  description: "A blog post highlighting the advanced data wrangling functionality in python's polars package to see how it mirrors `dplyr` and `tidyr`'s syntax"
+  skill: "Intermediate"
+  type: "Blog"
+
+- title: "Programming with R"
+  path: "https://swcarpentry.github.io/r-novice-inflammation/"
+  categories: ["R", "Programming"]
+  description: "An online beginner course, developed by Software Carpentry, introducing the basics of R programming through data analysis"
+  skill: "Beginner"
+  type: "Course"
+
+- title: "R for Reproducible Scientific Analysis"
+  path: "https://swcarpentry.github.io/r-novice-gapminder/"
+  categories: ["R", "Data Analysis", "Reproducibility"]
+  description: "An online beginner course, developed by Software Carpentry, introducing the basics of R programming through analysis of the gapminder data"
+  skill: "Beginner"
+  type: "Course"
+
+- title: "Base R Cheat Sheet from Posit"
+  path: "https://posit.co/wp-content/uploads/2022/10/base-r.pdf"
+  categories: ["R"]
+  description: "A quick reference guide (downloadable pdf) of basic syntax and functionality in R"
+  skill: "Beginner"
+  type: "Cheatsheet"
+
+- title: "R for Data Science: Analysis and Visualization"
+  path: "https://www.linkedin.com/learning-login/share?account=42573940&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-r-18748884%3Ftrk%3Dshare_ent_url%26shareId%3D5bzmEKn4StWzgXT5thAUJQ%253D%253D"
+  categories: ["R", "Data Analysis", "Data Visualization"]
+  description: "An introducty LinkedIn Learning course (2h 46m) on the basics of getting started with R for data visualization, wrangling, and analysis"
+  skill: "Beginner"
+  type: "Video"
+
+- title: "Quick-R"
+  path: "https://www.statmethods.net/"
+  categories: ["R"]
+  description: "Site containing a broad overview of R resources for learning R created by a statistical consultant and research methodologist"
+  skill: "Beginner"
+  type: "Reference"
+
+- title: "Introduction to R and RStudio"
+  path: "https://www.mivideo.it.umich.edu/media/t/1_xxsq7oj2"
+  categories: ["R", "RStudio"]
+  description: "A recorded workshop on workflow basics, scripts, and projects from the University of Michigan Biostatistics department"
+  skill: "Beginner"
+  type: "Video"
+
+- title: "R Essential Training: Wrangling and Visualizing Data"
+  path: "https://www.linkedin.com/learning-login/share?account=42573940&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fr-essential-training-wrangling-and-visualizing-data%3Ftrk%3Dshare_ent_url%26shareId%3DTy%252Fmt8FISbKApLxD4n0SNg%253D%253D"
+  categories: ["R", "Data Visualization", "Data Wrangling"]
+  description: "An introductory LinkedIn Learning course (4h 18m) on the essential tools for importing visualizing, and wrangling data in R"
+  skill: "Beginner"
+  type: "Video"
+
+- title: "Big Book of R"
+  path: "https://www.bigbookofr.com/"
+  categories: ["R"]
+  description: "A listing of over 300 Reference books on the R programming language"
+  skill: "Intermediate"
+  type: "Reference"
+
+- title: "Tidy design principles"
+  path: "https://design.tidyverse.org/"
+  categories: ["R", "Tidyverse"]
+  description: "Still under development, this book identifies challenges and patterns to help you write better R code. There is also a related Tidy Design Princiles blog/newsletter that the author is maintaining during the writing process"
+  skill: "Intermediate"
+  type: "Book"
+
+- title: "The tidyverse style guide"
+  path: "https://style.tidyverse.org/index.html"
+  categories: ["R", "Tidyverse"]
+  description: "A site that site describes the style used throughout the tidyverse, written by Hadley Wickham of Posit"
+  skill: "Intermediate"
+  type: "Book"
+
+- title: "23 RStudio Tips, Tricks, and Shortcuts"
+  path: "https://www.dataquest.io/blog/rstudio-tips-tricks-shortcuts/"
+  categories: ["R", "RStudio"]
+  description: "A blog post covering some of the best features of RStudio with a list of tips, tricks, and shortcuts"
+  skill: "Intermediate"
+  type: "Blog"
+
+- title: "What They Forgot to Teach You About R"
+  path: "https://rstats.wtf/"
+  categories: ["R", "Data Analysis"]
+  description: "This book focuses on content intrinsically related to the infrastructure surrounding data analysis in R, but does not delve into the data analysis itself"
+  skill: "Intermediate"
+  type: "Book"
+
+- title: "R for the Rest of Us: A Statistics-Free Introduction"
+  path: "https://book.rfortherestofus.com/"
+  categories: ["R", "RStudio"]
+  description: "A crash course in R, a quick tour of the RStudio programming environment, and a collection of real-word applications that you can put to use right away"
+  skill: "Beginner"
+  type: "Book"
+
+- title: "R for Data Science (2e)"
+  path: "https://r4ds.hadley.nz/"
+  categories: ["R", "Tidyverse", "Data Analysis", "Data Visualization"]
+  description: "FREE 2nd edition of 'R for Data Science' which provides practical skills for data science, including data importation, data structuring, data transformation, and data visualization"
+  skill: "Intermediate"
+  type: "Textbook"
+
+- title: "Statistical Inference via Data Science: A ModernDive into R and the Tidyverse"
+  path: "https://moderndive.com/index.html"
+  categories: ["R", "Statistics", "Tidyverse"]
+  description: "The companion website to Chester Ismay and Albert Y. Kim's introductory statistics textbook, which walks students through the entire data analysis pipeline using R and tidyverse"
+  skill: "Beginner"
+  type: "Textbook"
+
+- title: "R Screencasts"
+  path: "https://www.rscreencasts.com/"
+  categories: ["R", "Data Analysis"]
+  description: "Live data analysis screencasts from a top Data Scientist, David Robinson"
+  skill: "Intermediate"
+  type: "Video"
+
+- title: "Tools for Analyzing R Code the Tidy Way"
+  path: "https://journal.r-project.org/archive/2020/RJ-2020-011/RJ-2020-011.pdf"
+  categories: ["R", "Tidyverse"]
+  description: "An article on two packages, matahari and tidycode, written to analyze R code in a tidy manner"
+  skill: "Intermediate"
+  type: "Article"
+
+- title: "Tidy Modeling with R"
+  path: "https://www.tmwr.org/"
+  categories: ["R", "Data Modeling", "Tidymodels"]
+  description: "A guide to using a collection of software in the R programming language for model building called tidymodels"
+  skill: "Intermediate"
+  type: "Textbook"
+
+- title: "R Markdown Cookbook"
+  path: "https://bookdown.org/yihui/rmarkdown-cookbook/"
+  categories: ["R", "Markdown"]
+  description: "This book is broken down into small 'recipes' that aim to demonstrate a single R Markdown concept at a time."
+  skill: "Intermediate"
+  type: "Textbook"
+
+- title: "R Markdown: The Definitive Guide"
+  path: "https://bookdown.org/yihui/rmarkdown/"
+  categories: ["R", "Markdown"]
+  description: "This book is a definitive reference guide to the R Markdown language"
+  skill: "Intermediate"
+  type: "Reference"
+
+- title: "R Markdown Tips, Tricks, and Shortcuts"
+  path: "https://www.dataquest.io/blog/r-markdown-tips-tricks-and-shortcuts/"
+  categories: ["R", "Markdown", "RStudio"]
+  description: "A blog post with some helpful tips and tricks for working with R Markdown in RStudio"
+  skill: "Intermediate"
+  type: "Blog"
+
+- title: "Quick list of useful R packages"
+  path: "https://support.posit.co/hc/en-us/articles/201057987-Quick-list-of-useful-R-packages"
+  categories: ["R", "R Packages"]
+  description: "A categorized list of recommended free libraries of code written by the active user community"
+  skill: "Intermediate"
+  type: "Reference"
+
+- title: "CRAN Task Views"
+  path: "https://cloud.r-project.org/web/views/"
+  categories: ["R"]
+  description: "Comprehensive R Archive Network (CRAN)'s listing of packages by topic area or 'task'"
+  skill: "Intermediate"
+  type: "Reference"
+
+- title: "ggplot2 Cheatsheet by Posit"
+  path: "https://rstudio.github.io/cheatsheets/data-visualization.pdf"
+  categories: ["R", "Ggplot2", "Data Visualization"]
+  description: "A quick reference guide for basic syntax and functionality of the data visualization ggplot2 package, including a downloadable pdf"
+  skill: "Beginner"
+  type: "Cheatsheet"
+
+- title: "rmarkdown Cheatsheet by Posit"
+  path: "https://rstudio.github.io/cheatsheets/rmarkdown.pdf"
+  categories: ["R", "Markdown"]
+  description: "A quick reference guide for basic syntax and functionality of the authoring framework rmarkdown, including a downloadable pdf"
+  skill: "Beginner"
+  type: "Cheatsheet"
+
+- title: "tidyverse Cheatsheet by Posit"
+  path: "https://rstudio.github.io/cheatsheets/data-import.pdf"
+  categories: ["R", "Tidyverse"]
+  description: "A quick reference guide for basic syntax and functionality of the data science packages that comprise the tidyverse, including a downloadable pdf"
+  skill: "Beginner"
+  type: "Cheatsheet"
+
+- title: "dplyr Cheatsheet by Posit"
+  path: "https://rstudio.github.io/cheatsheets/data-transformation.pdf"
+  categories: ["R", "Dplyr", "Data Wrangling"]
+  description: "A quick reference guide for basic syntax and functionality of the data manipulation dplyr package, including a downloadable pdf"
+  skill: "Beginner"
+  type: "Cheatsheet"
+
+- title: "tidyr Cheatsheet by Posit"
+  path: "https://rstudio.github.io/cheatsheets/tidyr.pdf"
+  categories: ["R", "Tidyr", "Data Cleaning"]
+  description: "A quick reference guide for basic syntax and functionality of the data cleaning tidyr package, including a downloadable pdf"
+  skill: "Beginner"
+  type: "Cheatsheet"
+
+- title: "htmlwidget"
+  path: "https://www.htmlwidgets.org/develop_intro.html"
+  categories: ["R", "JavaScript", "Data Visualization"]
+  description: "A package for creating JavaScript data visualizations in R"
+  skill: "Intermediate"
+  type: "Documentation"
+
+- title: "reprex"
+  path: "https://reprex.tidyverse.org/"
+  categories: ["R", "Reproducibility"]
+  description: "An R package for preparing reproducible examples of R code"
+  skill: "Intermediate"
+  type: "Documentation"
+
+- title: "Reproducible research with R, RStudio and GitLab"
+  path: "https://matthieu-bruneaux.gitlab.io/guide-r-rstudio-git-gitlab/index.html#reproducible-research-with-r-rstudio-and-gitlab"
+  categories: ["R", "Git", "GitLab", "RStudio", "Reproducibility"]
+  description: "A manual describing easy reproducibility and collaboration with R and Git"
+  skill: "Intermediate"
+  type: "Documentation"
+
+- title: "Instructions for Creating Your Own R Package"
+  path: "https://web.mit.edu/insong/www/pdf/rpackage_instructions.pdf"
+  categories: ["R", "R Packages"]
+  description: "An article with a step-by-step guide to creating your own R package"
+  skill: "Intermediate"
+  type: "Article"
+
+- title: "Writing R Packages in RStudio"
+  path: "https://ourcodingclub.github.io/tutorials/writing-r-package/"
+  categories: ["R", "R Packages", "RStudio", "GitHub"]
+  description: "A tutorial walking through the set up of a basic R package that can be installed from GitHub"
+  skill: "Intermediate"
+  type: "Tutorial"
+
+- title: "Making Your First R Package"
+  path: "https://tinyheero.github.io/jekyll/update/2015/07/26/making-your-first-R-package.html"
+  categories: ["R", "R Packages"]
+  description: "A blog entry that walks through the steps of organizing code in a package with consistent documentation"
+  skill: "Intermediate"
+  type: "Blog"
+
+- title: "The Package: learning how to build an R package"
+  path: "https://www.r-bloggers.com/2022/09/the-package-learning-how-to-build-an-r-package/"
+  categories: ["R", "R Packages"]
+  description: "A blog entry from R-Bloggers that walks through the process of setting up an R package"
+  skill: "Intermediate"
+  type: "Blog"
+
+- title: "Writing an R package from scratch"
+  path: "https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/"
+  categories: ["R", "R Packages"]
+  description: "A blog entry from Hilary Parker of Etsy on setting up your first R package from scratch"
+  skill: "Intermediate"
+  type: "Blog"
+
+- title: "CRAN documentation on Creating R packages"
+  path: "https://cran.r-project.org/doc/manuals/R-exts.html#Creating-R-packages"
+  categories: ["R", "R Packages"]
+  description: "Original documentation on how to create an R package from the Comprehensive R Archive Network (CRAN)"
+  skill: "Advanced"
+  type: "Reference"
+
+- title: "R Packages (2e)"
+  path: "https://r-pkgs.org/"
+  categories: ["R", "R Packages", "Reproducibility"]
+  description: "Learn how to create a package, the fundamental unit of shareable, reusable, and reproducible R code from Hadley Wickham and Jennifer Bryan of Posit"
+  skill: "Intermediate"
+  type: "Textbook"
+
+- title: "The R Graph Gallery"
+  path: "https://r-graph-gallery.com/"
+  categories: ["R", "Data Visualization"]
+  description: "A collection of R's available chart types listed by purpose, and including guidance on required packages and syntax"
+  skill: "Beginner"
+  type: "Reference"
+
+- title: "Data Visualization in R With ggplot2"
+  path: "https://learning.oreilly.com/videos/data-visualization-in/9781491963661/9781491963661-video256235/"
+  categories: ["R", "Ggplot2", "Data Visualization"]
+  description: "A video course on how to create great looking, insightful data visualizations using the R package, ggplot2"
+  skill: "Beginner"
+  type: "Video"
+
+- title: "Color in Data Vis"
+  path: "https://blog.datawrapper.de/category/color-in-data-vis/"
+  categories: ["Data Visualization"]
+  description: "A feed of blog entries on the selection of beautiful, legible colors in data visualization, charts, and maps"
+  skill: "Intermediate"
+  type: "Blog"
+
+- title: "Exciting Data Visualizations with ggplot2 Extensions"
+  path: "https://www.youtube.com/watch?v=ngkhOhp5qU4&t=609s"
+  categories: ["R", "Ggplot2", "Data Visualization"]
+  description: "A (1h 28m) presentation by Cédric Scherer diving into the world of data visualization and the art of creating engaging and effective data graphics with ggplot2"
+  skill: "Intermediate"
+  type: "Video"
+
+- title: "Psychology of Data Visualization"
+  path: "https://friendly.github.io/6135/index.html"
+  categories: ["R", "Data Visualization"]
+  description: "An online self-paced course that examines a variety of issues related to data visualization from a largely psychological perspective, including an overview of ggplot2"
+  skill: "Beginner"
+  type: "Course"
+
+- title: "Modern Data Visualization with R"
+  path: "https://rkabacoff.github.io/datavis/"
+  categories: ["R", "Data Visualization"]
+  description: "A helpful and user-friendly book that walks through creating the most popular visualizations — from quick and dirty plots to publication-ready graphs"
+  skill: "Intermediate"
+  type: "Book"
+
+- title: "tidyexplain"
+  path: "https://www.garrickadenbuie.com/project/tidyexplain/"
+  categories: ["R", "Tidyverse", "Data Wrangling"]
+  description: "Animations of tidyverse verbs using R, the tidyverse, and gganimate"
+  skill: "Beginner"
+  type: "Tutorial"
+
+- title: "Data Wrangling with R"
+  path: "https://link.springer.com/book/10.1007/978-3-319-45599-0#:~:text=PDF-,Introduction,-Front%20Matter"
+  categories: ["R", "Data Wrangling", "Tidyverse"]
+  description: "A text for all levels of R programmers, covering the various data wrangling packages: dplyr, tidyr, httr, stringr, lubridate, readr, rvest, magrittr, xlsx, readxl, and others"
+  skill: "Intermediate"
+  type: "Textbook"
+
+- title: "Data Wrangling in R"
+  path: "https://www.linkedin.com/learning-login/share?account=42573940&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fdata-wrangling-in-r-14135737%3Ftrk%3Dshare_ent_url%26shareId%3DPlrh1FSLQ9SMiLJ5gLFYGA%253D%253D"
+  categories: ["R", "Data Wrangling"]
+  description: "A (2h 51m) LinkedIn Learning course that provides an overview of data wrangling techniques for cleaning and transforming data"
+  skill: "Intermediate"
+  type: "Video"
+
+- title: "Introduction to the Tidyverse"
+  path: "https://www.mivideo.it.umich.edu/media/t/1_z1t4qths"
+  categories: ["R", "Tidyverse", "Data Wrangling"]
+  description: "A recorded workshop on the tidyverse and visualizing data in ggplot2 from the University of Michigan Biostatistics department"
+  skill: "Beginner"
+  type: "Video"
+
+- title: "Learning the R Tidyverse"
+  path: "https://www.linkedin.com/learning-login/share?account=42573940&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-the-r-tidyverse%3Ftrk%3Dshare_ent_url%26shareId%3Dehaqf8cOSwSdHdIMKzDxcA%253D%253D"
+  categories: ["R", "Tidyverse", "Data Wrangling"]
+  description: "A (3h 50m) LinkedIn Learning course walking through the tidyverse approach to data science"
+  skill: "Beginner"
+  type: "Video"
+
+- title: "The Quartz Guide to Bad Data"
+  path: "https://github.com/Quartz/bad-data-guide"
+  categories: ["R", "Data Wrangling", "Data Cleaning"]
+  description: "This guide presents thorough descriptions and suggested solutions to many of the kinds of problems that you will encounter when working with data"
+  skill: "Intermediate"
+  type: "Reference"
+
+- title: "Visualizing {dplyr}'s mutate(), summarize(), group_by(), and ungroup() with animations"
+  path: "https://www.andrewheiss.com/blog/2024/04/04/group_by-summarize-ungroup-animations/"
+  categories: ["R", "Dplyr", "Data Wrangling"]
+  description: "Visually explore how {dplyr}'s more complex core functions work together to wrangle data"
+  skill: "Intermediate"
+  type: "Article"
+
+- title: "Introduction to R with Tidyverse"
+  path: "https://introduction-r-tidyverse.netlify.app/"
+  categories: ["R", "Tidyverse", "Data Wrangling"]
+  description: "This course is a gentle introduction to the RStudio interface and provides the basics of the R coding language and syntax. This course is ideal for beginners with little or no prior coding experience"
+  skill: "Beginner"
+  type: "Course"
+
+- title: "Introduction to Programming in R"
+  path: "https://www.mivideo.it.umich.edu/media/t/1_4l4jfwk6"
+  categories: ["R", "Programming"]
+  description: "A recorded workshop on functions, vectors, and iteration in R from the University of Michigan Biostatistics department"
+  skill: "Beginner"
+  type: "Video"
+
+- title: "Efficient R Programming"
+  path: "https://csgillespie.github.io/efficientR/index.html"
+  categories: ["R", "Programming"]
+  description: "A textbook for all skill levels on making R code faster, more efficient, and scalable"
+  skill: "Intermediate"
+  type: "Textbook"
+
+- title: "Hands-On Programming with R"
+  path: "https://rstudio-education.github.io/hopr/"
+  categories: ["R", "Programming"]
+  description: "This book will teach you how to program in R, with hands-on examples."
+  skill: "Beginner"
+  type: "Textbook"
+
+- title: "Advanced R"
+  path: "https://adv-r.hadley.nz/metaprogramming.html"
+  categories: ["R", "Programming"]
+  description: "An advanced textbook on metaprogramming or the idea that code is data that can be inspected and modified programmatically"
+  skill: "Advanced"
+  type: "Textbook"
+
+- title: "R Programming for Data Science"
+  path: "https://bookdown.org/rdpeng/rprogdatascience/"
+  categories: ["R", "Programming", "Data Analysis"]
+  description: "This book is about the fundamentals of R programming. With the fundamentals provided in this book, you will have a solid foundation on which to build your data science toolbox."
+  skill: "Intermediate"
+  type: "Textbook"
+
+- title: "Regex101"
+  path: "https://regex101.com/"
+  categories: ["Regular Expressions"]
+  description: "Helpful online tool for learning, building, and matching regular expressions to a test string"
+  skill: "Beginner"
+  type: "Tool"
+
+- title: "RegExr"
+  path: "https://regexr.com/"
+  categories: ["Regular Expressions"]
+  description: "Helpful online tool for learning, building, and matching regular expressions to a test string"
+  skill: "Beginner"
+  type: "Tool"
+
+- title: "RegexOne"
+  path: "https://regexone.com/"
+  categories: ["Regular Expressions"]
+  description: "An interactive tutorial with simple exercises for learning regular expressions"
+  skill: "Beginner"
+  type: "Tutorial"
+
+- title: "RegexLearn"
+  path: "https://regexlearn.com/learn"
+  categories: ["Regular Expressions"]
+  description: "A step-by-step tutorial for practicing regular expressions"
+  skill: "Beginner"
+  type: "Tutorial"
+
+- title: "RegexLearn Cheatsheet"
+  path: "https://regexlearn.com/cheatsheet"
+  categories: ["Regular Expressions"]
+  description: "Quick reference guide for regex syntax"
+  skill: "Beginner"
+  type: "Cheatsheet"
+
+- title: "Learning Regular Expressions"
+  path: "https://www.linkedin.com/learning-login/share?account=42573940&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-regular-expressions-15586553%3Ftrk%3Dshare_ent_url%26shareId%3D7Gyf%252BRuCTyyt1MtL56Lw3A%253D%253D"
+  categories: ["Regular Expressions"]
+  description: "A (3h 18m) LinkedIn Learning course with a broad overview of regular expressions"
+  skill: "Beginner"
+  type: "Video"
+
+- title: "Pythex"
+  path: "https://pythex.org/"
+  categories: ["Regular Expressions", "Python"]
+  description: "Helpful interactive tool for testing Python regular expressions"
+  skill: "Beginner"
+  type: "Tool"
+
+- title: "SQL Tutorial"
+  path: "https://www.w3schools.com/sql/default.asp"
+  categories: ["SQL"]
+  description: "A self-paced tutorial, by w3schools, that walks through basic SQL commands"
+  skill: "Beginner"
+  type: "Tutorial"
+
+- title: "SQL Keywords Reference"
+  path: "https://www.w3schools.com/sql/sql_ref_keywords.asp"
+  categories: ["SQL"]
+  description: "A quick reference list of the reserved words in SQL"
+  skill: "Beginner"
+  type: "Reference"
+
+- title: "SQLZoo Tutorial"
+  path: "https://sqlzoo.net/wiki/SQL_Tutorial"
+  categories: ["SQL"]
+  description: "A step by step tutorial reviewing the basics of SQL queries"
+  skill: "Beginner"
+  type: "Tutorial"
+
+- title: "Practical SQL, 2nd Edition"
+  path: "https://learning.oreilly.com/library/view/practical-sql-2nd/9781098129866/"
+  categories: ["SQL"]
+  description: "An approachable and fast-paced guide to SQL (Structured Query Language), the standard programming language for defining, organizing, and exploring data in relational databases"
+  skill: "Beginner"
+  type: "Book"
+
+- title: "Learn SQL"
+  path: "https://www.codecademy.com/learn/learn-sql"
+  categories: ["SQL"]
+  description: "A free self-paced course, developed by codecademy, which demonstrates how to manage large datasets and analyze real data using standard data management language"
+  skill: "Beginner"
+  type: "Course"
+
+- title: "SQLBolt: Introduction to SQL"
+  path: "https://sqlbolt.com/"
+  categories: ["SQL"]
+  description: "A series of interactive lessons and exercises designed to help you quickly learn SQL in your browser"
+  skill: "Beginner"
+  type: "Course"
+
+- title: "SQL join flavors"
+  path: "https://antonz.org/sql-join/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_453"
+  categories: ["SQL"]
+  description: "An article that explores various types of SQL joins, including helpful visualizations for each"
+  skill: "Intermediate"
+  type: "Article"
+
+- title: "The Querynomicon: An Introduction to SQL for the Cautious and Weary"
+  path: "https://github.com/gvwilson/querynomicon?tab=readme-ov-file#the-querynomicon"
+  categories: ["SQL"]
+  description: "A tutorial with notes and working examples for various SQL and database functions"
+  skill: "Intermediate"
+  type: "Tutorial"
+
+- title: "SQL Style Guide"
+  path: "https://www.sqlstyle.guide/"
+  categories: ["SQL", "Programming"]
+  description: "A SQL syntax guide designed to be compatible with Joe Celko's SQL Programming Style book"
+  skill: "Beginner"
+  type: "Reference"
+
+- title: "SQL Polyglot"
+  path: "https://codapi.org/sql/"
+  categories: ["SQL"]
+  description: "A browser-based tool for checking if a particular SQL feature is supported in various database systems"
+  skill: "Intermediate"
+  type: "Tool"
+
+- title: "Institute for Social Research (ISR) Population Dynamics and Health Program Workshops"
+  path: "https://pdhp.isr.umich.edu/workshops/past/"
+  categories: ["Statistics"]
+  description: "A listing of past virtual workshops on various statistical techniques"
+  skill: "Intermediate"
+  type: "Video"
+
+- title: "Consulting for Statistics, Computing, & Analytics Research (CSCAR) Workshops"
+  path: "https://cscar.research.umich.edu/workshops/"
+  categories: ["Statistics", "Data Analysis"]
+  description: "A listing of upcoming in-person workshops on various statistical techniques"
+  skill: "Intermediate"
+  type: "Events"
+
+- title: "Statistical Inference via Data Science: A ModernDive into R and the Tidyverse"
+  path: "https://moderndive.com/index.html"
+  categories: ["Statistics", "R"]
+  description: "The companion website to Chester Ismay and Albert Y. Kim's introductory statistics textbook, which walks students through the entire data analysis pipeline using R and tidyverse"
+  skill: "Beginner"
+  type: "Textbook"
+
+- title: "Statistics Course for Data Science"
+  path: "https://youtube.com/playlist?list=PLqzoL9-eJTNBZDG8jaNuhap1C9q6VHyVa&si=gZmsZ4IC8WBkzl4r"
+  categories: ["Statistics", "Data Analysis"]
+  description: "The Statistics for Data Science Course covers statistical concepts taught in many intro and intermediate statistics courses in universities and colleges"
+  skill: "Beginner"
+  type: "Video"
+
+- title: "Think Stats: Exploratory Data Analysis in Python"
+  path: "https://greenteapress.com/thinkstats2/html/index.html"
+  categories: ["Statistics", "Python", "Data Analysis"]
+  description: "This text is an introduction to the practical tools of exploratory data analysis"
+  skill: "Beginner"
+  type: "Textbook"
+
+- title: "Probably Overthinking It: Data Science and Bayesian Statistics"
+  path: "https://www.allendowney.com/blog/"
+  categories: ["Statistics", "Data Analysis"]
+  description: "A blog series by Allen Downey, a curriculum designer at Brilliant, professor emeritus at Olin College, and author of Think Python, Think Bayes, and other books"
+  skill: "Intermediate"
+  type: "Blog"
+
+- title: "50 years of Data Science"
+  path: "https://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf"
+  categories: ["Statistics", "Data Analysis"]
+  description: "An article based on a presentation from the 2015 Tukey Centennial workshop reviewing the last 50 years of Data Science and its emergence from the fields of statistics and machine learning"
+  skill: "Intermediate"
+  type: "Article"
+
+- title: "Lessons in Statistical Thinking"
+  path: "https://dtkaplan.github.io/Lessons-in-statistical-thinking/"
+  categories: ["Statistics"]
+  description: "*Lessons in Statistical Thinking* presents the statistical ideas and methods behind decision-making to guide action"
+  skill: "Intermediate"
+  type: "Book"
+
+- title: "Tableau for Data Scientists"
+  path: "https://www.linkedin.com/learning-login/share?account=42573940&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Ftableau-for-data-scientists%3Ftrk%3Dshare_ent_url%26shareId%3Dr%252FXyRPKZTHewj%252BrCRPGgHw%253D%253D"
+  categories: ["Tableau", "Data Analysis"]
+  description: "A (5h 55m) LinkedIn Learning course on how to visualize data in Tableau through a Data Science lens"
+  skill: "Intermediate"
+  type: "Video"
+
+- title: "Creating Interactive Tableau Dashboards"
+  path: "https://www.linkedin.com/learning-login/share?account=42573940&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fcreating-interactive-tableau-dashboards%3Ftrk%3Dshare_ent_url%26shareId%3DZWy1jq8KROK%252FgpgN7qEP%252Fw%253D%253D"
+  categories: ["Tableau", "Data Visualization"]
+  description: "A (3h 28m) LinkedIn Learning course on how to create interactive dashboards in Tableau"
+  skill: "Intermediate"
+  type: "Video"
+
+- title: "Tableau and R for Analytics Projects"
+  path: "https://www.linkedin.com/learning-login/share?account=42573940&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Ftableau-and-r-for-analytics-projects%3Ftrk%3Dshare_ent_url%26shareId%3DsvYsOcyWTAO%252BsAMoo8xFug%253D%253D"
+  categories: ["Tableau", "R", "Data Analysis", "Data Visualization"]
+  description: "A (2h 27m) LinkedIn Learning course on visualizing data with Tableau and R"
+  skill: "Intermediate"
+  type: "Video"
+
+- title: "IT4U91: 50 Tableau Tips"
+  path: "https://www.mivideo.it.umich.edu/playlist/dedicated/121481171/1_9kymbhiv/1_pa7d5y9v"
+  categories: ["Tableau", "Data Visualization"]
+  description: "A (40m) video on techniques and tips for building Tableau visualizations from the University of Michigan's ITS department"
+  skill: "Beginner"
+  type: "Video"
+
+- title: "IT4U79: Tiled Dashboards Design in Tableau"
+  path: "https://www.mivideo.it.umich.edu/playlist/dedicated/121481171/1_9kymbhiv/1_oy05339k"
+  categories: ["Tableau", "Data Visualization"]
+  description: "A (43m) video on building a dashboard layout in Tableau by the University of Michigan's ITS department"
+  skill: "Beginner"
+  type: "Video"
+
+- title: "Data Visualization Tips and Tricks"
+  path: "https://www.linkedin.com/learning-login/share?account=42573940&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fdata-visualization-tips-and-tricks%3Ftrk%3Dshare_ent_url%26shareId%3DscvyvRdpTfSTX1ANpXwjDA%253D%253D"
+  categories: ["Tableau", "Data Visualization"]
+  description: "A (2h 14m) LinkedIn Learning course giving guidance on basic data visualization"
+  skill: "Beginner"
+  type: "Video"
+
+- title: "How to name files by Jennifer Bryan of Posit"
+  path: "https://youtu.be/ES1LTlnpLMk?si=TCYp9tKORIAciav1"
+  categories: ["Documentation"]
+  description: "Low-tech common sense about filenames. The holy trinity is: machine readable, human readable, sorted in a useful way"
+  skill: "Beginner"
+  type: "Video"
+
+- title: "The Documentation System"
+  path: "https://documentation.divio.com/"
+  categories: ["Documentation"]
+  description: "A simple, comprehensive and nearly universally-applicable scheme for writing software documentation"
+  skill: "Intermediate"
+  type: "Reference"
+
+- title: "Diátaxis technical documentation system"
+  path: "https://diataxis.fr/"
+  categories: ["Documentation"]
+  description: "This reference describes an information architecture that emerges from a systematic approach to understanding the needs of documentation users"
+  skill: "Intermediate"
+  type: "Reference"
+
+- title: "How To Write a Useful README for Your Next Project"
+  path: "https://betterprogramming.pub/how-to-write-a-useful-readme-for-your-next-project-3edf889059fe"
+  categories: ["Documentation"]
+  description: "An article outlining the 'must-haves' for any project's README file"
+  skill: "Beginner"
+  type: "Article"
+
+- title: "Getting Started: An overview of Markdown..."
+  path: "https://markdownguide.offshoot.io/getting-started/"
+  categories: ["Markdown", "Documentation"]
+  description: "The Markdown Guide is a comprehensive Markdown reference designed for both novices and experts"
+  skill: "Beginner"
+  type: "Reference"
+
+- title: "John Gruber's Markdown documentation"
+  path: "https://daringfireball.net/projects/markdown/"
+  categories: ["Markdown", "Documentation"]
+  description: "The original Markdown documentation, written by the creator of Markdown"
+  skill: "Intermediate"
+  type: "Documentation"
+
+- title: "Markdown Tutorial"
+  path: "https://markdownguide.offshoot.io/getting-started/"
+  categories: ["Markdown", "Documentation"]
+  description: "A web-based walk-through of Markdown basics"
+  skill: "Beginner"
+  type: "Tutorial"
+
+- title: "Awesome Markdown"
+  path: "https://github.com/mundimark/awesome-markdown#awesome-markdown"
+  categories: ["Markdown", "Documentation"]
+  description: "A listing of Markdown libraries, services, editors, tools, cheatsheets, etc."
+  skill: "Intermediate"
+  type: "Reference"
+
+- title: "Awesome Quarto"
+  path: "https://github.com/mcanouil/awesome-quarto"
+  categories: ["Quarto", "Documentation", "Markdown"]
+  description: "The most up to date curated list of Quarto docs, talks, tools, examples & articles the internet has to offer"
+  skill: "Intermediate"
+  type: "Reference"
+
+- title: "R Markdown Tips, Tricks, and Shortcuts"
+  path: "https://www.dataquest.io/blog/r-markdown-tips-tricks-and-shortcuts/"
+  categories: ["Markdown", "Markdown", "Documentation"]
+  description: "A blog post with some helpful tips and tricks for working with R Markdown in RStudio"
+  skill: "Intermediate"
+  type: "Blog"
+
+- title: "Trello Markdown Support"
+  path: "https://www.markdownguide.org/tools/trello/#trello-markdown-support"
+  categories: ["Markdown", "Trello", "Documentation"]
+  description: "A reference chart that indicates which Markdown features are supported in Trello, along with a link to their syntax"
+  skill: "Beginner"
+  type: "Reference"
+
+- title: "How to format your text in Trello"
+  path: "https://support.atlassian.com/trello/docs/how-to-format-your-text-in-trello/"
+  categories: ["Markdown", "Trello", "Documentation"]
+  description: "A quick guide to the keyboard shortcuts and Markdown features available in Trello"
+  skill: "Beginner"
+  type: "Tutorial"
+
+- title: "Quarto Example Gallery"
+  path: "https://quarto.org/docs/gallery/"
+  categories: ["Quarto", "Markdown", "Documentation"]
+  description: "Quarto can produce a wide variety of output formats. This resource contains examples of the following categories: Articles & Reports, Presentations, Dashboards, Websites, Books, Interactive Docs"
+  skill: "Beginner"
+  type: "Tutorial"
+
+- title: "The Design Philosophy of Great Tables"
+  path: "https://posit-dev.github.io/great-tables/blog/design-philosophy/"
+  categories: ["Documentation", "Great Tables", "Python"]
+  description: "Tables have come a long way and we've learned a lot from our continued research in tabular design. This article walks through the philosophy behind the Great Tables package"
+  skill: "Intermediate"
+  type: "Article"
