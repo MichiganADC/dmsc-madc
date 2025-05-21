@@ -1,31 +1,3 @@
-- title: "Zotero Quick-Start Guide"
-  path: "https://www.zotero.org/support/quick_start_guide"
-  categories: ["Citation Management"]
-  description: "An overview of Zotero’s features and capabilities from the Zotero team"
-  skill: "Beginner"
-  type: "Documentation"
-
-- title: "Zotero Research Guide"
-  path: "https://guides.lib.umich.edu/zotero"
-  categories: ["Citation Management"]
-  description: "A research guide developed by the University of Michigan Library with guidance on saving, organizing, and automating citation management"
-  skill: "Beginner"
-  type: "Reference"
-
-- title: "How To Use Zotero (A Complete Beginner’s Guide)"
-  path: "https://youtu.be/JG7Uq_JFDzE?si=E6ct16pIHbP0XmD4"
-  categories: ["Citation Management"]
-  description: "A (12 min) tutorial on how to use Zotero for beginners"
-  skill: "Beginner"
-  type: "Video"
-
-- title: "Upcoming Sessions from the Teaching and Technology Collaborative"
-  path: "https://ttc.iss.lsa.umich.edu/ttc/sessions/upcoming/sponsor/university-library/?mode=excerpt"
-  categories: ["Citation Management"]
-  description: "A listing of upcoming in-person workshops on citation management and research tools from the University of Michigan Library"
-  skill: "Intermediate"
-  type: "Workshops"
-
 - title: "Command Line for Beginners – How to Use the Terminal Like a Pro"
   path: "https://www.freecodecamp.org/news/command-line-for-beginners/"
   categories: ["Command-line Interface"]
@@ -1103,3 +1075,31 @@
   description: "Tables have come a long way and we've learned a lot from our continued research in tabular design. This article walks through the philosophy behind the Great Tables package"
   skill: "Intermediate"
   type: "Article"
+
+- title: "Zotero Quick-Start Guide"
+  path: "https://www.zotero.org/support/quick_start_guide"
+  categories: ["Citation Management"]
+  description: "An overview of Zotero’s features and capabilities from the Zotero team"
+  skill: "Beginner"
+  type: "Documentation"
+
+- title: "Zotero Research Guide"
+  path: "https://guides.lib.umich.edu/zotero"
+  categories: ["Citation Management"]
+  description: "A research guide developed by the University of Michigan Library with guidance on saving, organizing, and automating citation management"
+  skill: "Beginner"
+  type: "Reference"
+
+- title: "How To Use Zotero (A Complete Beginner’s Guide)"
+  path: "https://youtu.be/JG7Uq_JFDzE?si=E6ct16pIHbP0XmD4"
+  categories: ["Citation Management"]
+  description: "A (12 min) tutorial on how to use Zotero for beginners"
+  skill: "Beginner"
+  type: "Video"
+
+- title: "Upcoming Sessions from the Teaching and Technology Collaborative"
+  path: "https://ttc.iss.lsa.umich.edu/ttc/sessions/upcoming/sponsor/university-library/?mode=excerpt"
+  categories: ["Citation Management"]
+  description: "A listing of upcoming in-person workshops on citation management and research tools from the University of Michigan Library"
+  skill: "Intermediate"
+  type: "Workshops"
