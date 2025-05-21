@@ -3,7 +3,6 @@ title: "Publications"
 format: html
 page-layout: full
 listing:
-  categories: true
   type: table
   table-hover: true
   contents:
