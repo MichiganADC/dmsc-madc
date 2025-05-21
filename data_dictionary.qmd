@@ -1,3 +1,11 @@
 ---
 title: "Data Dictionary"
 ---
+
+This page will provide definitions and documentation for variables used across the Michigan Alzheimer’s Disease Center’s (MADC) research data systems. It will include both standardized fields from the National Alzheimer’s Coordinating Center (NACC) and locally defined variables from MADC-specific protocols.
+
+We are currently compiling and validating our data dictionary to ensure accuracy and usability. Once complete, this resource will support consistent data entry, interpretation, and reuse across studies.
+
+::: {.callout-note}
+**Stay tuned:** More to come as we finalize formatting and content.
+:::

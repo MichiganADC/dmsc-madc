@@ -2,19 +2,17 @@
 title: "Label Libraries"
 format: html
 ---
+We are in the process of developing a set of standardized label libraries to support consistent variable and value labeling across our datasets. These libraries will be available in formats compatible with commonly used statistical software such as R, SPSS, and SAS.
 
-## Uniform Data Set (UDS) v3
+Our initial focus is on creating a core library covering the standard variables most commonly included in MADC data requests. In the future, we aim to expand this to include form-specific label sets to further streamline data preparation and documentation.
 
-|    Form    |         Title        |      CSV       |      R       |     SAS      |    SPSS      |   Stata      |
-|------------|----------------------|----------------|--------------|--------------|--------------|--------------|
-| Form A1    | Subject Demographics |  [Download]()  | [Download]() | [Download]() | [Download]() | [Download]() |
-| Form A2    | Co-participant Demographics |  [Download]()  | [Download]() | [Download]() | [Download]() | [Download]() |
-| Form A3    | Subject Family History |  [Download]()  | [Download]() | [Download]() | [Download]() | [Download]() |
+*This resource is under development, check back soon for updates!*
 
-## Uniform Data Set (UDS) v4
+::: {.callout-note}
+**Coming Soon:** The download links below are placeholders. Finalized label libraries will be available here once development is complete.
+:::
 
-|    Form    |         Title        |      CSV       |      R       |     SAS      |    SPSS      |   Stata      |
-|------------|----------------------|----------------|--------------|--------------|--------------|--------------|
-| Form A1    | Subject Demographics |  [Download]()  | [Download]() | [Download]() | [Download]() | [Download]() |
-| Form A2    | Co-participant Demographics |  [Download]()  | [Download]() | [Download]() | [Download]() | [Download]() |
-| Form A3    | Subject Family History |  [Download]()  | [Download]() | [Download]() | [Download]() | [Download]() |
+|    Label Library            |      CSV       |      R       |     SAS      |    SPSS      |   Stata      |
+|-----------------------------|----------------|--------------|--------------|--------------|--------------|
+| Standard Dataset            |  [Download]()  | [Download]() | [Download]() | [Download]() | [Download]() |
+

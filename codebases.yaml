@@ -1,5 +1,5 @@
 - title: "Upload Biomarker and Longitudinal (BAL) data to REDCap system"
   authors: "Jonathan M. Reader"
   path: "assets/codebases/upload_bal_data_to_redcap.qmd"
-  categories: ["R", "Quarto", "REDCap", "", nacc]
+  categories: ["R", "Quarto", "REDCap", "NACC"]
   description: "A protocol for uploading Biomarker and Longitudinal (BAL) data returned from the National Alzheimer’s Coordinating Center (NACC) into the REDCap system."  

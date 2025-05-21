@@ -19,4 +19,6 @@ listing:
     categories: "Categories"
 ---
 
-This page showcases scholarly work produced by the members of the Data Core in collaboration with investigators at the Michigan Alzheimer’s Disease Research Center (Michigan ADRC), including peer-reviewed manuscripts, posters, abstracts, and tools. It reflects our commitment to transparency, collaboration, and advancing Alzheimer’s disease and related dementias (ADRD) research.
+This page showcases scholarly work produced by members of the Data Core in collaboration with investigators at the Michigan Alzheimer’s Disease Research Center (Michigan ADRC). It features peer-reviewed manuscripts, conference posters, and abstracts that reflect our commitment to transparency, collaboration, and advancing Alzheimer’s disease and related dementias (ADRD) research.
+
+The publication list is *searchable and sortable*, and is actively maintained as new work becomes available. Data tools and code-based resources can now be found on the [Codebases](./codebases.qmd) page.
