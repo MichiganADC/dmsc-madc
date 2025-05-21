@@ -3,9 +3,10 @@ title: "Codebases"
 format: html
 page-layout: full
 listing:
+  categories: cloud
   type: grid
   contents:
     - codebases.yaml
-  fields: [title, authors, categories]
+  fields: [title, authors, categories, description]
   grid-item-align: center
 ---

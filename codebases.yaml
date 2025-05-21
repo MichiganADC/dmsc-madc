@@ -3,3 +3,4 @@
   link: "https://github.com/MichiganADC/dmsc-madc"
   path: "https://github.com/MichiganADC/dmsc-madc"
   categories: ["r", "quarto", "github pages", "github actions"]
+  description: "A public GitHub site for resources from the Michigan Alzheimer's Disease Center's Data Management and Statistical Core"
