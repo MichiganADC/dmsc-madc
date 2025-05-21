@@ -1,3 +1,21 @@
 ---
-title: "Statistical Resources & Educational Materials"
+title: "Resource Library"
+format: html
+page-layout: full
+listing:
+  type: grid
+  grid-item-align: center
+  categories: cloud
+  contents:
+    - resources.yaml
+  fields: [title, categories, skill, description, type]
+  field-display-names:
+    skill: "Skill Level"
+    description: "Description"
+    type: "Type"
 ---
+
+Curated by the Michigan Alzheimer’s Disease Center’s (MADC) Data Core, this resource library offers a growing collection of tools, tutorials, and references designed to support both new and current staff in building technical skills that enhance the Center’s daily operations. You can explore the full list below or click on a category in the right-hand sidebar to filter resources by topic.
+
+_**Feedback and Suggestions**_\
+We welcome your input! If you have suggestions for additional resources or general feedback about the library, please [submit them using this form](https://forms.office.com/r/Y5DYvLgYEJ). The Data Core team regularly reviews submissions and updates the library to ensure it remains current and relevant.
