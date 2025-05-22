@@ -29,7 +29,7 @@ website:
           href:  data_dictionary.qmd
         - text: Label Libraries
           href: label_libraries.qmd
-        - text: Request MADRC Data
+        - text: Request Michigan ADRC Data
           href:  request_madrc_data.qmd
       - text: Publications
         href:  publications.qmd
@@ -52,9 +52,6 @@ website:
         - icon: globe
           href: https://medresearch.umich.edu/labs-departments/centers/madc
           aria-label: Website
-        - icon: book
-          href: https://bit.ly/madc-learn
-          aria-label: MADC Learning Resource Library
 
 format:
   html:
