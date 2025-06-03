@@ -120,13 +120,13 @@ Statistician
 :::
 
 ::: {.g-col-4}
-### **Student Research Assistants**
+### **Student Interns**
 :::
 
 ::: {.g-col-4}
-[![Jenna Anderson, Research Assistant](assets/images/Anderson_Jenna2.jpg)](assets/team_bios/jenna_anderson.qmd)
+[![Jenna Anderson, Graduate Student Summer Intern](assets/images/Anderson_Jenna2.jpg)](assets/team_bios/jenna_anderson.qmd)
 [**Jenna Anderson**](assets/team_bios/jenna_anderson.qmd)     
-Research Assistant
+Graduate Student Summer Intern
 :::
 
 ::: {.g-col-4}

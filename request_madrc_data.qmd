@@ -1,8 +1,8 @@
 ---
-title: "Request MADRC Data"
+title: "Request Michigan ADRC Data"
 ---
 
-This page will provide clear, step-by-step guidance for submitting data requests through the Michigan Alzheimer’s Disease Center’s (MADC) updated request process. It is designed to support all stakeholders (whether you're a researcher, administrative staff member, or internal collaborator) by outlining each step from submission to data delivery.
+This page will provide clear, step-by-step guidance for submitting data requests through the Michigan Alzheimer’s Disease Research Center’s (MADRC) updated request process. It is designed to support all stakeholders (whether you're a researcher, administrative staff member, or internal collaborator) by outlining each step from submission to data delivery.
 
 We are currently finalizing a new data request portal, which will streamline intake and tracking of requests across teams. Once launched, this page will serve as a central reference for understanding timelines, requirements, and available support resources.
 

@@ -4,12 +4,12 @@ title: "Jenna Anderson"
 ::: {.grid}
 
 ::: {.g-col-6}
-![Jenna Anderson, Research Assistant](../images/Anderson_Jenna2.jpg)
+![Jenna Anderson, Graduate Student Summer Intern](../images/Anderson_Jenna2.jpg)
 :::
 
 ::: {.g-col-6}
 
-Jenna Joined the Michigan Alzheimer’s Disease Center in the summer of 2023 and was a member of the Clinical Core until the Fall of 2024 when she joined the Data Core as a Research Assistant (Temp). She earned her B.S. in Psychology from Virginia Commonwealth University in 2018 and is currently obtaining her MPH in Epidemiology at the University of Michigan. Jenna's role in data core includes: prepping and handling visit packets for various studies, entering data into REDCap, and various other small projects. Reach out to Jenna if you have any questions regarding participant visits or specific visit questions. In her free time, Jenna loves to play different sports, like soccer and judo, and enjoys traveling.  
+Jenna Joined the Michigan Alzheimer’s Disease Center in the summer of 2023 and was a member of the Clinical Core until the Fall of 2024 when she joined the Data Core as a Graduate Student Summer Intern. She earned her B.S. in Psychology from Virginia Commonwealth University in 2018 and is currently obtaining her MPH in Epidemiology at the University of Michigan. Jenna's role in data core includes: prepping and handling visit packets for various studies, entering data into REDCap, and various other small projects. Reach out to Jenna if you have any questions regarding participant visits or specific visit questions. In her free time, Jenna loves to play different sports, like soccer and judo, and enjoys traveling.  
 
 :::
 :::
