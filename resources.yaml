@@ -1103,3 +1103,10 @@
   description: "A listing of upcoming in-person workshops on citation management and research tools from the University of Michigan Library"
   skill: "Intermediate"
   type: "Workshops"
+
+- title: "5 Best SQL Games to Master Database Skills in 2025"
+  path: "https://www.sqlnoir.com/blog/games-to-learn-sql"
+  categories: ["SQL", "Databases"]
+  description: "An article that highlights engaging, game-based platforms that teach SQL through interactive challenges and storytelling, making learning both fun and effective"
+  skill: "All Levels"
+  type: "Article"
