@@ -20,28 +20,37 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - about.qmd
+        aria-label: Home
+      - href: about.qmd
+        text: About
+        aria-label: About
       - text: Data
+        aria-label: Data
         menu:
         - text: Codebases
           href:  codebases.qmd
+          aria-label: Codebases
         - text: Data Dictionary
           href:  data_dictionary.qmd
+          aria-label: Data Dictionary
         - text: Label Libraries
           href: label_libraries.qmd
+          aria-label: Label Libraries
         - text: Request Michigan ADRC Data
           href:  request_madrc_data.qmd
+          aria-label: Request Michigan ADRC Data
       - text: Publications
         href:  publications.qmd
+        aria-label: Publications
       - text: Resources
         href:  resources.qmd
+        aria-label: Resources
   announcement:
     content: "This site is currently in development, and we’re actively working to enhance its features and content. Please stay tuned for updates and improvements as we continue to build and refine the platform. Thank you for your patience and support!"
     position: below-navbar
     dismissable: true
     icon: cone-striped
     type: info
-
   page-footer:
       center:
         - text: "&copy; 2025 Michigan Alzheimer's Disease Center. All Rights Reserved."
@@ -52,7 +61,6 @@ website:
         - icon: globe
           href: https://medresearch.umich.edu/labs-departments/centers/madc
           aria-label: Website
-
 format:
   html:
     theme: yeti
