@@ -156,7 +156,7 @@
   authors: "Elizabeth Charnysh, Khyati Sanghavi, Kelly A Ryan, Allison Vogle, Amanda Truhlar, Subhamoy Pal, Jonathan M Reader, J Scott Roberts, Chanita Lee, Alexandra E R Prince and William G Feero"
   journal: "Human Genetics and Genomic Advances"
   year: "2025"
-  date: "2025-01-01"  # Placeholder date – update if a publication date is available
+  date: "2025-01-01"  
   volume: ""
   issue: ""
   pages: ""
@@ -170,7 +170,7 @@
   authors: "Bilal Irfan, Emily Wiseman, Jason W Boyd, Jonathan Reader and Annalise Rahman-Filipiak"
   journal: "Journal of Alzheimer's Disease"
   year: "2025"
-  date: "2025-05-01"  # Approximate date for advance online publication – adjust if needed
+  date: "2025-05-01"
   volume: ""
   issue: ""
   pages: ""
@@ -179,3 +179,102 @@
   path: "https://doi.org/10.1177/13872877251343319"
   categories: ["Dementia Risk", "Return of Results", "Ethics", "Person-Centered Care", "Neuroethics", "Alzheimer's Research"]
   type: "Publication"
+
+- title: "Microstructural integrity of medial temporal lobe in relation to plasma concentration of TDP-43 in older adults with amnestic mild cognitive impairment or dementia"
+  authors: "Devignes, Q., Pruitt, P.J., Kanaan, N.M., DuBois, K.N., Petscavage, K., Koeppe, R.A., Albin, R.L., Peltier, S., Rahman-Filipiak, A., Giordani, B., Iordan, A.D., Hampstead, B.M."
+  journal: "Michigan Alzheimer's Disease Research Center's 9th annual Beyond Amyloid Research Symposium"
+  year: "2025"
+  date: "2025-05-30"
+  doi: ""
+  link: ""
+  path: ""
+  categories: ["TDP-43", "Medial Temporal Lobe", "Mild Cognitive Impairment", "Dementia", "Plasma Biomarkers", "Neuroimaging", "Neurodegeneration"]
+  type: "Poster"
+
+- title: "Establishing the utility of a plasma biomarker panel by comparing to PET gold standards through the STIM study"
+  authors: "DuBois, K.N., Iordan, A.D., Rahman-Filipiak, A., Albin, R., Koeppe, R., Devignes, Q., Petscavage, K., Perkins, M.D., Khobeir, N., Hampstead, B.M., Kanaan, N.M."
+  journal: "Michigan Alzheimer's Disease Research Center's 9th annual Beyond Amyloid Research Symposium"
+  year: "2025"
+  date: "2025-05-30"
+  doi: ""
+  link: ""
+  path: ""
+  categories: ["Plasma Biomarkers", "PET Imaging", "STIM Study", "Alzheimer’s Disease", "Amyloid", "Tau", "Clinical Validation"]
+  type: "Poster"
+
+- title: "The impact of returning individual research results: Program evaluation of the Michigan Alzheimer's Disease Research Center's participant feedback program"
+  authors: "Flores, B., Kohl, H., Maher, A., Posby, B., Gierzynski, T., Whitaker, G., Pleskaczynska, J., Reader, J., Hampstead, B.M., Roberts, S., Rahman-Filipiak, A."
+  journal: "Michigan Alzheimer's Disease Research Center's 9th annual Beyond Amyloid Research Symposium"
+  year: "2025"
+  date: "2025-05-30"
+  doi: ""
+  link: ""
+  path: ""
+  categories: ["Return of Results", "Participant Engagement", "Ethics", "Research Communication", "Program Evaluation", "Alzheimer’s Research", "Feedback Mechanisms"]
+  type: "Poster"
+
+- title: "Segregation of attentional networks is associated with visuospatial performance in older adults with cognitive impairment"
+  authors: "Hernandez-Reyes, K., Liu, Y., Petscavage, K.M., Rahman-Filipiak, A., Peltier, S., Giordani, B., Albin, R., Hampstead, B.M., Iordan, A.D."
+  journal: "Michigan Alzheimer's Disease Research Center's 9th annual Beyond Amyloid Research Symposium"
+  year: "2025"
+  date: "2025-05-30"
+  doi: ""
+  link: ""
+  path: ""
+  categories: ["Cognitive Impairment", "Attentional Networks", "Functional Connectivity", "fMRI", "Visuospatial Skills", "Neurocognition", "Network Segregation"]
+  type: "Poster"
+
+- title: "Associations between visuospatial cognition and amyloid and tau accumulation in amnestic mild cognitive impairment and dementia of Alzheimer's type"
+  authors: "Kelley, M., Devignes, Q., Harrie, A., Petscavage, K.M., Koeppe, R.A., Albin, R.L., Rahman-Filipiak, A., Iordan, A.D., Giordani, B., Hampstead, B.M., Pruitt, P.J."
+  journal: "Michigan Alzheimer's Disease Research Center's 9th annual Beyond Amyloid Research Symposium"
+  year: "2025"
+  date: "2025-05-30"
+  doi: ""
+  link: ""
+  path: ""
+  categories: ["Amyloid", "Tau", "MCI", "Dementia", "Visuospatial Cognition", "PET Imaging", "Biomarker Associations"]
+  type: "Poster"
+
+- title: "Characterizing brain region-specific gene expression changes in the lead exposed mouse brain"
+  authors: "Matei, E., Morgan, R., Tapaswi, A., Miller, J., Wang, H., Zhou, X., Bakulski, K., Dolinoy, D., Colacino, J."
+  journal: "Michigan Alzheimer's Disease Research Center's 9th annual Beyond Amyloid Research Symposium"
+  year: "2025"
+  date: "2025-05-30"
+  doi: ""
+  link: ""
+  path: ""
+  categories: ["Gene Expression", "Lead Exposure", "Mouse Models", "Environmental Toxicology", "Brain Regions", "Transcriptomics", "Neurotoxicity"]
+  type: "Poster"
+
+- title: "Rethinking the obesity paradox: BMI and longitudinal cognitive decline in older adults"
+  authors: "Pal, S., Irfan, B., Reader, J., Bakulski, K., Kavcic, V., Giordani, B."
+  journal: "Michigan Alzheimer's Disease Research Center's 9th annual Beyond Amyloid Research Symposium"
+  year: "2025"
+  date: "2025-05-30"
+  doi: ""
+  link: ""
+  path: ""
+  categories: ["Obesity Paradox", "BMI", "Cognitive Decline", "Aging", "Longitudinal Studies", "Older Adults", "Public Health"]
+  type: "Poster"
+
+- title: "Assessing the role of Aβ and tau in modulating HD-tDCS electric fields in cognitive impairment"
+  authors: "Pardo, C., Devignes, Q., Liu, Y., Petscavage, K., Koeppe, R.A., Peltier, S.J., Albin, R.L., Rahman-Filipiak, A., Iordan, A.D., Hampstead, B.M., Pruitt, P.J."
+  journal: "Michigan Alzheimer's Disease Research Center's 9th annual Beyond Amyloid Research Symposium"
+  year: "2025"
+  date: "2025-05-30"
+  doi: ""
+  link: ""
+  path: ""
+  categories: ["HD-tDCS", "Amyloid", "Tau", "Neurostimulation", "Cognitive Impairment", "Electric Field Modeling", "Neuromodulation"]
+  type: "Poster"
+
+- title: "Subjective cognitive decline is associated with weaker long-term potentiation-like cortical neuroplasticity in older adults"
+  authors: "Risto, C., Devignes, Q., Garcia, C., Petscavage, K., Vesia, M., Iordan, A.D., Hampstead, B.M."
+  journal: "Michigan Alzheimer's Disease Research Center's 9th annual Beyond Amyloid Research Symposium"
+  year: "2025"
+  date: "2025-05-30"
+  doi: ""
+  link: ""
+  path: ""
+  categories: ["Subjective Cognitive Decline", "Neuroplasticity", "LTP-like Mechanisms", "TMS", "Older Adults", "Cortical Excitability", "Cognition"]
+  type: "Poster"
