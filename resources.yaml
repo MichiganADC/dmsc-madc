@@ -1110,3 +1110,31 @@
   description: "An article that highlights engaging, game-based platforms that teach SQL through interactive challenges and storytelling, making learning both fun and effective"
   skill: "All Levels"
   type: "Article"
+
+- title: "Bare Necessities of Data Management"
+  path: "https://cghlewis.com/blog/project_beginning/"
+  categories: ["Data Management"]
+  description: "A practical guide to the most essential data management practices research teams should implement before data collection begins, especially when resources are limited."
+  skill: "Beginner"
+  type: "Blog"
+
+- title: "Data Management in Large-Scale Education Research"
+  path: "https://datamgmtinedresearch.com/"
+  categories: ["Data Management", "Research Lifecycle"]
+  description: "A practical, open‑access handbook offering education researchers a step‑by‑step framework for implementing best-in-class data management throughout the full research lifecycle."
+  skill: "Beginner"
+  type: "Book"
+
+- title: "Data Wrangling Functions"
+  path: "https://github.com/Cghlewis/data-wrangling-functions/wiki"
+  categories: ["Data Wrangling", "Tidyverse", "R"]
+  description: "A reference resource of data wrangling functions in R by [Research Data Management Consultant, Crystal Lewis](https://cghlewis.com/)"
+  skill: "Beginner"
+  type: "Wiki"
+
+- title: "A Comparison of Packages to Generate Codebooks in R"
+  path: "https://cghlewis.github.io/rladies-nyc-codebook-comparison/#/title-slide"
+  categories: ["Data Management", "Documentation", "R"]
+  description: "Slides and [a table](https://cghlewis.github.io/codebook-pkg-comparison/) from a presentation by [Research Data Management Consultant, Crystal Lewis](https://cghlewis.com/) on various codebook packages in R"
+  skill: "Beginner"
+  type: "Slides"
