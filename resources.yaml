@@ -1138,3 +1138,17 @@
   description: "Slides and [a table](https://cghlewis.github.io/codebook-pkg-comparison/) from a presentation by [Research Data Management Consultant, Crystal Lewis](https://cghlewis.com/) on various codebook packages in R"
   skill: "Beginner"
   type: "Slides"
+
+- title: "REDCap Training Series"
+  path: "https://www.iths.org/investigators/services/bmi/redcap/curriculum/"
+  categories: ["Database Management", "REDCap"]
+  description: "A structured REDCap training series from ITHS offering ten classes, from basics to advanced topics like logic, longitudinal design, and mobile surveys, to support the full REDCap project lifecycle."
+  skill: "All"
+  type: "Tutorials"
+
+- title: "Intro to SQL"
+  path: "https://intro-sql-fh.netlify.app/"
+  categories: ["SQL", "Database Management"]
+  description: "A concise, interactive four-week course teaching the fundamentals of connecting to and querying databases with SQL, covering basics like `SELECT`, `JOIN`, `GROUP BY`, subqueries, views, and applying SQL to the OMOP data model."
+  skill: "Beginner"
+  type: "Course"
