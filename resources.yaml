@@ -1152,3 +1152,10 @@
   description: "A concise, interactive four-week course teaching the fundamentals of connecting to and querying databases with SQL, covering basics like `SELECT`, `JOIN`, `GROUP BY`, subqueries, views, and applying SQL to the OMOP data model."
   skill: "Beginner"
   type: "Course"
+
+- title: "R Workshop: Handling Uncertainty in your Data"
+  path: "https://spressi.github.io/precision_workshop/"
+  categories: ["R", "Data Wrangling", "Data Visualization"]
+  description: "An interactive R-based biostatistics course developed by Mario Reutter, focused on understanding and visualizing statistical precision and uncertainty using tools like confidence intervals, data wrangling, and visualization."
+  skill: "Beginner"
+  type: "Workshop"
