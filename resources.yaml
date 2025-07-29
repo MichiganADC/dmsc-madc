@@ -1159,3 +1159,10 @@
   description: "An interactive R-based biostatistics course developed by Mario Reutter, focused on understanding and visualizing statistical precision and uncertainty using tools like confidence intervals, data wrangling, and visualization."
   skill: "Beginner"
   type: "Workshop"
+
+- title: "AI for the Skeptical Scholar: Practical Strategies for Using LLMs in Research"
+  path: "https://teal-insights.github.io/soas_llm_training/"
+  categories: ["Generative AI", "Large Language Models"]
+  description: "A concise, July 2025 workshop guide for experienced researchers on pragmatic, validated use of LLMs, covering prompt basics, literature-review support, coding assistance, and a large‑scale text‑classification case study, while clearly addressing limitations and tool choices."
+  skill: "Beginner"
+  type: "Workshop"
