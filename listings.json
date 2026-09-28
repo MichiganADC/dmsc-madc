@@ -1,5 +1,9 @@
 [
   {
+    "listing": "/resources.html",
+    "items": []
+  },
+  {
     "listing": "/publications.html",
     "items": []
   },
@@ -8,9 +12,5 @@
     "items": [
       "/assets/codebases/upload_bal_data_to_redcap.html"
     ]
-  },
-  {
-    "listing": "/resources.html",
-    "items": []
   }
 ]
