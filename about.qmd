@@ -72,22 +72,6 @@ Data Systems Manager
 Data Entry Specialist
 :::
 
-
-::: {.g-col-4}
-[![Haley Payne, Research Assistant](assets/images/Payne_Haley.jpg)](assets/team_bios/haley_payne.qmd)
-[**Haley Payne**](assets/team_bios/haley_payne.qmd)      
-Research Assistant
-:::
-
-::: {.g-col-4}
-:::
-
-::: {.g-col-4}
-[![T.J. Rogers, Database Administrator](assets/images/Rogers_Tajuan.jpg)](assets/team_bios/tj_rogers.qmd)
-[**T.J. Rogers**](assets/team_bios/tj_rogers.qmd)      
-Database Administrator   
-:::
-
 ::: {.g-col-4}
 :::
 
@@ -102,31 +86,12 @@ Data Analyst / Programmer
 :::
 
 ::: {.g-col-4}
-[![Miranda Cooper, Data Analyst / Programmer](assets/images/Cooper_Miranda.jpg)](assets/team_bios/miranda_cooper.qmd)
-[**Miranda Cooper**](assets/team_bios/miranda_cooper.qmd)      
-Data Analyst / Programmer
-:::
-
-::: {.g-col-4}
 :::
 
 ::: {.g-col-4}
 [![Subhamoy Pal, Statistician](assets/images/Pal_Subhamoy.jpg)](assets/team_bios/subhamoy_pal.qmd)
 [**Subhamoy Pal**](assets/team_bios/subhamoy_pal.qmd)      
 Statistician
-:::
-
-::: {.g-col-4}
-:::
-
-::: {.g-col-4}
-### **Student Interns**
-:::
-
-::: {.g-col-4}
-[![Jenna Anderson, Graduate Student Summer Intern](assets/images/Anderson_Jenna2.jpg)](assets/team_bios/jenna_anderson.qmd)
-[**Jenna Anderson**](assets/team_bios/jenna_anderson.qmd)     
-Graduate Student Summer Intern
 :::
 
 ::: {.g-col-4}
